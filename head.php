@@ -42,6 +42,7 @@
   <link href="css/reports.css" rel="stylesheet">
   <link href="css/transactions.css" rel="stylesheet">
   <link href="css/progressbar.css" rel="stylesheet">
+  <link href="css/whtru.css" rel="stylesheet">
   <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
 
 
