@@ -1,0 +1,140 @@
+.trans-con {
+	
+}
+
+.trans-con .trans-row {
+	border-radius: 10px;
+}
+
+.trans-row > .row > div[class*='col']:last-child > div[class*='col']:first-child {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    margin-left: -1px;
+    min-height: 159px;
+}
+
+.v-row-stat.unwound2-stat p {
+  color: #fff;
+  width: 100%;
+  background-color: #999;
+  padding: 20px 0;
+  border-radius: 100px;
+}
+
+
+@media (min-width: 992px) {
+
+	.trans-row .trans-vr-photo img.img-responsive {
+		max-height: initial !important;
+		width: 100%;
+	}
+
+
+
+}
+
+
+@media (max-width: 1198px) {
+
+	.trans-row .trans-vr-photo img.img-responsive {
+		max-height: inherit !important;
+		width: 100%;
+		border-radius: 10px 10px 0 0;
+	}
+
+	.trans-row .no-padding-right {
+		padding-right: 15px !important;
+	}
+
+	.trans-row .no-padding-left {
+		padding-left: 15px !important;
+	}
+
+	.trans-row .padding-left-lg {
+		padding-left: 15px !important;
+	}
+
+	.trans-row .padding-right-lg {
+		padding-left: 15px !important;
+	}
+
+	.vr-name {
+		padding: 5px 10px;
+		font-size: 14px;
+	}
+	.vr-name span {
+		float: none !important;
+		font-family: 'Roboto';
+		display: block;
+		font-weight: normal;
+		margin-top: 10px;
+		font-size: 12px;
+	}
+
+	.row.v-row-col {
+    padding-left: 10px;
+    padding-right: 10px;
+	}
+
+	.v-row-col .padding-right-lg {
+		padding-right: 15px;
+	}
+
+	.v-row-col > div[class*='col'] {
+		min-height: inherit;
+		border-right: none;
+	}
+
+	.trans-row > .row > div[class*='col']:last-child > div[class*='col']:first-child {
+    border-left: none;
+    border-right: none;
+    margin-left: 0px;
+    min-height: 159px;
+}
+
+	.trans-row > .row > div[class*='col']:last-child > div[class*='col']:first-child {
+		min-height: inherit;
+	}
+
+	.v-row-stat .trans-stat-icon {
+    width: 60px;
+	}
+
+	.v-row-stat {
+    min-height: 60px;
+	}
+
+	ul.v-row-list li p {
+    font-size: 12px;
+	}
+
+	.v-row-actions-right {
+    float: right;
+	}
+
+	.v-row-actions-right a svg {
+		margin-left: 10px !important;
+	} 
+
+	.page-actions {
+    margin-bottom: 10px;
+	}
+	.v-row-actions a, .v-row-actions > .v-row-actions-right {
+    display: inline-block;
+
+	}
+
+	.v-row-actions {
+    padding: 20px 10px 15px 20px;
+    border-top: 1px solid #ccc;
+    display: flow-root;
+	}
+
+	.v-row-actions a svg {
+    /*height: auto;*/
+    margin: 0;
+    margin-right: 10px !important;
+    float: left;
+	}
+
+}

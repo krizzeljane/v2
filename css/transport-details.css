@@ -1,0 +1,59 @@
+.td-vi {
+	
+}
+
+#transport-details .panel {
+	padding: 0 !important;
+}
+
+#transport-details .panel .panel-heading h5 {
+	margin: 0;
+}
+
+.td-vi p {
+	margin-bottom: 5px;
+}
+
+#transport-details .form-group {
+	margin-bottom: 0;
+}
+
+#transport-details .form-group.total label,
+#transport-details .form-group.total p {
+	font-size: 18px;
+	font-weight: bold;
+	color: #12ba12;
+}
+
+.form-horizontal label {
+	font-size: inherit;
+	text-align: left !important;
+}
+
+.td-stat-bar {
+    margin-top: 30px;
+}
+.td-stat-bar p {
+    font-size: 12px;
+    border-bottom: 7px solid #ccc;
+    padding-bottom: 7px;
+     text-align: center;
+}
+
+@media (max-width: 992px) {
+	.td-stat-bar p {
+		height: 50px;
+	}
+}
+
+.td-stat-bar p.active {
+    border-color: #12ba12;
+    color: #12ba12;
+
+}
+
+.td-stat-bar p.active:after {
+	content: '\f058';
+  font-family: 'FontAwesome';
+  margin-left: 5px;
+}

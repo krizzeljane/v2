@@ -1,0 +1,292 @@
+.trans-f >.row {
+
+}
+
+.trans-f >.row > div[class*='col'] {
+
+}
+
+.panel.trans-v-row {
+	padding: 0;
+	cursor: pointer;
+}
+
+.panel.trans-v-row .row > div[class*='col'] {
+	/*  padding: 0;*/
+}
+
+.vr-name {
+	font-size: 16px;
+}
+
+.vr-name > a {
+	cursor: pointer;
+	color: #555;
+}
+
+.trans-v-row > .row > div[class*='col']:last-child {
+	border-left: 1px solid #ddd;
+	margin-left: -1px;
+
+}
+
+.trans-v-row > .row > div[class*='col']:last-child > div[class*='col']:first-child {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	margin-left: -1px;
+	min-height: 159px;
+}
+
+.v-row-col > div[class*='col'] {
+	border-right: 1px solid #ddd;
+	min-height: 119px;
+}
+
+.v-row-actions svg, .v-row-actions i {
+	width: 100%;
+	display: block;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 35px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.v-row-actions a:last-child svg, .v-row-actions a:last-child i {
+	margin-bottom: 0;
+}
+
+.trans-vr-photo img.img-responsive {
+	max-height: 167px;
+	margin-right: 0;
+	margin-left: auto;
+	margin: 0 auto;
+}
+
+ul.v-row-list {
+	margin-bottom: 0;
+}
+
+ul.v-row-list li p {
+	position: relative;
+}
+
+ul.v-row-list li .btn {
+	margin-bottom: 5px;
+}
+
+.trans-stat {
+	margin-top: 10px;
+	padding-bottom: 5px;
+}
+
+
+.v-row-stat {
+    border-radius: 100px;
+    min-height: 70px;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.v-row-stat .trans-stat-icon {
+    min-height: 100%;
+    border-radius: 100px;
+    overflow: hidden;
+    float: left;
+    position: relative;
+    width: 70px;
+}
+
+.v-row-stat p {
+  text-align: center;
+  width: 90%;
+  color: white;
+  margin: 0;
+}
+
+.v-row-stat.user-stat p {
+  color: #333;
+  width: 100%;
+}
+
+.v-row-stat .stat-text {
+    padding-top: 10px;
+    line-height: 16px;
+}
+
+.v-row-stat p.stat-amount {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.v-row-stat.unwound-stat p {
+	color: #666;
+	width: 100%;
+}
+.v-row-stat.success-stat {
+  /*background-color: #12ba12;*/
+  background-color: #00A209;
+}
+
+.v-row-stat.primary-stat {
+    /*background-color: #3c9ad3;*/
+  background-color: #625D8B;
+}
+
+.v-row-stat.user-stat {
+    background-color: #f1f1f1;
+}
+
+.v-row-stat.ti {
+    min-height: 60px;
+}
+.v-row-stat.ti p,
+.v-row-stat.ti p  {
+    width: 100%;
+}
+
+
+.trans-stat .btn {
+	margin-bottom: 5px;
+}
+/*
+.trans-stat p {
+	text-align: center;
+	width: 90%;
+}
+
+.trans-stat .v-row-stat .stat-text { 
+	line-height: 16px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	font-weight: 500;
+	text-align: center;
+	display: block;
+}
+
+.trans-stat .v-row-stat .stat-amount { 
+	line-height: 14px;
+	padding: 0px;
+	font-size: 16px;
+	border-radius: 50px;
+	font-weight: 600;
+	position: relative;
+	min-height: 60px;
+}
+
+.trans-stat .v-row-stat.success-stat .stat-text {
+	color: #ffffff;
+	font-weight: 400;
+	margin: 0 0 5px;
+	padding-top: 10px;
+	width: 90%;
+}
+
+.trans-stat .v-row-stat.success-stat .stat-amount {
+	background-color: #12ba12;
+	color: white;
+}
+
+.trans-stat .v-row-stat.alert-stat .stat-text {
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+	padding-top: 10px;
+	width: 90%;
+}
+
+.trans-stat .v-row-stat.alert-stat .stat-amount {
+	background-color: #3c9ad3;
+	color: white;
+}
+
+.trans-stat .v-row-stat.unwound-stat .stat-text {
+	color: #666;
+}
+
+.trans-stat .v-row-stat.unwound-stat .stat-amount {
+	background-color: #666;
+	color: white;
+}
+
+.trans-stat .v-row-stat.adj-stat .stat-text {
+	color: #555;
+}
+
+.trans-stat .v-row-stat.adj-stat .stat-amount {
+	background-color: #f1f1f1;
+	color: 555;
+}
+
+.trans-stat-icon {
+	border-radius: 100%;
+	overflow: hidden;
+	margin-bottom: 10px;
+	float: left;
+	height: 100%;
+	position: relative;
+}*/
+
+a.vrow-edit > i,
+a.vrow-edit > svg {
+	display: none;
+}
+
+#arb-2 {
+	display: none;
+}
+
+.con-emp.text-center {
+	height: 50vh;
+	display: table;
+	width: 100%;
+	vertical-align: middle;
+}
+
+.con-emp p {
+	vertical-align: middle;
+	display: table-cell;
+}
+
+.con-emp p em {
+	display: block;
+}
+
+
+span.notif-badge {
+    position: relative;
+    display: inline-block;
+    z-index: 2;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    width: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50px;
+    margin-left: 8px;
+    /* top: -3px; */
+}
+
+.btn .notif-badge {
+    float: right;
+    font-size: inherit;
+    width: 18px;
+    line-height: 18px;
+}
+
+p.buyer-icon-arrow .notif-badge {
+    font-size: 12px;
+    line-height: 18px;
+    width: 18px;
+    margin-right: 8px;
+    top: -3px;
+}
+
+ul.dropdown-menu li a .notif-badge {
+    width: 7px;
+    height: 7px;
+    float: right;
+    top: 6px;
+}

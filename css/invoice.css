@@ -1,0 +1,140 @@
+.invoice {
+	padding: 20px;
+}
+
+.invoice .vi-kbb .panel {
+	padding: 20px;
+}
+
+.invoice p {
+	font-weight: 300;
+	color: #666;
+}
+
+.invoice-header {
+	background-color: #3B356E;
+	padding: 15px 40px;
+}
+
+.invoice-header p {
+	    margin: 0 auto;
+    font-weight: 300;
+    opacity: 0.7;
+    color: white;
+    font-size: 12px;
+    margin-left: 16px;
+    margin-top: -6px;
+}
+
+.invoice-header img {
+	/*width: 270px;
+	margin-bottom: 10px;*/
+}
+
+.invoice-modal .panel .panel-heading {
+	border-bottom: none;
+}
+
+.inv-v-info p {
+    margin-bottom: 5px;
+}
+
+.inv-v-users p {
+	margin: 0;
+}
+
+.inv-v-title {
+	font-weight: 600;
+}
+
+.inv-v-title {
+	margin-top: 30px !important;
+}
+
+.form-horizontal label {
+	font-size: inherit;
+	text-align: left !important;
+}
+
+.p-th {
+	margin: 0;
+	font-size: 12px;
+	line-height: 35px;
+	color: #999;
+}
+
+.p-td {
+	font-size: 12px;
+	margin: 0;
+	word-wrap: break-word;
+	font-weight: 500 !important;
+}
+
+.invoice .panel {
+	padding: 0;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+.invoice .panel .panel-heading {
+	padding-left: 10px;
+}
+
+.invoice .panel .panel-heading h5 {
+	margin: 0;
+}
+
+.invoice .panel-danger p {
+  margin: 0 !important;
+  color: #a94442;
+  font-weight: 400;
+}
+
+.inv-v-trans .form-group {
+	margin-bottom: 0;
+}
+
+.inv-v-trans .form-group.total label,
+.inv-v-trans .form-group.total p {
+	font-size: 18px;
+	font-weight: bold;
+	color: #12ba12;
+}
+
+.inv-v-disc p {
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+
+.inv-desc-title p {
+	font-weight: 500;
+}
+
+.inv-desc-title {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.invoice.invoice-modal label {
+    font-size: 12px;
+}
+
+p.inv-desc-sub {
+	background-color: #e2e2e2;
+    padding: 3px 7px 2px 7px;
+    border-radius: 50px;
+}
+
+.invoice-unwound {
+    text-align: center;
+    width: 100%;
+    float: right;
+    position: fixed; !important;
+    z-index: 10;
+    top: 300px;
+}
+
+.invoice-unwound img {
+	margin: 0 auto;
+    width: 60%;
+}

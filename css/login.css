@@ -1,0 +1,311 @@
+body {
+margin-bottom: 0;
+    padding-bottom: 280px;
+    position: relative;
+}
+
+section.banner {
+	width: 100%;
+	position: relative;
+	min-height: 80vh;
+	background: url('https://media.istockphoto.com/photos/dealer-new-cars-stock-picture-id480652712?s=2048x2048') no-repeat 0 50%;
+	background-size: cover;
+    display: table;
+}
+
+section.banner:before {
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+    top: 0;
+    background-color:rgba(0,0,0,.68);
+
+}
+
+section.banner > .banner-inner {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+section.home-section.two {
+	background-color: #f1f1f1;
+	z-index: 5;
+}
+
+section.home-section.two h4 {
+    padding: 10px;
+    margin: 0;
+    border-radius: 0 0 4px 4px;
+    display: inline-block;
+}
+
+section.home-section.three {
+	min-height: 60vh;
+	background-color: #fff;
+}
+
+section.home-section.three iframe{
+   margin-top: 150px;
+}
+
+section.home-section.four {
+    background-color: #f1f1f1;
+    padding: 110px 0 110px;
+}
+
+section.home-section.five {
+    width: 100%;
+    position: relative;
+    min-height: 80vh;
+    background: url('https://media.istockphoto.com/photos/salesmans-hands-giving-key-picture-id486827324?s=2048x2048') no-repeat 0 50%;
+    background-size: cover;
+}
+
+section.home-section.five:before {
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+    top: 0;
+    background-color:rgba(26,26,26,.91);
+}
+
+section.home-section.five .section-content {
+    z-index: 5000;
+}
+
+
+.home-section p {
+    line-height: 2;
+}
+
+nav#home-nav {
+	background-color: transparent;
+	border: none;
+}
+
+nav#home-nav ul > li > a {
+	color: white;
+	font-weight: 300;
+  letter-spacing: 0.5px;
+}
+
+nav#home-nav .navbar-header .navbar-brand {
+color: white;
+}
+
+nav#home-nav ul.nav.navbar-nav li.active a {
+    background-color: transparent !important;
+    color: #f0ad4e !important;
+}
+
+.login-container h4 {
+    color: #625D8B;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.login-container {
+    background-color: #ffffff;
+    padding: 20px 30px 20px;
+    border-radius: 4px;
+}
+
+.login-container .checkbox {
+    margin: 20px 0;
+}
+
+section.banner h1 {
+  font-family: 'Anton' !important;
+    color: #fff;
+    font-size: 80px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    letter-spacing: 2px !important;
+    line-height: 100px;
+    font-weight: lighter;
+}
+
+section.home-section.two .home-panel {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+section.home-section.two .home-panel h4 {
+margin-top: -20px;
+    background-color: #333;
+    border-radius: 4px;
+    display: inline-block;
+    color: white;
+    position: absolute;
+    padding: 8px 12px;
+    font-size: 14px;
+}
+
+.home-feat-seller {
+	display: block !important;
+	cursor: pointer !important;
+}
+
+.home-feat-seller .img-fs-desc p{
+	cursor: pointer !important;
+}
+
+.home-feat-seller .img-fs-cont {
+	height: 70px;
+	text-align: center;
+}
+
+.home-feat-seller .img-fs-cont img {
+	height: 100%;
+	margin: 0 auto;
+}
+
+.section-content {
+    padding: 50px 40px 80px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section-content h1{
+	margin-bottom: 20px;
+}
+
+nav.navbar.home .navbar-right {
+    margin: 15px;
+}
+
+nav.navbar.home .navbar-right li:first-child button {
+    margin-right: 10px;
+}
+
+/*.section-content p{
+	color: #999;
+	font-weight: 300;
+	line-height: 2;
+}*/
+
+.banner-content h1 {
+  font-weight: 300;
+}
+
+.banner-content  {
+    padding-top: 20px;
+}
+
+.banner-content button {
+/*    padding: 20px 30px;*/
+}
+
+.banner-content button h2 {
+    font-weight: 300;
+    font-size: 30px;
+    margin: 0;
+    font-family: 'Roboto' !important;
+    letter-spacing: 1.5px !important;
+    cursor: pointer;
+}
+
+.bottom-banner.text-center {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 30px 0;
+    background-color: #00000070;
+    border-top: 1px solid;
+    z-index: 2;
+}
+
+.bottom-banner.text-center h2 {
+    color: #fff;
+    font-weight: 300;
+    font-family: 'Roboto' !important;
+    letter-spacing: 1px !important;
+    margin: 0;
+    font-size: 35px;
+
+}
+
+footer.footer-home {
+	position: absolute;
+    bottom: 0;
+    height: 140px;
+    width: 100%;
+}
+
+.footer-content {
+	height: 100%;
+	background-color: #333;
+	padding-bottom: 30px;
+}
+
+.footer-content a i {
+    font-size: 30px;
+    padding: 30px 20px;
+	transition: 0.2s;
+}
+
+.footer-content a i:hover {
+	color: #3e9bd3;
+	transition: 0.2s;
+}
+
+.footer-content p {
+	font-size: 16px;
+	font-weight: 300;
+	letter-spacing: 0.5px;
+  color: #ffffff63;
+
+}
+
+.footer-content p a{
+	padding: 0 10px;
+	transition: 0.2s;
+}
+
+.footer-content p a:hover{
+	color: #3e9bd3;
+	transition: 0.2s;
+}
+
+.members-list {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.members-list ul {
+    text-align: center;
+}
+
+.members-list ul li {
+    width: 10%;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.members-list ul li img {
+    width: 100%;
+}
+
+.ml-nav {
+    width: 100%;
+    position: absolute;
+    margin: 15px 0;
+
+}
+
+.ml-nav a {
+    font-size: 25px;
+}
+
+.ml-nav a.right {
+    float: right;
+}
+
+

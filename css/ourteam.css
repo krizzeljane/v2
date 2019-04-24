@@ -1,0 +1,26 @@
+.team-con-img {
+  padding: 10px;
+}
+
+.team-con-img img{
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.team-con-name {
+    text-align: center;
+}
+
+.team-con-name .team-name {
+    font-size: 16px;
+    font-family: 'Archivo';
+    font-weight: 600;
+    margin-bottom: 0;
+    color: #333;
+}
+
+.team-con-name p {
+    color: #666;
+    font-weight: 300;
+    font-size: 12px;
+}

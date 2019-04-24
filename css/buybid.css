@@ -1,0 +1,14 @@
+.form-group .btn-group .btn-block, .form-group .btn-group {
+    width: 100% !important;
+}
+
+.table-buybid .checkbox {
+    margin: 0 !important;
+}
+.table-buybid thead th .checkbox > label > span {
+    font-weight: 800 !important;
+}
+
+#buybid-send form.form-horizontal .control-label {
+     padding-top: 7px; 
+}

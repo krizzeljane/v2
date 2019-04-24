@@ -1,0 +1,133 @@
+.table-con-header {
+	background-color: #fff;
+}
+
+.table-con-header .table th{
+	padding: 15px 10px;
+	color: #999;
+	font-weight: 400;
+	border-bottom: 1px solid #eaeaea;
+	font-size: 12px;
+	cursor: default;
+}
+
+.table-con-header .table tr {
+
+}
+
+
+.table-con-header .table tr td{
+	transition: 0.3s;
+	border: none;
+	vertical-align: middle;
+	*font-weight: 300;
+	cursor: pointer !important;
+	border-bottom: 1px solid #eaeaea;
+}
+
+/*.table-con-header .table tr td:last-child {
+	text-align: right;
+}*/
+
+.table-con-header .table tr:hover td{
+	background-color: #cbe3f121;
+	transition: 0.3s;
+	cursor: default;
+}
+
+.table-icon {
+	height: 50px;
+	border-radius: 50%;
+	border: 1px solid #f1f1f1;
+}
+
+
+
+.table-action-container {
+  float: right;
+}
+
+.table-action-container a {
+  font-size: 16px;
+  padding: 0 5px;
+  width: 25px;
+  display: inline-block;
+}
+
+a.unlockDealer {
+	display: none;
+}
+
+tr.account-active td.account-icon > svg {
+	display: none;
+}
+
+tr.account-lock td.account-icon > svg {
+	display: inline-block;
+}
+
+tr.account-lock td .table-action-container .editDealer,
+tr.account-lock td .table-action-container .deleteDealer {
+	cursor: not-allowed;
+	pointer-events: none;
+}
+
+tr.account-lock td .table-action-container .editDealer > svg,
+tr.account-lock td .table-action-container .deleteDealer > svg {
+	color: #b4b4b4;
+}
+
+tr.account-lock td.account-lock i {
+	font-size: 30px !important;
+}
+
+tr.account-lock td {
+    color: #b8b8b8;
+}
+
+tr.account-lock td.account-icon{
+	position: relative;
+}
+
+tr.account-lock td.account-icon svg {
+	    background-color: #666;
+    padding: 5px 5px 6px;
+    width: 25px;
+    height: 25px;
+    border-radius: 40px;
+    color: #fff;
+    position: absolute;
+    bottom: 10px;
+    right: 30px;
+}
+
+tfoot {
+	color: #999;
+}
+
+.table-footer-page ul {
+  margin: 0;
+  float: right;
+}
+
+.table-footer-page ul li a {
+    border: none;
+}
+
+
+@media (max-width: 990px) {
+
+	.table-con-header .table tr td {
+		vertical-align: top;
+	}
+
+}
+
+@media (max-width: 768px) {
+
+
+	.table-footer-page ul {
+    float: none;
+	}
+
+}

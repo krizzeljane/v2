@@ -1,0 +1,39 @@
+.preauction table thead tr th {
+  vertical-align: top;
+  font-size: 12px;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.preauction table tbody tr td {
+  vertical-align: middle;
+  font-size: 12px;
+  height: 100%;
+}
+
+.pa-v-row {
+  margin-top: 20px;
+  background-color: #fff;
+}
+
+.pa-v-row .row > div {
+  padding: 10px 10px 10px 30px;
+}
+
+.pa-edit-row {
+	margin-left: 5px;
+	*vertical-align: middle;
+}
+
+.preauction table tbody tr td p {
+  margin-bottom: 0;
+}
+
+.preauction table tbody tr td > * {
+    vertical-align : middle;
+}
+
+.preauction table td.pa-action a svg {
+    font-size: 17px;
+    margin: 0 3px;
+}

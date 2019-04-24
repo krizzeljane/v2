@@ -1,0 +1,161 @@
+.clearfix {
+	clear: both;
+}
+
+.userprofile .panel-heading {
+  background-color: transparent !important;
+  border: none;
+}
+
+.profile-photo {
+  width: 100px;
+  border-radius: 100px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.profile-row {
+	border-bottom: 1px solid #ddd;
+	padding: 10px
+}
+
+.profile-row .form-group	{
+	margin-bottom: 0;
+}
+
+.userprofile p.form-control-static {
+  margin: 0;
+  padding: 0;
+  min-height: auto;
+}
+
+.userprofile p.form-control-static span {
+  width: 50px;
+    display: inline-block;
+}
+
+.userprofile .nav-tabs li, .userprofile .nav-tabs li:hover, .userprofile .nav-tabs li:focus, .userprofile .nav-tabs li:visited, .userprofile .nav-tabs li:active {
+	width: 50%;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #f0f3f8;
+	border-top: none!important;
+	border-bottom: 1px solid #ddd;
+}
+
+.userprofile .nav-tabs li:first-child {
+	border-right: 1px solid #ddd !important;
+}
+
+
+.userprofile .nav-tabs li a, 
+.userprofile .nav-tabs li.active a, 
+.userprofile .nav-tabs li.active a:focus, 
+.userprofile .nav-tabs li.active a:hover, 
+.userprofile .nav-tabs li.active a:active {
+	background-color: transparent;
+	border: none;
+	outline: none;
+	font-weight: normal;
+} 
+
+.userprofile .nav-tabs li.active:hover, .userprofile .nav-tabs li.active:active, .userprofile .nav-tabs li.active:focus {
+	border-top: 1px solid #ddd;
+	border-bottom: none;
+	background-color: #fff;
+}
+
+.userprofile .nav-tabs li:hover, .userprofile .nav-tabs li:active, .userprofile .nav-tabs li:focus {
+	border-top: 1px solid #ddd;
+}
+
+.userprofile .nav-tabs {
+	border-bottom: none;
+}
+
+.userprofile .nav-tabs li.active {
+	background-color: white;
+	border: none;
+}
+
+.userprofile .nav-tabs li a {
+	margin: 0;
+	padding: 15px 15px;
+	border-radius: 0;
+}
+
+.star-revs {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+.star-revs h1, .star-revs h3 {
+	margin: 0;
+}
+
+.star-revs-crit p {
+    margin-bottom: 5px;
+}
+
+.profile-row-header {
+    padding: 10px 10px;
+    height: 70px;
+}
+
+.profile-row-header p {
+margin-bottom: none;
+}
+
+.profile-row-header h5 {
+  margin-left: 10px;
+  line-height: 30px;
+}
+.profile-reviews .profile-row-header {
+    height: auto;
+}
+.profile-row-header > .thumb {
+  float: left;
+}
+
+.profile-row-header > .review-content {
+  padding-left: 60px;
+}
+
+.profile-row-header h5 {
+    display: inline-block;
+    vertical-align: top;
+}
+.notif-form .control-label {
+    line-height: 27px;
+}
+
+.notif-form span {
+  
+}
+
+.notif-form .checkbox span.check::after {
+    top: 3px;
+  }
+
+.dealers-con .thumb {
+	margin-right: 10px;
+}
+
+.dealers-con h4 {
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+
+.dealers-con .dealer-info {
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+.dealers-con .dealer-info p{
+	margin-bottom: 5px;
+}
+
+.profile-row.text-right .pagination {
+    margin: 0;
+}

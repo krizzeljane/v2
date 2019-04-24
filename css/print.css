@@ -1,0 +1,376 @@
+
+
+@media print {
+  .topnav {
+   	display: none;
+  }
+
+  .print-hide {
+  	display: none !important;
+  }
+
+  .print-only {
+  	display: block; !important;
+  }
+
+  .vi-page {
+	  *min-height: 300vh;
+	  position: relative;
+	  margin: 0;
+	}
+
+/*	.vi-page:before {
+	  content: "";
+	  position: absolute;
+	  z-index: 9999;
+	  top: 0;
+	  bottom: 0;
+	  left: 0;
+	  right: 0;
+	  background: url('data:image/svg+xml,<svg style="transform:rotate(45deg)" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 60"><text x="0" y="25" fill="#000">Lorem </text></svg>');
+	  background: url('data:image/svg+xml,<svg style="transform:rotate(45deg)" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 60"><text x="0" y="25" fill="#000">Lorem </text></svg>') 0 0/100% 100vh;
+	}*/
+
+	@page {
+	    margin-top: 0.5cm;
+	    margin-bottom: 0.5cm;
+	    margin-left: 0.5cm;
+	    margin-right: 0.5cm;
+	}
+
+	.invoice-kbb {
+		page-break-before: always !important;
+		float: none;
+	}
+
+	/*.vi-page-wm {
+		display: inline-block !important;
+		background-image: url('');
+    background-size: 50%;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    background-repeat: repeat-y;
+    background-position: 50% 0%;
+		content:url('../images/tdf.png');
+
+	}*/
+
+	a[href]::after {
+	    content: " (" attr(href) ")";
+	    display: none;
+	}
+
+	a[href*='//']:after {
+	  content:" (" attr(href) ") ";
+	  color: $primary;
+	  display: none;
+	}
+
+	.tab-container.transactions, .page-container.transactions {
+		display: none;
+	}
+
+	.modal-content {
+		border: none !important;
+		padding: 0;
+	}
+
+	br {
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+
+	.modal-header {
+		display: none;
+
+	}
+
+	.modal-footer {
+		display: none;
+	}
+
+	.slides > li a {
+	  display: none;
+	}
+
+	.slides li:first-child a {
+		display: block !important;
+	}
+
+	.slides li:first-child a img {
+	    width: 320px !important;
+	    padding: 20px;
+	}
+
+	#carousel {
+		display: none;
+	}
+
+	.invoice-header {
+		padding: 10px;
+	}
+
+	.invoice-header h4 {
+		display: block !important;
+		margin-bottom: 3px;
+	}
+
+	.invoice-header img {
+	  width: 150px;
+	  margin-bottom: 10px;
+	  display: none;
+	}
+
+	.invoice-btn-func {
+		display: none !important;
+	}
+
+  .modal {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    visibility: visible;
+    /**Remove scrollbar for printing.**/
+    overflow: visible !important;
+  }
+  .modal-dialog {
+    visibility: visible !important;
+    /**Remove scrollbar for printing.**/
+    overflow: visible !important;
+	}
+
+  nav.navbar {
+   	display: none;
+  }
+
+  .nav-blue {
+   	display: none;
+  }
+
+  .vi-kbb {
+  	margin: 0 !important;
+  }
+
+
+	/**** Vehicle Info ***/
+	.vi-header-btns {
+		display: none;
+	}
+
+	.vi-header {
+		padding: 10px 20px 20px 20px;
+	}
+	.vi-header * {
+		font-size: 90%;
+		margin: 0;
+		padding: 0;
+	}
+	.vi-header h4,.vi-header h5 {
+		margin: 0;
+	}
+
+
+
+	.sticky, .sticky2 {
+		position: relative !important;
+	}
+
+	.sticky2 {
+		top: 0 !important;
+	}
+
+	.vi-ap h4 {
+		font-size: 14px;
+		margin: 5px 0;
+	}
+
+	.vi-ap h4 i, .vi-ap h4 svg {
+		background-color: #12ba12;
+		-webkit-print-color-adjust: exact;
+    color: white;
+    padding: 5px;
+    border-radius: 50px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+	}
+
+	p {
+		font-size: 10px;
+		margin: 0;
+	}
+
+	.col-print-1 {width:8%;  float:left;}
+	.col-print-2 {width:16%; float:left;}
+	.col-print-3 {width:25%; float:left;}
+	.col-print-4 {width:33%; float:left;}
+	.col-print-5 {width:42%; float:left;}
+	.col-print-6 {width:50%; float:left;}
+	.col-print-7 {width:58%; float:left;}
+	.col-print-8 {width:66%; float:left;}
+	.col-print-9 {width:75%; float:left;}
+	.col-print-10{width:83%; float:left;}
+	.col-print-11{width:92%; float:left;}
+	.col-print-12{width:100%; float:left;}
+
+	.vi-kbb p {
+		margin-bottom: 0;
+		font-size: 9px;
+	}
+
+	.vi-caution {
+		display: none;
+	}
+
+	.flexslider, .flex-viewport {
+		zoom:0;
+		/*height: 300px !important;*/
+		padding: 0 !important;
+		width: 100%;
+	}
+
+	.flexslider .slides img{
+		/*width: 100% !important;*/
+	}
+/*
+	.print-photo {
+		padding: 10px !important;
+		position: relative !important;
+		overflow: hidden;
+	}
+
+	.print-photo img {
+		position: block !important;
+		width: : 100% !important
+	}*/
+
+
+
+	.vi-section.panel {
+		padding: 5px;
+	}
+
+	.vi-section.panel * {
+		padding: 0px;
+		margin: 0px;
+	}
+
+	.vi-loc {
+		padding: 2px 10px 5px 10px !important;
+	}
+
+	.vi-loc * {
+		padding: 0;
+		margin: 0;
+
+	}
+
+	.vi-loc-det {
+		margin: 0;
+		padding: 0;
+	}
+	.vi-loc-det p, .vi-loc-det h5, .vi-loc-det a, .vi-loc-det small {
+		margin: 0 !important;
+		padding: 0;
+		font-size: 80% !important;
+	}
+
+	.vi-loc svg, .vi-loc i, .vi-loc span {
+		display: none;
+	}
+
+	.vi-loc-det p, .vi-loc-det h5 {
+		font-size: 12px;
+	}
+
+	.vi-loc-det span,.vi-loc-det span svg, .vi-loc-det i, .vi-loc-det svg {
+		font-size: 50%;
+	}
+
+
+	.vi-section-header {
+		padding: 5px !important;
+		background-color: #f3f3f3;
+		-webkit-print-color-adjust: exact;
+    border-bottom: 1px solid #ccc;
+	}
+
+	.vi-section-header h4 {
+		font-size: 12px;
+		margin: 0;
+	}
+
+
+
+	.vi-disc-label {
+		margin-bottom: 5px !important;
+	}
+
+	/*.vi-section-body p{
+		padding-top: 0;
+		padding-bottom: 0;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}*/
+
+
+
+		.vi-section-body  {
+		/*padding-top: 0;
+		padding-bottom: 0;*/
+		padding: 10px !important;
+	}
+
+	.vi-disc-row , .vi-disc-row *{
+		margin-top: 0;
+		margin-bottom: 0;
+		padding: 0;
+	}
+
+	.vi-disc-row p {
+		margin-top: 2px !important;
+		margin-bottom: 2px !important;
+		/*margin-left: 20px !important;*/
+		padding: 0px;
+		padding-left: 20px;
+	}
+
+
+	.vi-disc-row > div{
+		padding: 0;
+	}
+
+	.vi-disc-row img {
+		width: 30px;
+	}
+
+	.vi-disc-img {
+		display: none !important;
+	}
+
+	.vi-col {
+		height: auto !important;
+	}
+
+	.comments > div {
+    padding: 5px 0 10px 0 !important;
+	}	
+
+/*	.vi-page-wm > img {
+			position: absolute;
+			height: 100vh;
+		  z-index: 1000;
+		  padding: 130px 20px 20px;
+		  margin: 0 auto;
+	}*/
+
+footer {
+	display: none;
+}
+
+
+}

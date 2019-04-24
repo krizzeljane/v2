@@ -1,0 +1,186 @@
+.table-scroll {
+  position:relative;
+  max-width:100%;
+  margin:auto;
+  overflow:hidden;
+  border:1px solid #eaeaea;
+}
+.table-wrap {
+  width:100%;
+  overflow:auto;
+}
+.table-scroll table {
+  width:100%;
+  margin:auto;
+  border-collapse:separate;
+  border-spacing:0;
+}
+
+.table-scroll th {
+  vertical-align: middle !important;
+}
+
+.table-scroll .main-table > thead > tr > th,
+.table-scroll .main-table-t > thead > tr > th,
+.table-scroll .main-table-d > thead > tr > th {
+  font-size: 12px !important;
+  font-weight: 400;
+  color: #999;
+  cursor: pointer;
+}
+
+.table-scroll th, .table-scroll td {
+  padding:5px 10px;
+  background:#fff;
+  white-space:nowrap;
+  vertical-align:middle !important;
+  font-size: 12px;
+  cursor: default;
+}
+
+.table-scroll th, .table-scroll td:nth-child(2) {
+  white-space: normal;
+}
+
+.table-scroll th.fixed-side.tip,
+.table-scroll td.fixed-side.tip {
+  width: 28px !important;
+  max-width: 28px;
+  min-width: 28px;
+  color: #12ba12;
+}
+
+.main-table-t th.fixed-side.tip,
+.main-table-t td.fixed-side.tip {
+  width: 1px !important;
+  max-width: 1px;
+  min-width: 1px;
+  color: #12ba12;
+}
+
+.table-scroll th.fixed-side,
+.table-scroll td.fixed-side {
+  background:#f9f9f9;
+  white-space: normal;
+  word-break: break-word;
+  vertical-align:top;
+  font-size: 12px;
+  max-width: 400px;
+  min-width: 150px;
+  width: auto;
+}
+
+.table-scroll td.pa-auction {
+  /*max-width: 150px;
+  min-width: 150px;*/
+  width: auto;
+  white-space: normal;
+}
+
+.table-scroll td.pa-action {
+  max-width: 200px;
+  min-width: 90px;
+  width: auto;
+  white-space: nowrap;
+  text-align: center;
+  border-left: 1px solid #dddddd;
+}
+
+.table-scroll td.pa-action a {
+  font-size: 17px;
+  margin: 0 3px;
+}
+
+.table-scroll thead, .table-scroll tfoot {
+  background:#f9f9f9;
+}
+
+.clone {
+  position:absolute;
+  top:0;
+  left:0;
+  pointer-events:none;
+}
+.clone th, .clone td {
+  visibility:hidden
+}
+.clone td, .clone th {
+  border-color:transparent
+}
+.clone tbody th {
+  visibility:visible;
+}
+.clone .fixed-side {
+  /*border:1px solid #000;*/
+  background:#f9f9f9;
+  visibility:visible;
+}
+
+.clone .fixed-side.tip{
+  color: #12ba12;
+}
+
+.clone .fixed-side:last-child {
+  visibility:visible;
+  white-space: normal;
+  word-break: break-word;
+  max-width: 400px !important;
+  min-width: 150px !important;
+  width: auto !important;
+}
+.clone thead, .clone tfoot{background:transparent;}
+
+a.pa-editable {
+    color: #555;
+    word-break: break-word;
+    max-width: 90px;
+    display: inline-block;
+    position: relative;
+    padding-right: 20px;
+}
+
+a.pa-editable > span {
+    position: absolute;
+    right: 0;
+}
+
+a.pa-editable i,
+a.pa-editable svg {
+    float: right;
+    margin-left: 8px;
+    margin-top: 2px;
+    visibility: hidden;
+}
+.table-scroll table.main-table tbody tr:hover > td,
+.table-scroll table.main-table tbody tr:hover > th.fixed-side,
+.table-scroll table.main-table.clone tbody tr:hover > .clone th,
+.table-scroll table.main-table-t tbody tr:hover > td,
+.table-scroll table.main-table-t tbody tr:hover > th.fixed-side,
+.table-scroll table.main-table-t.clone tbody tr:hover > .clone th ,
+.table-scroll table.main-table-d tbody tr:hover > td,
+.table-scroll table.main-table-d tbody tr:hover > th.fixed-side,
+.table-scroll table.main-table-d.clone tbody tr:hover > .clone th{
+  background-color: #b4e3ff1f;
+}
+
+.table-scroll table.main-table tbody tr:hover > td a.pa-editable > span > i,
+.table-scroll table.main-table-t tbody tr:hover > td a.pa-editable > span > i,
+.table-scroll table.main-table-d tbody tr:hover > td a.pa-editable > span > i,
+.table-scroll table.main-table tbody tr:hover > td a.pa-editable > span > svg,
+.table-scroll table.main-table-t tbody tr:hover > td a.pa-editable > span > svg,
+.table-scroll table.main-table-d tbody tr:hover > td a.pa-editable > span > svg {
+  visibility: visible;
+  transition: visibility 2s;
+}
+
+p.tpi {
+    font-size: 9px;
+    background-color: #61bc1b;
+    color: white;
+    height: 15px;
+    line-height: 16px;
+    width: 20px;
+    margin: 0 auto;
+    border-radius: 13px;
+    text-align: center;
+}
