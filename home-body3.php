@@ -30,7 +30,7 @@ $title = "Home";
             </div>
 
 						<div class="text-center">
-							<button class="btn btn-lg btn-primary text-center btn-block">LOG IN</button>
+							<a  href="home.php" class="btn btn-lg btn-primary text-center btn-block">LOG IN</a>
 						</div>
 						<br>
 						<div class="text-center">
