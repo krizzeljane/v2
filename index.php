@@ -18,9 +18,6 @@
 
 
 	<div class="wthru-row"><div class="label label-danger">Admin</div>  <a target="_blank" href="pre-sale/preauction.php">Quality Control</a></div> <br>
-	<div class="wthru-row"><div class="label label-danger">Admin</div>  <a target="_blank" href="home.php">Landing Page</a></div> <br>
-	<div class="wthru-row"><div class="label label-danger">Admin</div>  <a target="_blank" href="carsibought/carsibought.php">Cars I Bought</a></div> <br>
-	<div class="wthru-row"><div class="label label-danger">Admin</div>  <a target="_blank" href="carsisold/carsisold.php">Cars I Sold</a> </div><br>
 	<div class="wthru-row"><div class="label label-danger">Admin</div>  <a target="_blank" href="users/dealers.php">Dealers Page</a></div> <br>
 	<div class="wthru-row"><div class="label label-danger">Admin</div>  <a target="_blank" href="users/accounts.php">Accounts Page</a></div> <br>
 	
