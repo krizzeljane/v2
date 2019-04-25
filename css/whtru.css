@@ -3,4 +3,14 @@
 	font-weight: 300;
 }
 
-.wthru
+.wthru-row .label {
+    margin-right: 20px;
+    width: 80px;
+    position: relative;
+    display: inline-block;
+}
+
+.wthru-row {
+    border-bottom: 1px solid #d9d9d9;
+    padding-bottom: 10px;
+}
