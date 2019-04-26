@@ -4,6 +4,7 @@ include('../head.php');
 include('../nav.php');
 include('pa_edit_modal.php');
 include('pa_edit_note.php');
+
 ?>
 
 
@@ -21,8 +22,8 @@ include('pa_edit_note.php');
 <div class="tab-container">
   <div class="container-fluid">
     <ul class="nav nav-tabs" role="tablist">
-      <!-- <li role="presentation" class="active"><a href="#pa-f" aria-controls="pa-f" role="tab" data-toggle="tab">Frontlines (20)</a></li> -->
-      <li role="presentation" class="active"><a href="#pa-t" aria-controls="pa-t" role="tab" data-toggle="tab">Trade-ins (10)</a></li>
+      <li role="presentation" class="active"><a href="#pa-f" aria-controls="pa-f" role="tab" data-toggle="tab">Frontlines (20)</a></li>
+      <li role="presentation"><a href="#pa-t" aria-controls="pa-t" role="tab" data-toggle="tab">Trade-ins (10)</a></li>
       <li role="presentation"><a href="#pa-d" aria-controls="pa-d" role="tab" data-toggle="tab">Deleted (5)</a></li>
     </ul>
   </div>
@@ -31,8 +32,9 @@ include('pa_edit_note.php');
 <div class="page-container">
   <div class="container-fluid">
     <div class="tab-content">
-      <!-- <div role="tabpanel" class="tab-pane fade in active" id="pa-f">
-      </div> -->
+      <div role="tabpanel" class="tab-pane fade in active" id="pa-f">
+        <?php include('pa-f.php');?>
+      </div>
       <div role="tabpanel" class="tab-pane fade in active" id="pa-t">
         <?php include('pa-t.php');?>
       </div>

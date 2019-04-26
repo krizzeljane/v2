@@ -116,7 +116,7 @@
           <td class="pa-auction"><a class="pa-editable" href="javascript:;">Trade-in Auction <span><i class="fa fa-pencil-alt"></i></span></a></td>
           <td>0</td>
           <td class="pa-action">
-            <a href="#" target="_blank" class="btn-link-default"><i class="fa fa-pencil-alt"></i></a>
+            <a href="#" target="_blank" class="btn-link-default"><i class="fa fa-pencil-alt"></i></a> 
             <a href="#" class="btn-link-default" data-toggle="modal" data-target="#edit-pa-note"><i class="fa fa-file"></i></a>
             <a href="#" class="btn-link-default"><i class="fa fa-trash"></i></a> </td>
         </tr>
