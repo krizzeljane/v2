@@ -140,7 +140,7 @@
   <!-- Start of HubSpot Embed Code -->
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5729803.js"></script>
   <!-- End of HubSpot Embed Code -->
-  <!-- <script defer src="//www.iorad.com/widgets/live/37161"></script> -->
+  <script defer src="//www.iorad.com/widgets/live/37161"></script>
 
 </body>
 </html>

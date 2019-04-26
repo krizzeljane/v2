@@ -9,9 +9,9 @@ include('nav-user.php');
     <br>
     <div class="row">
       <div class="col-lg-12">
-        <div class="alert alert-info home-news" class="">
-          <h4 onclick="$('.home-news > p').slideToggle();" style="cursor: pointer;">What's New? <a type="button" class="pull-right"> <i class="fa fa-angle-down"></i></a></h4>
-          <p style="display: block;">lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <div class="alert alert-success home-news" class="">
+          <h4 onclick="$('.home-news > p').slideToggle();" style="cursor: pointer;"> Welcome to the NEW CARWAVE website!<!-- <a type="button" class="pull-right"> <i class="fa fa-angle-down"></i></a> --></h4>
+          <!-- <p style="display: block;">lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
         </div>
       </div>
     </div>
@@ -374,54 +374,340 @@ include('nav-user.php');
 
 
 
+        <div class="panel panel-default home-panel">
+          <div class="panel-body">
+            <div class="">
+              <div class="row">
+                <div class="col-sm-6">
+                  <h4>San Diego Auction <small><em class="text-light">(1400 Vehicles)</em></small></h4>
+                </div>
+                <div class="col-sm-6 text-right">
+                  <span class="text-yellow blinking-yellow"><i class="fa fa-circle "></i> Auction in extension &nbsp;&nbsp;&nbsp;&nbsp;</span><button class="btn btn-default btn-sm ">See Results <i class="fa fa-angle-right"></i></button></p>
+                </div>
+              </div>
+
+
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel"  data-interval="1000">
+                    <div class="MultiCarousel-inner">
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD </p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars2.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars3.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars4.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/carft1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/car1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>  
+                    </div>
+                    <button class="btn btn-default leftLst"><i class="fa fa-angle-left"></i></button>
+                    <button class="btn btn-default rightLst"><i class="fa fa-angle-right"></i></button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+        <div class="panel panel-default home-panel">
+          <div class="panel-body">
+            <div class="">
+              <div class="row">
+                <div class="col-sm-6">
+                  <h4>San Diego Auction <small><em class="text-light">(1400 Vehicles)</em></small></h4>
+                </div>
+                <div class="col-sm-6 text-right">
+                  <span class="text-light"><i class="fa fa-circle "></i> Auction Ended &nbsp;&nbsp;&nbsp;&nbsp;</span><button class="btn btn-default btn-sm ">See Results <i class="fa fa-angle-right"></i></button></p>
+                </div>
+              </div>
+
+
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel"  data-interval="1000">
+                    <div class="MultiCarousel-inner">
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD </p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars2.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars3.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars4.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/carft1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/car1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>  
+                    </div>
+                    <button class="btn btn-default leftLst"><i class="fa fa-angle-left"></i></button>
+                    <button class="btn btn-default rightLst"><i class="fa fa-angle-right"></i></button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+        <div class="panel panel-default home-panel">
+          <div class="panel-body">
+            <div class="">
+              <div class="row">
+                <div class="col-sm-6">
+                  <h4>Sacramento Auto Auction <small><em class="text-light">(300 Vehicles)</em></small></h4>
+                </div>
+                <div class="col-sm-6 text-right">
+                  <span class="text-light"><i class="fa fa-circle "></i> Starts Aug 14, 12:00PM &nbsp;&nbsp;&nbsp;&nbsp;</span><button class="btn btn-default btn-sm ">Browse Vehicles <i class="fa fa-angle-right"></i></button></p>
+                </div>
+              </div>
+
+
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="MultiCarousel" data-items="1,3,5,6" data-slide="1" id="MultiCarousel"  data-interval="1000">
+                    <div class="MultiCarousel-inner">
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD </p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars2.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars3.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars4.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/cars1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/carft1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="item">
+                        <div class="pad15">
+                          <div class="thumbnail">
+                            <img src="images/car1.jpg" alt="Toyota Sequoia">
+                            <div class="caption">
+                              <p>2015 Audi A3 1.8T Premium Sedan FWD</p>
+                              <p><a href="#" class="btn btn-block btn-default btn-sm" role="button">View Vehicle</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>  
+                    </div>
+                    <button class="btn btn-default leftLst"><i class="fa fa-angle-left"></i></button>
+                    <button class="btn btn-default rightLst"><i class="fa fa-angle-right"></i></button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
 
 
         
         <div class="panel panel-default home-panel">
           <div class="panel-body">
             
-
-            <h4>Upcoming Auctions</h4>
-            <br>
-            <div class="row">
-              <div class="col-xs-12">
-                <div class="home-auc-list">
-
-                  <a href="javascript:;" class="home-auc-item">
-                    <div class="row">
-                      <div class="col-sm-4">
-                        <h5>Los Angeles Auction</h5>
-                      </div>
-                      <div class="col-sm-8 text-right">
-                        <!-- <div class="checkbox">
-                          <input type="checkbox" name="group2" id="checkbox-1">
-                          <label for="checkbox-1"><span class="check">Notify Me</span></label>
-                        </div> -->
-                        <p>Opens Aug 14, 10:00AM &nbsp;&nbsp;&nbsp;&nbsp;</p>
-                      </div>
-                    </div>
-                  </a>
-
-                  <a href="javascript:;" class="home-auc-item">
-                    <div class="row">
-                      <div class="col-sm-4">
-                        <h5>San Diego Auction</h5>
-                      </div>
-                      <div class="col-sm-8 text-right">
-                        <!-- <div class="checkbox">
-                          <input type="checkbox" name="group2" id="checkbox-2">
-                          <label for="checkbox-2"><span class="check">Notify Me</span></label>
-                        </div> -->
-                        <p>Opens Aug 14, 10:00AM &nbsp;&nbsp;&nbsp;&nbsp;</p>
-                      </div>
-                    </div>
-                  </a>
-
-                </div>
-              </div>
-            </div><!-- row -->
-            <hr>
-
             <h4>Previous Auction Results</h4>
             <br>
             <div class="row">

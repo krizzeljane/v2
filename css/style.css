@@ -329,7 +329,7 @@ body {
 
 .text-yellow {
   /*color: #fbb03b;*/
-  color: #F3BB1A;
+  color: #F3BB1A !important;
 }
 
 .text-white {
@@ -1106,7 +1106,7 @@ form.form-horizontal .control-label {
 }
 @keyframes blink {
     from {
-        color:green;
+        color:#12ba12;
     }
     to {
         color:white;
@@ -1114,7 +1114,31 @@ form.form-horizontal .control-label {
 }
 @-webkit-keyframes blink {
     from {
-        color:green;
+        color:#12ba12;
+    }
+    to {
+        color:white;
+    }
+}
+
+.blinking-yellow {
+    animation-duration: 1200ms;
+    animation-name: blinky;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    -webkit-animation:blinky 1200ms infinite; /* Safari and Chrome */
+}
+@keyframes blinky {
+    from {
+        color:#F3BB1A;
+    }
+    to {
+        color:white;
+    }
+}
+@-webkit-keyframes blinky {
+    from {
+        color: #F3BB1A;
     }
     to {
         color:white;
