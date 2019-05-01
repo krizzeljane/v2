@@ -13,6 +13,7 @@ include('invoice-ti-buyer-ach.php');
 include('transport-details.php');
 include('../rating-s.php');
 include('invoice-pdf.php');
+include('send-invoice.php');
 ?>
 
 <!--MODALS-->

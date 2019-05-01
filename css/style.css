@@ -1098,11 +1098,11 @@ form.form-horizontal .control-label {
 
 
 .blinking {
-    animation-duration: 1200ms;
+    animation-duration: 900ms;
     animation-name: blink;
     animation-iteration-count: infinite;
     animation-direction: alternate;
-    -webkit-animation:blink 1200ms infinite; /* Safari and Chrome */
+    -webkit-animation:blink 900ms infinite; /* Safari and Chrome */
 }
 @keyframes blink {
     from {
@@ -1122,26 +1122,26 @@ form.form-horizontal .control-label {
 }
 
 .blinking-yellow {
-    animation-duration: 1200ms;
+    animation-duration: 900ms;
     animation-name: blinky;
     animation-iteration-count: infinite;
     animation-direction: alternate;
-    -webkit-animation:blinky 1200ms infinite; /* Safari and Chrome */
+    -webkit-animation:blinky 900ms infinite; /* Safari and Chrome */
 }
 @keyframes blinky {
     from {
-        color:#F3BB1A;
+       opacity: 1;
     }
     to {
-        color:white;
+       opacity: 0;
     }
 }
 @-webkit-keyframes blinky {
     from {
-        color: #F3BB1A;
+       opacity: 1;
     }
     to {
-        color:white;
+       opacity: 0;
     }
 }
 

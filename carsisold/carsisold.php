@@ -12,6 +12,7 @@ include('invoice-franchise-seller-unwound.php');
 include('../rating-b.php');
 include('sellnet-modal.php');
 include('../rating-submitted-modal.php');
+include('send-invoice.php');
 ?>
 <!--MODALS-->
 

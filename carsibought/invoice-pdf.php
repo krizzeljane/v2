@@ -30,7 +30,7 @@
        
       <div class="modal-footer">
         <button type="button" class="btn btn-default"  data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-default" data-dismiss="modal">Email</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal" data-toggle="modal" data-target="#send-invoice">Email</button>
         <button type="button" class="btn btn-primary btnPrint" data-print="invoice-franchise-buyer" >Print</button>
       </div>
     </div> 
