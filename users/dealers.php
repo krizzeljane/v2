@@ -38,9 +38,9 @@ include('../header-user.php');
               <li><a href="#">DMV Clerks</a></li>
             </ul>
           </div> -->
-          <div class="form-group has-feedback pull-left">
+          <div class="form-group has-feedback pull-left" style="width: 30%;">
             <label class="control-label sr-only" for="inputSuccess5">Hidden label</label>
-            <input type="text" class="form-control" id="inputSuccess5" aria-describedby="inputSuccess5Status" placeholder="Search Name or Dealership">
+            <input type="text" class="form-control" id="inputSuccess5" aria-describedby="inputSuccess5Status" placeholder="Search Make, Name or Dealership">
             <span class="glyphicon glyphicon-search form-control-feedback" aria-hidden="true"></span>
             <span id="inputSuccess5Status" class="sr-only">(success)</span>
           </div> 
@@ -53,7 +53,7 @@ include('../header-user.php');
 
 
            &nbsp;
-          <div class="btn-group pull-right pull-left">
+          <!-- <div class="btn-group pull-right pull-left">
             <button type="button" class="btn btn-default dropdown-toggle btn-block" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               All Makes &nbsp;&nbsp;&nbsp;<span class="caret"></span>
             </button>
@@ -64,7 +64,7 @@ include('../header-user.php');
               <li role="separator" class="divider"></li>
               <li><a href="javascript:;">Separated link</a></li>
             </ul>
-          </div>
+          </div> -->
 
         </div>
         <!-- <div class="col-md-6">

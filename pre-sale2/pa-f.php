@@ -2,7 +2,6 @@
   <div class="row">
     <div class="col-md-1 no-padding-right">
       <p>15 Results</p>
-      
     </div>
     <div class="col-md-11">
       <nav aria-label="Page navigation" class="element right">

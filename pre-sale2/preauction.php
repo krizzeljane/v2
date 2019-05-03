@@ -35,7 +35,7 @@ include('pa_edit_note.php');
       <div role="tabpanel" class="tab-pane fade in active" id="pa-f">
         <?php include('pa-f.php');?>
       </div>
-      <div role="tabpanel" class="tab-pane fade in active" id="pa-t">
+      <div role="tabpanel" class="tab-pane fade in" id="pa-t">
         <?php include('pa-t.php');?>
       </div>
       <div role="tabpanel" class="tab-pane fade in" id="pa-d">

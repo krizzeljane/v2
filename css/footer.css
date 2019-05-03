@@ -44,12 +44,12 @@ footer.footer {
 }
 
 .footer-content a, .footer-content a:focus {
-	color: #ccc;
+	color: #ccc !important;
 	text-decoration: none;
 }
 
 .footer-content a:hover, .footer-content a:active{
-	color: #fff;
+	color: #fff !important;
 }
 
 .footer-content a i, .footer-content a svg {

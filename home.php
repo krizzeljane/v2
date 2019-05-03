@@ -1,5 +1,5 @@
 <?php
-$title = "CARWAVE - Your Trusted Car Dealership Network";
+$title = "Home | CARWAVE - Your Trusted Car Dealership Network";
 include('head.php');
 include('nav-user.php');
 ?>
@@ -9,7 +9,7 @@ include('nav-user.php');
     <br>
     <div class="row">
       <div class="col-lg-12">
-        <div class="alert alert-success home-news" class="">
+        <div class="alert alert-info home-news" class="">
           <h4 onclick="$('.home-news > p').slideToggle();" style="cursor: pointer;"> Welcome to the NEW CARWAVE website!<!-- <a type="button" class="pull-right"> <i class="fa fa-angle-down"></i></a> --></h4>
           <!-- <p style="display: block;">lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
         </div>
@@ -25,10 +25,10 @@ include('nav-user.php');
             <h4>Outstanding Payments <span class="pull-right text-success">$20,000</span></h4>
             <br>
             <p class="text-danger"> <strong>3 vehicles in NSF </strong></p>
-            <p><small>Please send your payments immediately to prevent <a href="javascript:;" class="text-normal"><strong>account lock <i class="fa fa-question-circle"></i></strong></a></small></p>
+            <p>Please send your payments immediately to prevent <a href="javascript:;" class="text-normal"><strong>account lock <i class="fa fa-question-circle"></i></strong></a></p>
             <br>
             <div class="text-right">
-              <button class="btn btn-xs btn-default">Go to Cars I Sold <i class="fa fa-angle-right"></i></button>
+              <button class="btn btn-default">Go to Cars I Sold <i class="fa fa-angle-right"></i></button>
             </div>
           </div>
         </div>
@@ -39,10 +39,10 @@ include('nav-user.php');
             <br>
             <p class="text-danger"></i> <strong>3 titles over 30 days </strong></p>
             <p class="text-danger"> <strong>1 title over 45 days </strong></p>
-            <p><small>Please send us the titles immediately to receive your <strong>$10,000</strong></small></p>
+            <p>Please send us the titles immediately to receive your <strong>$10,000</strong></p>
             <br>
             <div class="text-right">
-              <button class="btn btn-xs btn-default">Go to Cars I Sold <i class="fa fa-angle-right"></i></button>
+              <button class="btn btn-default">Go to Cars I Sold <i class="fa fa-angle-right"></i></button>
             </div>
           </div>
         </div>
@@ -382,7 +382,7 @@ include('nav-user.php');
                   <h4>San Diego Auction <small><em class="text-light">(1400 Vehicles)</em></small></h4>
                 </div>
                 <div class="col-sm-6 text-right">
-                  <span class="text-yellow blinking-yellow"><i class="fa fa-circle "></i> Auction in extension &nbsp;&nbsp;&nbsp;&nbsp;</span><button class="btn btn-default btn-sm ">See Results <i class="fa fa-angle-right"></i></button></p>
+                  <span class="text-yellow blinking-yellow"><i class="fa fa-circle "></i> Auction in extension &nbsp;&nbsp;&nbsp;&nbsp;</span><button class="btn btn-success btn-sm ">Join Auction <i class="fa fa-angle-right"></i></button></p>
                 </div>
               </div>
 
