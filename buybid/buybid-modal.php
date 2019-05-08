@@ -8,12 +8,12 @@
 
       <div class="dm-vi">
         <div class="row">
-          <div class="col-sm-1 col-xs-2">
+          <!-- <div class="col-sm-1 col-xs-2">
             <div class="dm-vi-icon">
               <img src="images/car1.jpg">
             </div>
-          </div>
-          <div class="col-sm-11 col-xs-9">
+          </div> -->
+          <div class="col-sm-12 col-xs-11">
             <div class="dm-vi-text">
               <h6>2012 Ram 1500 Quad Cab ST Pickup   | 50,000 mi | WAUGB28D2XA314150 
               </h6>

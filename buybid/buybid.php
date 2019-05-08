@@ -802,6 +802,49 @@ include('buybid-modal.php');
 						<br>
 					</div>
 				</div>
+
+
+
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="panel panel-default">
+							<div class="table-responsive">
+								<table class="table table-buybid">
+									<thead>
+										<tr>
+											<th width="70">
+												<div class="checkbox">
+							            <input type="checkbox" name="equip" id="checkbox-22">
+							            <label for="checkbox-22"><span class="check">All</span></label>
+							          </div>
+											</th>
+											<th width="120">Year</th>
+											<th>Make</th>
+											<th>Model</th>
+											<th>Mileage</th>
+											<th>Color</th>
+											<th>Dealer</th>
+											<th>Dealership</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td colspan="8" class="text-center" style="padding: 20px 0;">
+												<em class="text-light">No results found. <br>Try a different vehicle.</em>
+											</td>
+
+										</tr>
+										
+									</tbody>
+								</table>
+							</div>
+						</div>
+						
+						<button class="btn btn-lg btn-primary" disabled="disabled" data-toggle="modal" data-target="#buybid-send">Send Buy Bid Request</button>
+						<br>
+						<br>
+					</div>
+				</div>
 			</div>
 
 
