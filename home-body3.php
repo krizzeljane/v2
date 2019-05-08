@@ -160,8 +160,8 @@
 
 						<div class="col-sm-7">
 							<h2 class="p-header">Dealership margins have come under tremendous pressure over the past ten years. </h2>
-							<p class="">The company was founded with the goal of using technology and a new business model to eliminate the costly overhead of traditional auctions. For car buyers, the platform's fees are less than those of competing auctions and there are no "online simulcast" fees that traditional auctions charge. Additionally, CARWAVE helps avoid the hassle of auction houses for both buyers and sellers - no bad run numbers, no sabotaged cars, no shipping costs, no inspection fees, and no sell fees.  </p>
-							<p> With more than <strong class="text-yellow"> 35,000 vehicles sold in 2018</strong>, CARWAVE is California's largest dealer direct network and is currently expanding into additional states, including Arizona and Nevada. 
+							<p class="text-white">The company was founded with the goal of using technology and a new business model to eliminate the costly overhead of traditional auctions. For car buyers, the platform's fees are less than those of competing auctions and there are no "online simulcast" fees that traditional auctions charge. Additionally, CARWAVE helps avoid the hassle of auction houses for both buyers and sellers - no bad run numbers, no sabotaged cars, no shipping costs, no inspection fees, and no sell fees.  </p>
+							<p class="text-white"> With more than <strong class="text-yellow"> 35,000 vehicles sold in 2018</strong>, CARWAVE is California's largest dealer direct network and is currently expanding into additional states, including Arizona and Nevada. 
 							</p><br><br>
 							<button class="btn btn-lg btn-yellow">
 								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SIGN UP NOW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
