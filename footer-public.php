@@ -49,7 +49,7 @@
   <script src="https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/js/lightgallery.js"></script>
   <script src="https://cdn.rawgit.com/sachinchoolur/lg-zoom.js/master/dist/lg-zoom.js"></script>
   <script src="https://sachinchoolur.github.io/lightgallery.js/lightgallery/js/lg-thumbnail.js"></script>
-
+  <script src="js/slick.min.js"></script>
   <script>
     lightGallery(document.getElementById('lightgallery'));
     lightGallery(document.getElementById('aniimated-thumbnails'), {

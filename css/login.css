@@ -39,7 +39,7 @@ section.banner > .banner-inner {
 }
 
 section.home-section.two {
-	background-color: #f1f1f1;
+	background-color: #fff;
 	z-index: 5;
 }
 
@@ -52,11 +52,20 @@ section.home-section.two h4 {
 
 section.home-section.three {
 	padding: 100px 0;
-	background-color: #fff;
+	background-color: #f7f7f7;
 }
 
 section.home-section.three iframe{
 
+}
+
+section.demo {
+background-image: url('../images/demo-04.png');
+background-repeat: no-repeat;
+background-position: -30% 50%;
+background-size: 60%;
+background-color: #222;
+padding: 50px 0;
 }
 
 section.home-section.four {
@@ -131,8 +140,8 @@ section.home-section.dark-p.home {
 
 
 .home-img-cont {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 500px;
     overflow: hidden;
     margin: 0 auto;
@@ -401,11 +410,12 @@ footer.footer-home {
 
 .members-list {
     position: relative;
-    padding-bottom: 10px;
+    padding: 10px 0;
 }
 
 .members-list ul {
     text-align: center;
+    margin: 0;
 }
 
 .members-list ul li {
@@ -441,3 +451,149 @@ footer.footer-home {
   }
 } */
 
+
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+
+/* Slider */
+.slick-slide {
+    margin: 0px 20px;
+}
+
+div.slick-slide {
+    display: table;
+    height: 100px;
+    vertical-align: middle;
+}
+
+.slick-slide img {
+     display: table-cell; 
+     vertical-align: middle !important; 
+    min-height: 100px !important;
+    object-fit: contain;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+            user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+
+
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */
+/*LOGO CAROUSEL */

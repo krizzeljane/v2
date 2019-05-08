@@ -65,6 +65,7 @@
 
   <!-- Modernizr -->
   <script src="slider/demo/js/modernizr.js"></script>
+
   
   <!-- jQuery -->
   <!--   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
