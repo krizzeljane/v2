@@ -1,19 +1,26 @@
 body {
 margin-bottom: 0;
     padding-bottom: 175px;
-    position: relative;
+/*    position: relative;*/
 }
 
 section.banner {
 	width: 100%;
 	position: relative;
 	min-height: 80vh;
-	background: url('https://media.istockphoto.com/photos/dealer-new-cars-stock-picture-id480652712?s=2048x2048') no-repeat 0 50%;
+	/*background: url('https://media.istockphoto.com/photos/dealer-new-cars-stock-picture-id480652712?s=2048x2048') no-repeat 0 50%;*/
 	background-size: cover;
     display: table;
 }
 
-section.banner:before {
+#background-carousel{
+  position:fixed;
+  width:100%;
+  height:100%;
+  z-index:-1;
+}
+
+/*section.banner:before {
     content: "";
     height: 100%;
     left: 0;
@@ -23,7 +30,8 @@ section.banner:before {
     top: 0;
     background-color:rgba(0,0,0,.68);
 
-}
+}*/
+
 
 section.banner > .banner-inner {
     display: table-cell;
@@ -83,12 +91,75 @@ section.home p {
 }
 
 section.home h2.section-header {
-    border-bottom: 4px solid #f3bb19;
+    *border-bottom: 4px solid #f3bb19;
     display: inline-block;
     padding-bottom: 20px;
     margin-bottom: 40px;
+    font-size: 30px;
+    font-weight: 800;
 }
 
+
+
+/*CAROUSEL*/
+/*CAROUSEL*/
+/*CAROUSEL*/
+/*CAROUSEL*/
+.carousel,
+.carousel-inner {
+  width:100%;
+  height:100%;
+  z-index:0;
+  overflow:hidden;
+}
+.item {
+  width:100%;
+  height:100%;
+  background-position: center center;
+  background-size:cover;
+  z-index:0;
+}
+ 
+#content-wrapper {
+  position:relative;
+  z-index:1 !important;
+  min-width:100%;
+  min-height:100%;
+}
+
+#background-carousel{
+  position:absolute;
+  width:100%;
+  height:100%;
+  z-index:-1;
+}
+
+.carousel-inner .item {
+  max-height: 80vh;
+  padding-top: 60px;
+}
+
+#background-carousel .carousel .item > .container {
+ display: table;
+ vertical-align: middle;
+ height: 80%;
+}
+
+#background-carousel .carousel .item > .container > h1 {
+ display: table-cell;
+ vertical-align: middle;
+ height: 80%;
+font-size: 80px;
+/*padding: 100px 0 0;*/
+    font-family: 'Anton' !important;
+    vertical-align: middle;
+    color: white;
+}
+
+/*CAROUSEL*/
+/*CAROUSEL*/
+/*CAROUSEL*/
+/*CAROUSEL*/
 
 .home-section p {
     line-height: 2;
@@ -319,4 +390,11 @@ footer.footer-home {
     float: right;
 }
 
+
+/*@media (max-width: 1500px) {
+  .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 7 0vh;
+    object-fit: cover;
+  }
+} */
 

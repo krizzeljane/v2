@@ -1,0 +1,37 @@
+.fourofour {
+	background-color: #F3BB1A !important;
+	display: block;
+	/*background: url('../images/main-car-bg.png') 100% 50% no-repeat;*/
+	
+}
+
+.fourofour-body {
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+
+
+.fourofour h2 {
+	font-family: 'Anton', Helvetica, Helvetica Neue, Arial, sans-serif !important;
+	font-size: 6em;
+	color: #333;
+}
+
+.fourofour .fourofour-img {
+	width: 300px;
+	margin: 0 auto;
+
+}
+
+
+@media (max-width: 768px) {
+  body.fourofour {
+    padding-bottom: 0;
+  }
+  .fourofour h2 {
+		font-size: 3em;
+	}
+	.fourofour h3 {
+		font-size: 1.5em;
+	}
+}

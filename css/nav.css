@@ -8,6 +8,13 @@
   display: none;
 }
 
+ul.nav.navbar-nav.navbar-right p {
+    line-height: 34px;
+    padding: 0 20px 0 0;
+    margin: 0;
+    font-weight: 500;
+}
+
 /*MAIN NAV*/
 nav.navbar {
 	margin-bottom: 0;

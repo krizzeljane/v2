@@ -15,7 +15,7 @@
       </div>
 
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-4">
           <div class="form-group has-error has-feedback">
             <label for="firstname">First Name</label>
             <input type="text" class="form-control" id="firstname" placeholder="Enter First Name">
@@ -23,15 +23,21 @@
             <p class="text-alert text-danger text-xs">Please enter first name.</p>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4">
           <div class="form-group">
             <label for="lastname">Last Name</label>
             <input type="text" class="form-control" id="lastname" placeholder="Enter Last Name">
           </div>
         </div>
+        <div class="col-xs-4">
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="text" class="form-control" id="email" placeholder="Enter Email">
+          </div>
+        </div>
       </div>
 
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-xs-4">
           <div class="form-group">
             <label for="email">Email Address</label>
@@ -50,7 +56,7 @@
             <input type="password" class="form-control" id="confirmpassword" placeholder="Confirm Password">
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="row">
         <div class="col-md-4">
@@ -105,7 +111,7 @@
           <button class="btn btn-default">Add more Dealership <i class="fa fa-plus"></i></button>
         </div>
         <div class="col-md-6">
-          <div class="form-group">
+          <!-- <div class="form-group">
             <label for="email">Dealership Group</label>
             <select class="form-control">
               <option selected="selected">Select Dealership Group</option>
@@ -114,7 +120,7 @@
               <option>San Francisco Group</option>
               <option>Sacramento Auto Group</option>
             </select>
-          </div>
+          </div> -->
         </div>
       </div>
 

@@ -15,6 +15,8 @@
 	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="users/userprofile.php">User Profile</a> | <a target="_blank" href="users/useraccount.php">Your User Profile</a></div> 
 	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="buybid/buybid.php">Get Buy Bid</a></div> 
 	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="vehicle-info/vehicleinfo.php">Vehicle Info - Frontline</a> | <a target="_blank" href="vehicle-info/vehicleinfo-ft.php">Vehicle Info - Trade-ins</a></div> 
+  <div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="maintenance.php">Maintenance Page</a> </div> 
+  <div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="404.php">404 Page</a> </div> 
 
 
 	<div class="wthru-row"><div class="label label-danger">Admin</div>  <a target="_blank" href="pre-sale/preauction.php">Quality Control</a></div> 

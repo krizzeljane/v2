@@ -10,6 +10,11 @@
 	padding-bottom: 30px;
 }*/
 
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 .print-only {
   display: none;
 }
@@ -204,7 +209,7 @@ body {
 .color.primary.yellow {
   width: 80px;
   height: 80px;
-  background: #fbb03b;
+  /*background: #fbb03b;*/
   background: #F3BB1A;
   display: block;
   border-radius: 100%;
@@ -664,6 +669,11 @@ ul.dropdown-menu .checkbox label{
     }*/
 }
 
+@media (max-width: 768px) {
+  body {
+    padding-bottom: 0 !important;
+  }
+}
 
 /***** FORMS *****/
 

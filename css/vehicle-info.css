@@ -404,10 +404,50 @@ a.watch-btn span:before {
 	height: 100vh;
 }
 
-.flexslider {
+#slider {
 	margin: 0;
 	border: none !important;
+	overflow: hidden;
 }
+
+#slider .flex-direction-nav .flex-next {
+    right: 0px;
+    text-align: right;
+    /* left: 93%; */
+}
+
+#slider .flex-direction-nav .flex-next:before {
+    /* margin: 0 !important; */
+    right: 10px;
+    top: 45%;
+    position: absolute;
+}
+
+#slider .flex-direction-nav .flex-next {
+
+background-color: rgba(0,0,0,0.6);
+    height: 100% !important;
+    width: 40px;
+    top: 25px;
+    right: 0% !important;
+}
+
+#slider .flex-direction-nav .flex-prev:before {
+    /* margin: 0 !important; */
+    left: 10px;
+    top: 45%;
+    position: absolute;
+}
+
+#slider .flex-direction-nav .flex-prev {
+
+background-color: rgba(0,0,0,0.6);
+    height: 100% !important;
+    width: 40px;
+    top: 25px;
+    left: 0% !important;
+}
+
 
 div#carousel {
 	margin: 10px;

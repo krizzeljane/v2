@@ -28,8 +28,9 @@
       </ul>
 
       <ul class="nav navbar-nav navbar-right">
+        <li><p href="#" class=""> Support: (844) 428-9638</p></li>
         <li><button href="#" class="btn btn-yellow"> Request a Demo</button></li>
-        <li><button href="#" class="btn btn-primary"> Call us at: (844) 428-9638</button></li>
+        
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->

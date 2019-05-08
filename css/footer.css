@@ -1,7 +1,4 @@
-html {
-    position: relative;
-    min-height: 100%;
-}
+
 
 /*.footer {
     position: absolute;
@@ -20,10 +17,10 @@ html {
 
 footer.footer {
 	position: absolute;
-    bottom: 0;
-    /*height: 200px;*/
-    width: 100%;
-    z-index: 1 !important;
+  bottom: 0;
+  /*height: 200px;*/
+  width: 100%;
+  z-index: 1 !important;
 }
 
 .footer-content {
@@ -88,4 +85,10 @@ footer.footer {
 .footer-content p a:hover{
 	color: #3e9bd3;
 	transition: 0.2s;
+}
+
+@media (max-width: 768px) {
+footer.footer {
+    position: relative !important;
+  }
 }
