@@ -3,7 +3,7 @@
 
 
 <div id="background-carousel">
-	<div id="myCarousel" class="carousel carousel-fade" data-ride="carousel">
+	<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="item slide-1 active" style="background-image:url(images/slider-10.jpg)">
 				<div class="container">
@@ -182,23 +182,75 @@
 
 
 
+<section class="home-section three home">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<div class="cw-con">
+					<h2 class="text-center"><i class="fa fa-gavel fa-2x"></i></h2>
+					<h3 class="p-header">Online Dealer Auction, Always at your Fingertips</h3>
+					<p>Our online auction platform allows you to buy from the comfort of your own office. With auction features such as watchlist, proxy bid, and advanced filters, CARWAVE enables the car buying process to be quicker, easier, and more efficient than ever before. Auction notifications are available via SMS, mobile, or email, so you never miss any action. </p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="cw-con">
+					<h2 class="text-center"><i class="far fa-file-alt fa-2x"></i></h2>
+					<h3 class="p-header">Comprehensive Condition Reports, We are your Eyes and Ears</h3>
+					<p>Our professional vehicle inspectors are ASE Certified Mechanics, deployed directly to franchise and commercial dealerships to complete detailed condition reports. We start each inspection with a test drive through all gears to ensure accuracy in the engine and transmission details. Our condition reports also include paint meter readings, tire tread depths, detailed photos, audio clips, engine fluid levels and OBD2 scans, and much more. Our dealers know exactly what they are buying.</p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="cw-con">
+					<h2 class="text-center"><i class="fa fa-check fa-2x"></i></h2>
+					<h3 class="p-header">As-Described Guarantee Option, Giving you Confidence</h3>
+					<p>At CARWAVE, all listed vehicles come with the most comprehensive condition reports on the market. We stand behind our inspections, regardless of year or mileage. This means, CARWAVE offers an ”As-Described Guarantee” option for every vehicle listed. The car you are expecting is the car you get. </p>
+				</div>
+			</div>
+		</div>
+		<br>
+		<div class="row">
+			<div class="col-md-2"></div>
+			<div class="col-md-4">
+				<div class="cw-con">
+					<h2 class="text-center"><i class="far fa-user fa-2x"></i></h2>
+					<h3 class="p-header">Customer Support, Maximizing your Success</h3>
+					<p>For every dealer, we assign a dedicated territory account representative to support and maximize dealer success. Buyers can have confidence that our account representatives work on their behalf and help facilitate the buying process from start to finish. </p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="cw-con">
+					<h2 class="text-center"><i class="fa fa-headset fa-2x"></i></h2>
+					<h3 class="p-header">End-to-End Services, Shortening your To-Do List</h3>
+					<p>We provide a dedicated team of professionals that help streamline the entire auction process, allowing dealers more time to run their businesses. Our friendly customer service is on standby to answer any of your questions or help resolve issues.</p>
+				</div>
+			</div>
+			<div class="col-md-2"></div>
+		</div>
+	</div>
+</section>
+
+
 
 <section class="home-section four home">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
-				<div class="home-img-cont">
-					<img class="img-responsive" src="https://media.istockphoto.com/photos/people-shaking-hands-in-car-showroom-picture-id905468040?s=2048x2048" alt="CARWAVE - Your Trusted Car Dealership Network" >
-				</div>
+			<div class="col-md-5">
+				<iframe width="100%" height="315" src="https://www.youtube.com/embed/wYZZuU4o87k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-7">
 				<div style="">
-					<h2 class="p-header" >
-						Lobortis nisl ut aliquip commodo consequat
-					</h2>
-					<p style="">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla.</p>
+					<p><i class="fa fa-check text-success"></i> Get more money for your cars, while saving money on auction fees</p>
+					<p><i class="fa fa-check text-success"></i> Carwave has the right audience to wholesale your aged frontline and trade-ins</p>
+					<p><i class="fa fa-check text-success"></i> Our comprehensive online platform, making it easy to wholesale your inventory</p>
+					<p><i class="fa fa-check text-success"></i> Go direct, elminate the expenses & hassles of traditional auction houses</p>
+					<!-- <ul>
+						<li><h4>Get more money for your cars, while saving money on auction fees</h4></li>
+						<li><h4>Carwave has the right audience to wholesale your aged frontline and trade-ins</h4></li>
+						<li><h4>Our comprehensive online platform, making it easy to wholesale your inventory</h4></li>
+						<li><h4>Go direct, elminate the expenses & hassles of traditional auction houses</h4></li>
+					</ul> -->
 					<br>
-					<button class="btn btn-lg btn-primary">
+					<button class="btn btn-lg btn-yellow">
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REQUEST A DEMO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					</button>
 				</div>
@@ -206,30 +258,6 @@
 			
 		</div>
 	</div>
-	<br>
-</section>
-
-
-
-<section class="home-section three home">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6">
-				<iframe width="100%" height="315" src="https://www.youtube.com/embed/wYZZuU4o87k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-			<div class="col-md-6">
-				<div style="">
-					<h2 class="p-header" >
-						Lobortis nisl ut aliquip commodo consequat
-					</h2>
-					<p style="">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla.</p>
-				</div>
-			</div>
-			
-		</div>
-	</div>
-	<br>
-	<br>
 </section>
 
 
