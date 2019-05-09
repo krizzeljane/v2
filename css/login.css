@@ -520,6 +520,25 @@ footer.footer-home {
 }
 
 
+.video-section {
+    padding: 20px;
+    background-color: #fff;
+    color: #333 !important;
+    border-radius: 20px;
+    margin-top: -360px;
+    box-shadow: 0px 4px 17px -10px #333;
+}
+
+.video-section-text {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.video-section p {
+    color: #333;
+}
+
+
 /*LOGO CAROUSEL */
 /*LOGO CAROUSEL */
 /*LOGO CAROUSEL */
