@@ -662,11 +662,6 @@ include('buybid-modal.php');
 							            <label for="checkbox-22"><span class="check">All</span></label>
 							          </div>
 											</th>
-											<th width="120">Year</th>
-											<th>Make</th>
-											<th>Model</th>
-											<th>Mileage</th>
-											<th>Color</th>
 											<th>Dealer</th>
 											<th>Dealership</th>
 										</tr>
@@ -679,11 +674,6 @@ include('buybid-modal.php');
 							            <label for="checkbox-23"><span class="check">&nbsp;</span></label>
 							          </div>
 											</td>
-											<td>2016 to 2019</td>
-											<td>Honda</td>
-											<td>Civic</td>
-											<td>0-25,000</td>
-											<td>Black</td>
 											<td><a href="users/userprofile.php" target="_blank">Brett Norberry</a></td>
 											<td>Folsom Lake Toyota</td>
 										</tr>
@@ -694,13 +684,8 @@ include('buybid-modal.php');
 							            <label for="checkbox-23"><span class="check">&nbsp;</span></label>
 							          </div>
 											</td>
-											<td>2016 to 2019</td>
-											<td>Honda</td>
-											<td>Civic</td>
-											<td>0-25,000</td>
-											<td>Black</td>
 											<td><a href="users/userprofile.php" target="_blank">Adam Harris</a></td>
-											<td>Folsom Lake Toyota</td>
+											<td>Folsom Lake Toyota, Dealership 456, Dealership 763</td>
 										</tr>
 										<tr>
 											<td>
@@ -709,13 +694,8 @@ include('buybid-modal.php');
 							            <label for="checkbox-23"><span class="check">&nbsp;</span></label>
 							          </div>
 											</td>
-											<td>2016 to 2019</td>
-											<td>Honda</td>
-											<td>Civic</td>
-											<td>0-25,000</td>
-											<td>Black</td>
 											<td><a href="users/userprofile.php" target="_blank">Ryan Farina</a></td>
-											<td>Folsom Lake Toyota</td>
+											<td>Folsom Lake Toyota, Dealership 2, Dealership 3</td>
 										</tr>
 										<tr>
 											<td>
@@ -724,11 +704,6 @@ include('buybid-modal.php');
 							            <label for="checkbox-23"><span class="check">&nbsp;</span></label>
 							          </div>
 											</td>
-											<td>2016 to 2019</td>
-											<td>Honda</td>
-											<td>Civic</td>
-											<td>0-25,000</td>
-											<td>Black</td>
 											<td><a href="users/userprofile.php" target="_blank">Alejandra Delgado</a></td>
 											<td>Folsom Lake Toyota</td>
 										</tr>
@@ -739,11 +714,6 @@ include('buybid-modal.php');
 							            <label for="checkbox-23"><span class="check">&nbsp;</span></label>
 							          </div>
 											</td>
-											<td>2016 to 2019</td>
-											<td>Honda</td>
-											<td>Civic</td>
-											<td>0-25,000</td>
-											<td>Black</td>
 											<td><a href="users/userprofile.php" target="_blank">Marshia Young</a></td>
 											<td>Folsom Lake Toyota</td>
 										</tr>
@@ -754,11 +724,6 @@ include('buybid-modal.php');
 							            <label for="checkbox-23"><span class="check">&nbsp;</span></label>
 							          </div>
 											</td>
-											<td>2016 to 2019</td>
-											<td>Honda</td>
-											<td>Civic</td>
-											<td>0-25,000</td>
-											<td>Black</td>
 											<td><a href="users/userprofile.php" target="_blank">Bretman Rock</a></td>
 											<td>Folsom Lake Toyota</td>
 										</tr>
@@ -769,11 +734,6 @@ include('buybid-modal.php');
 							            <label for="checkbox-23"><span class="check">&nbsp;</span></label>
 							          </div>
 											</td>
-											<td>2016 to 2019</td>
-											<td>Honda</td>
-											<td>Civic</td>
-											<td>0-25,000</td>
-											<td>Black</td>
 											<td><a href="users/userprofile.php" target="_blank">Ryan Higa</a></td>
 											<td>Folsom Lake Toyota</td>
 										</tr>
@@ -784,11 +744,6 @@ include('buybid-modal.php');
 							            <label for="checkbox-23"><span class="check">&nbsp;</span></label>
 							          </div>
 											</td>
-											<td>2016 to 2019</td>
-											<td>Honda</td>
-											<td>Civic</td>
-											<td>0-25,000</td>
-											<td>Black</td>
 											<td><a href="users/userprofile.php" target="_blank">Chester See</a></td>
 											<td>Folsom Lake Toyota</td>
 										</tr>
@@ -818,18 +773,13 @@ include('buybid-modal.php');
 							            <label for="checkbox-22"><span class="check">All</span></label>
 							          </div>
 											</th>
-											<th width="120">Year</th>
-											<th>Make</th>
-											<th>Model</th>
-											<th>Mileage</th>
-											<th>Color</th>
 											<th>Dealer</th>
 											<th>Dealership</th>
 										</tr>
 									</thead>
 									<tbody>
 										<tr>
-											<td colspan="8" class="text-center" style="padding: 20px 0;">
+											<td colspan="3" class="text-center" style="padding: 20px 0;">
 												<em class="text-light">No results found. <br>Try a different vehicle.</em>
 											</td>
 

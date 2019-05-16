@@ -234,22 +234,13 @@
 
 <section class="home-section four home">
 	<div class="container">
-		<div class="video-section bg-primary-two">
+		<div class="video-section">
 			<div class="row">
 			<div class="col-md-6">
 				<div class="video-section-text">
 					<h2 class="p-header">Our comprehensive online platform, making it easy to wholesale your inventory</h2>
 					<p>At CARWAVE, you become part of the most trusted, convenient, and affordable auto auction on the market. CARWAVE is a trusted inventory source for over 1,900 independent dealerships in California. Our auction has a great selection of cars direct from franchise dealerships, with over 1500+ cars to choose from weekly. CARWAVE is your one-stop shop for all your wholesale needs, with features including comprehensive condition reports, floorplan financing options, transportation services, title management, and dealer resolution.</p>
-					<!-- <p><i class="fa fa-check text-success"></i> Get more money for your cars, while saving money on auction fees</p>
-					<p><i class="fa fa-check text-success"></i> Carwave has the right audience to wholesale your aged frontline and trade-ins</p>
-					<p><i class="fa fa-check text-success"></i> </p>
-					<p><i class="fa fa-check text-success"></i> Go direct, elminate the expenses & hassles of traditional auction houses</p> -->
-					<!-- <ul>
-						<li><h4>Get more money for your cars, while saving money on auction fees</h4></li>
-						<li><h4>Carwave has the right audience to wholesale your aged frontline and trade-ins</h4></li>
-						<li><h4>Our comprehensive online platform, making it easy to wholesale your inventory</h4></li>
-						<li><h4>Go direct, elminate the expenses & hassles of traditional auction houses</h4></li>
-					</ul> -->
+
 					<br>
 					<button class="btn btn-lg btn-primary" id="play">
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Play Video&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-play"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -257,7 +248,7 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<iframe id="video-placeholder" width="100%" height="470" src="https://www.youtube.com/embed/wYZZuU4o87k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<iframe id="video-placeholder" width="100%" height="470" src="https://www.youtube.com/embed/8wDCtkkZ8xU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 			
 		</div>

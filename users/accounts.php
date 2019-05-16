@@ -13,6 +13,7 @@ include('../nav.php');
 <?php include("staff_edit_modal.php") ?>
 <?php include("editDMV-modal.php") ?>
 <?php include("editGroup-modal.php") ?>
+<?php include("editDealer-modal.php") ?>
 
 <?php include("add_user.php") ?>
 <?php include("add_dmv.php") ?>
@@ -301,7 +302,7 @@ include('../nav.php');
                   <td>Ross Nissan</td>
                   <td>
                     <div class="table-action-container">
-                      <a href="javascript:;" class="btn-link-default editDealer" data-toggle="modal" data-target="#editDealer"><i class="fa fa-pencil-alt"></i></a>
+                      <a href="javascript:;" class="btn-link-default editDealer" data-toggle="modal" data-target="#editDealer-profile"><i class="fa fa-pencil-alt"></i></a>
                       <a href="javascript:;" class="btn-link-default lockDealer" data-toggle="modal" data-target="#lockDealer"><i class="fa fa-lock"></i></a>
                       <a href="javascript:;" class="btn-link-default unlockDealer"><i class="fa fa-lock-open" onclick="$('.account-lock').removeClass('account-lock').addClass('account-active'); $('.unlockDealer').hide();$('.lockDealer').show();"></i></a>
                       <a href="javascript:;" class="btn-link-default deleteDealer" data-toggle="modal" data-target="#deleteDealer"><i class="fa fa-trash-alt"></i></a>
@@ -318,7 +319,7 @@ include('../nav.php');
                   <td>Ross Nissan</td>
                   <td>
                     <div class="table-action-container">
-                      <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#editDealer"><i class="fa fa-pencil-alt"></i></a>
+                      <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#editDealer-profile"><i class="fa fa-pencil-alt"></i></a>
                       <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#lockDealer"><i class="fa fa-lock"></i></a>
                       <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#deleteDealer"><i class="fa fa-trash-alt"></i></a>
                     </div>
@@ -334,7 +335,7 @@ include('../nav.php');
                   <td>Ross Nissan</td>
                   <td>
                     <div class="table-action-container">
-                      <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#editDealer"><i class="fa fa-pencil-alt"></i></a>
+                      <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#editDealer-profile"><i class="fa fa-pencil-alt"></i></a>
                       <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#lockDealer"><i class="fa fa-lock"></i></a>
                       <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#deleteDealer"><i class="fa fa-trash-alt"></i></a>
                     </div>

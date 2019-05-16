@@ -44,7 +44,7 @@
             <input type="text" class="form-control" id="email" value="ryanfarina@gmail.com" placeholder="Enter Email">
           </div>
         </div>
-        <div class="col-md-4">
+        <!-- <div class="col-md-4">
           <div class="form-group">
             <label for="password">Password</label>
             <input type="password" class="form-control" id="password" value="123456789" placeholder="Enter Password">
@@ -54,6 +54,35 @@
           <div class="form-group">
             <label for="confirmpassword">Confirm Password</label>
             <input type="password" class="form-control" id="confirmpassword" value="123456789" placeholder="Confirm Password">
+          </div>
+        </div> -->
+      </div>
+      <div class="row edit-pw-btn">
+        <div class="col-md-12">
+          <div class="form-group">
+            <!-- <label for="confirmpassword">&nbsp;</label> -->
+            <button type="button" class="btn btn-default" onclick="$('.edit-pw-btn').hide();$('.edit-pw').fadeIn();">Update Password</button>
+          </div>
+          
+        </div>
+      </div>
+      <div class="row edit-pw" style="display: none;">
+        <div class="col-md-4">
+          <div class="form-group">
+            <label for="password">New Password</label>
+            <input type="password" class="form-control" id="password" value="123456789" placeholder="Enter New Password">
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="form-group">
+            <label for="confirmpassword">Confirm Password</label>
+            <input type="password" class="form-control" id="confirmpassword" value="123456789" placeholder="Confirm Password">
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="form-group">
+            <label for="confirmpassword">&nbsp;</label>
+            <button type="button"  class="btn btn-default" onclick="$('.edit-pw').hide();$('.edit-pw-btn').fadeIn();">Cancel</button>
           </div>
         </div>
       </div>
