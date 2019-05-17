@@ -1,4 +1,4 @@
-<div class="vi-col second">
+<div class="vi-col second" style= "page-break-after:always;page-break-inside: avoid;">
 	<?php include("kbb.php") ?>
 
 	<?php include("uap1.php") ?>
