@@ -9,6 +9,7 @@
         <div class="col-md-3">
           <img src="images/cw-logo-w.png" class="img-responsive">
           <br>
+          <p class="text-xs">Copyright @ 2019</p>
         </div>
         <div class="col-md-5">
           <div class="row">
