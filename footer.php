@@ -15,6 +15,8 @@
           <div class="row">
             <div class="col-sm-6">
               <ul class="list-unstyled text-left">
+                <li><a class="" href="about-us-seller.php">About Us (Sellers)</a></li>
+                <li><a class="" href="about-us-buyer.php">About Us (Buyers)</a></li>
                 <li><a class="" href="javascript:;" data-toggle="modal" data-target="#taa">Terms and Agreements</a></li>
                 <li><a href="http://www.carwave.com/carwave-privacy-policy.html" target="_blank">Privacy Policy</a></li>
               </ul>

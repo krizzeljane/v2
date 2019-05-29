@@ -30,14 +30,14 @@
 					</h1>
 				</div>
 			</div>
-			<div class="item slide-4" style="background-image:url(images/slider-11.jpg)">
+			<!-- <div class="item slide-4" style="background-image:url(images/slider-11.jpg)">
 				<div class="container">
 					<h1 class="slider-texts slider-text-1">
 						<span class="text-yellow">NO</span> BUY FEES<br>
 						<span class="text-yellow">NO</span> SELL FEES
 					</h1>
 				</div>
-			</div>  
+			</div>  --> 
 		</div>
 	</div>
 </div>
@@ -49,7 +49,7 @@
 <section class="banner home">
 	<div class="banner-inner">
 		<div class="container">
-			<div class="row banner-content animated zoomIn text-center">
+			<div class="row banner-content text-center">
 				<div class="col-md-7">
 				</div>
 				<div class="col-md-4">
@@ -86,16 +86,16 @@
 <section class="home-section two home">
 	<div class="container">
 		<div class="container">
-		  <section class="customer-logos slider">
-		    <div class="slide slick-slide"><img src="images/logo-valencia.jpg"></div>
-		    <div class="slide"><img src="images/logo-volks.png"></div>
-		    <div class="slide"><img src="images/logo-lb.png"></div>
-		    <div class="slide"><img src="images/logo-sa.png"></div>
-		    <div class="slide"><img src="images/logo-alham.png"></div>
-		    <div class="slide"><img src="images/logo-penske.jpg"></div>
-		    <div class="slide"><img src="images/logo-valencia.jpg"></div>
-		    <div class="slide"><img src="images/logo-volks.png"></div>
-		  </section>
+			<section class="customer-logos slider">
+				<div class="slide slick-slide"><img src="images/logo-valencia.jpg"></div>
+				<div class="slide"><img src="images/logo-volks.png"></div>
+				<div class="slide"><img src="images/logo-lb.png"></div>
+				<div class="slide"><img src="images/logo-sa.png"></div>
+				<div class="slide"><img src="images/logo-alham.png"></div>
+				<div class="slide"><img src="images/logo-penske.jpg"></div>
+				<div class="slide"><img src="images/logo-valencia.jpg"></div>
+				<div class="slide"><img src="images/logo-volks.png"></div>
+			</section>
 		</div>
 	</div>
 	<!-- <div class="container">
@@ -121,7 +121,7 @@
 
 
 
-<section class="home-section three home">
+<!-- <section class="home-section three home">
 	<div class="container">
 		<h2 class="p-header section-header text-center">ABOUT US</h2><br><br>
 		<div class="row">
@@ -132,7 +132,6 @@
 						<h3 class="p-header">CARWAVE is an online automobile auction platform that simplifies the wholesaling of trade-in and frontline vehicles between franchise and independent auto dealers.</h3>
 						<p>
 						Founded in 2009, CARWAVE is displacing the $100 billion traditional brick-and-mortar wholesale automobile auction industry with its innovative, internet-based business model.  By bringing the auction to the dealership, CARWAVE increases profit margins and provides a more convenient experience for both sellers and buyers.</p>
-						<!-- <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p> -->
 					</div>
 				</div>
 			</div>
@@ -142,8 +141,26 @@
 					<div class="caption">
 						<h3 class="p-header">All vehicles listed on CARWAVE include detailed condition reports performed by ASE Certified Mechanics.<br></h3>
 						<p> Unlike traditional auctions that sell both "as-is" and "guaranteed" cars, all cars on CARWAVE are guaranteed as described in the inspection report. Regardless of year or mileage, there are no surprises when the purchased vehicles arrive at the buying dealership. This assurance helps dealerships increase profit margins by avoiding costly engine and transmission problems or unexpected reconditioning costs. </p>
-						<!-- <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p> -->
 					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section> -->
+
+<section class="home-section three home">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-8"><br><br>
+				<h2 class="p-header">YOUR TRUSTED CAR DEALERSHIP NETWORK</h2> <br>
+				<p>At CARWAVE, you become part of the most trusted, convenient, and affordable auto auction on the market. <br>
+					CARWAVE is an online platform that enables dealers to buy and sell vehicles right from the comfort of their home or office. CARWAVE is a trusted inventory source for over 1,900 independent dealerships in California. Our auction has a great selection of cars direct from franchise dealerships, with over 1500+ cars to choose from weekly.  <br>
+					With more than 35,000 vehicles sold in 2018, CARWAVE, is California’s largest dealer direct network and is currently expanding into additional states, including Arizona and Nevada. 
+				</p>
+			</div>
+			<div class="col-sm-4">
+				<div class="cw-img">
+					<img src="images/states-02.png" alt="CARWAVE - Your Trusted Car Dealership Network"  class="pull-right img-responsive">
 				</div>
 			</div>
 		</div>
@@ -157,21 +174,20 @@
 			<div class="col-md-12">
 				<div>	
 					<div class="row">
+						<div class="col-sm-6">
+							<div class="cw-img"><br><br><br>
+								<img src="images/demo-04.png" alt="CARWAVE - Your Trusted Car Dealership Network"  class="pull-right img-responsive">
+							</div>
+						</div>
+						<div class="col-sm-6">
+							<h2 class="p-header">MOVING WHOLESALE INVENTORY QUICKER, EASIER AND MORE EFFICIENT THAN EVER BEFORE</h2>
+							<p class="text-white">CARWAVE was founded in 2009 with the goal of using technology and an internet-based business model to eliminate the costly overhead of tradition auctions. We are effectively saving dealers money, increasing reach and streamlining the auction process, allowing dealers more time to run their businesses. <br>
+							For every dealer, we assign a dedicated territory account representative to support and maximize dealer success. Both seller and buyers can have confidence that our account representatives work on their behalf and help facilitate the selling and buyer process from start to finish.
 
-						<div class="col-sm-7">
-							<h2 class="p-header">Dealership margins have come under tremendous pressure over the past ten years. </h2>
-							<p class="text-white">The company was founded with the goal of using technology and a new business model to eliminate the costly overhead of traditional auctions. For car buyers, the platform's fees are less than those of competing auctions and there are no "online simulcast" fees that traditional auctions charge. Additionally, CARWAVE helps avoid the hassle of auction houses for both buyers and sellers - no bad run numbers, no sabotaged cars, no shipping costs, no inspection fees, and no sell fees.  </p>
-							<p class="text-white"> With more than <strong class="text-yellow"> 35,000 vehicles sold in 2018</strong>, CARWAVE is California's largest dealer direct network and is currently expanding into additional states, including Arizona and Nevada. 
 							</p><br><br>
 							<button class="btn btn-lg btn-yellow">
 								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SIGN UP NOW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 							</button>
-						</div>
-
-						<div class="col-sm-5">
-							<div class="cw-img">
-								<img src="images/states-02.png" alt="CARWAVE - Your Trusted Car Dealership Network"  class="pull-right img-responsive">
-							</div>
 						</div>
 					</div>
 				</div>
@@ -183,6 +199,28 @@
 
 
 <section class="home-section three home">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<h2 class="p-header">TAKING THE RISK OUT OF THE AUCTION</h2> <br>
+				<p>All vehicles listed on CARWAVE include detailed condition reports performed by ASE Certified Mechanics. <br>
+				Unlike traditional auctions that sell both "as-is" and "guaranteed" cars, all cars on CARWAVE are guaranteed as described in the inspection report. We stand behind our inspections, regardless of year or mileage, so there are no surprises when the purchased vehicles arrive at the buying dealership. This gives our trusted network of dealers the confidence to sell and buy online. <br>
+				Our ASE Certified Mechanic inspectors are dispatched directly to franchise dealerships for a 40-minute inspection per vehicle, then listed directly into our auction. CARWAVE offers the most comprehensive condition reports and the most extensive inspections in the industry. 
+				</p>
+			</div>
+			<div class="col-sm-6">
+				<div class="cw-img"><br><br>
+					<img src="images/inspector-07.png" alt="CARWAVE - Your Trusted Car Dealership Network"  class="pull-right img-responsive">
+				</div>
+			</div>
+		</div>
+	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</section>
+
+
+
+<!-- <section class="home-section three home">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
@@ -227,8 +265,8 @@
 			<div class="col-md-2"></div>
 		</div>
 	</div>
-	<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-</section>
+	
+</section> -->
 
 
 
@@ -236,22 +274,22 @@
 	<div class="container">
 		<div class="video-section">
 			<div class="row">
-			<div class="col-md-6">
-				<div class="video-section-text">
-					<h2 class="p-header">Our comprehensive online platform, making it easy to wholesale your inventory</h2>
-					<p>At CARWAVE, you become part of the most trusted, convenient, and affordable auto auction on the market. CARWAVE is a trusted inventory source for over 1,900 independent dealerships in California. Our auction has a great selection of cars direct from franchise dealerships, with over 1500+ cars to choose from weekly. CARWAVE is your one-stop shop for all your wholesale needs, with features including comprehensive condition reports, floorplan financing options, transportation services, title management, and dealer resolution.</p>
+				<div class="col-md-5">
+					<div class="video-section-text">
+						<h2 class="p-header">SIGN UP TODAY - BECOME A PART OF THE LARGEST DEALERSHIP NETWORK</h2>
+						<p>See why thousands of franchise and independent dealerships have joined CARWAVE, your Trusted Dealership Network.</p>
 
-					<br>
-					<button class="btn btn-lg btn-primary" id="play">
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Play Video&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-play"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					</button>
+						<br>
+						<button class="btn btn-lg btn-primary" id="play">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Play Video&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-play"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						</button>
+					</div>
 				</div>
+				<div class="col-md-7">
+					<iframe id="video-placeholder" width="100%" height="470" src="https://www.youtube.com/embed/8wDCtkkZ8xU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+
 			</div>
-			<div class="col-md-6">
-				<iframe id="video-placeholder" width="100%" height="470" src="https://www.youtube.com/embed/8wDCtkkZ8xU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-			
-		</div>
 		</div>
 	</div>
 </section>
@@ -339,44 +377,44 @@
 
 <script type="text/javascript">
 	$(document).ready(function(){
-	  $('.customer-logos').slick({
-	    slidesToShow: 6,
-	    slidesToScroll: 1,
-	    autoplay: true,
-	    autoplaySpeed: 2000,
-	    arrows: false,
-	    dots: false,
-	    pauseOnHover: false,
-	    responsive: [{
-	      breakpoint: 768,
-	      settings: {
-	        slidesToShow: 4
-	      }
-	    }, {
-	      breakpoint: 520,
-	      settings: {
-	        slidesToShow: 3
-	      }
-	    }]
-	  });
+		$('.customer-logos').slick({
+			slidesToShow: 6,
+			slidesToScroll: 1,
+			autoplay: true,
+			autoplaySpeed: 2000,
+			arrows: false,
+			dots: false,
+			pauseOnHover: false,
+			responsive: [{
+				breakpoint: 768,
+				settings: {
+					slidesToShow: 4
+				}
+			}, {
+				breakpoint: 520,
+				settings: {
+					slidesToShow: 3
+				}
+			}]
+		});
 	});
 
 
 	var player;
 
-function onYouTubeIframeAPIReady() {
-    player = new YT.Player('video-placeholder', {
-        videoId: 'wYZZuU4o87k',
-        playerVars: {
-            color: 'white'
-        },
-        events: {
-            onReady: initialize
-        }
-    });
-}
+	function onYouTubeIframeAPIReady() {
+		player = new YT.Player('video-placeholder', {
+			videoId: 'wYZZuU4o87k',
+			playerVars: {
+				color: 'white'
+			},
+			events: {
+				onReady: initialize
+			}
+		});
+	}
 
-function initialize(){
+	function initialize(){
 
     // Update the controls on load
     updateTimerDisplay();
@@ -388,18 +426,18 @@ function initialize(){
     // Start interval to update elapsed time display and
     // the elapsed part of the progress bar every second.
     time_update_interval = setInterval(function () {
-        updateTimerDisplay();
-        updateProgressBar();
+    	updateTimerDisplay();
+    	updateProgressBar();
     }, 1000)
 
-}
+  }
 
-	$('#myCarousel').carousel({
-		pause: 'pause'
-	})
+  $('#myCarousel').carousel({
+  	pause: 'pause'
+  })
 
-	$('#play').on('click', function () {
-    player.playVideo();
+  $('#play').on('click', function () {
+  	player.playVideo();
   });
-	
+
 </script>
