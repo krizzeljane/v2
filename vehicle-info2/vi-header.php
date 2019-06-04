@@ -13,8 +13,8 @@
 			</div>
 		</div>
 
-		<div class="row on-scroll animated slideDown">
-			<div class=" hidden-sm hidden-xs col-md-6">
+		<div class="row on-scroll animated slideDown hidden-sm hidden-xs ">
+			<div class="col-md-6">
 				<h4>Alfa Romeo 6C 2300 B Lungo Cabriolet 4 Posti Castagna <span class="hidden-xs pull-right">$18,000 </h4>
 				<h5><span>FWD 4-Cyl, 2.0 Liter</span> <span>16,865 miles</span> <span>Silver/Gray</span> <span>3KPFL4A70JE165060</span> <span>12,896 miles</span></h5>
 			</div>

@@ -2,12 +2,12 @@
 	<div class="col-sm-12">
 		<div class="vi-kbb">
 			<div class="panel panel-default">
-				<h4>KBB / with miles: $10,557/$11,548 <span class="pull-right"><i class="fa fa-chevron-down"></i></span></h4>
+				<a href="javascript:;" onclick="$('.vi-kbb-cont').slideToggle();"><h4>KBB / with miles: $10,557/$11,548 <span class="pull-right"><i class="fa fa-chevron-down"></i></span></h4></a>
 			</div>
 		</div>
 	</div>
 
-	<div class="col-sm-12" style="display: none;">
+	<div class="col-sm-12 vi-kbb-cont" style="display: none;">
 		<div class="vi-kbb">
 			<div class="panel panel-default">
 				<h4 class="text-center">Wholesale Lending/Retail Breakdown <br> Kelley Blue Book</h4>

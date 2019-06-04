@@ -4,13 +4,20 @@ margin-bottom: 0;
 /*    position: relative;*/
 }
 
-section.banner {
+/*section.banner {
 	width: 100%;
 	position: relative;
 	min-height: 80vh;
-	/*background: url('https://media.istockphoto.com/photos/dealer-new-cars-stock-picture-id480652712?s=2048x2048') no-repeat 0 50%;*/
 	background-size: cover;
     display: table;
+}*/
+
+section.banner {
+    width: 100%;
+    position: relative;
+    min-height: 80vh;
+    background-size: cover;
+    /*display: table;*/
 }
 
 #background-carousel{
@@ -32,10 +39,32 @@ section.banner {
 
 }*/
 
-
+/*
 section.banner > .banner-inner {
     display: table-cell;
     vertical-align: middle;
+}*/
+
+section.banner > .banner-inner {
+
+    display: flex;
+    vertical-align: middle;
+    height: 100% !important;
+    width: 100%;
+    min-height: 80vh;
+    /*justify-content: center;
+    align-self: center;*/
+
+}
+
+.banner-inner >.container {
+
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    justify-content: center;
+    align-self: center;
+
 }
 
 section.home-section.two {
@@ -379,7 +408,7 @@ nav.navbar.home .navbar-right li:first-child button {
 }
 
 .banner-content  {
-    padding-top: 20px;
+   /* padding-top: 20px;*/
 }
 
 .banner-content button {

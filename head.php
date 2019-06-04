@@ -66,7 +66,6 @@
   <!-- Modernizr -->
   <script src="slider/demo/js/modernizr.js"></script>
   
-  
   <!-- jQuery -->
   <!--   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
 <!--   <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script> -->
@@ -98,7 +97,7 @@
     <![endif]-->
 <!-- -->
 </head>
-<body>
+<body class="unresponsive">
   <?php include('taa-modal.php')?>
   <?php include("impers-modal.php") ?>
   <?php include("ourtem-modal.php") ?>

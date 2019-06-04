@@ -530,10 +530,19 @@ include('delete-dmv.php');
                 <div class="form-group">
                   <label for="inputEmail3" class="col-sm-6 control-label">Saved Searches</label>
                   <div class="col-sm-2">
-                    <a class="btn btn-default btn-sm" href="javascript:;"> Edit settings</a>
+                    <div class="checkbox">
+                      <input type="checkbox" name="group2" id="email3" checked="checked">
+                      <label for="email3"><span class="check">Email</span></label>
+                    </div>
                   </div>
-                  
+                  <div class="col-sm-2">
+                    <div class="checkbox">
+                      <input type="checkbox" name="group2" id="text3" checked="checked">
+                      <label for="text3"><span class="check">Text</span></label>
+                    </div>
+                  </div>
                 </div>
+
 
                 <!-- <div class="form-group">
                   <label for="inputEmail3" class="col-sm-6 control-label">Upcoming Auctions</label>

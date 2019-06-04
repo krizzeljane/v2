@@ -35,7 +35,7 @@ include('bid-modal-autobid.php');
 
         <!-- include("vehicleinfo-row1.php") -->
       </div><!--col-md-6-->
-       <div class="col-md-6 col-print-6 padding-left-md">
+      <div class="col-md-6 col-print-6 padding-left-md">
         <?php include("vi-2.php") ?>
         <!-- <div id="main-content" class="main"> -->
     
@@ -165,6 +165,5 @@ List
 </div>
 </div>
 
-<!-- ååphp include("uap-mob.php")  -->
 
 <?php include("../footer.php") ?>
