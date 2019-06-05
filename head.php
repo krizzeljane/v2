@@ -97,7 +97,7 @@
     <![endif]-->
 <!-- -->
 </head>
-<body class="unresponsive">
+<body class="">
   <?php include('taa-modal.php')?>
   <?php include("impers-modal.php") ?>
   <?php include("ourtem-modal.php") ?>

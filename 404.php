@@ -3,28 +3,19 @@ $title = "Page Not Found | CARWAVE - Your Trusted Car Dealership Network";
 ?>
 
 <?php include('head.php')?>
-<body class="fourofour">
 <?php include('nav-user.php')?>
 
-	<div class="fourofour-body">
-		<div class="container">
+	<div class="fourofour-body text-center">
+<!-- 		<div class="container">
 			<div class="row">
 				
-				<div class="col-md-8">
-					<div class="center-page">
+				<div class="col-md-12">
+					<div class="center-page text-center"> -->
 						
-						<h2>404<br>PAGE NOT FOUND</h2>
-						<h3>The page you're trying to access doesn't appear to exist.</h3><br><br>
-						<button class="btn btn-lg btn-success">Go to Homepage</button>
-					</div>
-				</div>
-
-				<div class="col-md-4">
-					<img src="images/traffic-sign-01.png" class="img-responsive fourofour-img">
-				</div>
-				
-			</div>
-		</div>
+						<h1>404</h1>
+						<h3>PAGE NOT FOUND</h3>
+						<p>The page you are looking for might have been removed, had its name changed or is temporarily unavailable.</p><br><br>
+						<button class="btn btn-default btn-lg">Go Back</button>
 	</div>
 
 <?php include('footer.php')?>

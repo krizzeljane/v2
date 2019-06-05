@@ -6,32 +6,54 @@
 }
 
 .fourofour-body {
-	margin-top: 80px;
+	margin-top: 50px;
 	margin-bottom: 50px;
+	max-width: 400px;
+	min-width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
 }
 
 
-.fourofour h2 {
+.fourofour-body h1,.fourofour-body h3 {
 	font-family: 'Anton', Helvetica, Helvetica Neue, Arial, sans-serif !important;
-	font-size: 6em;
-	color: #333;
 }
 
-.fourofour .fourofour-img {
+.fourofour-body h1 {
+	font-size: 9em;
+	color: #333;
+	margin: 20px 0;
+	text-shadow: 5px 2px 1px #F3BB1A;
+}
+
+.fourofour-body h3 {
+	font-size: 3em;
+	color: #333;
+	margin: 20px 0;
+}
+
+.fourofour-body p {
+	font-size: 1.5em;
+	color: #333;
+	margin: 20px 0 0;
+	font-weight: 300;
+}
+
+.fourofour-body .fourofour-img {
 	width: 300px;
 	margin: 0 auto;
-
 }
 
 
 @media (max-width: 768px) {
-  body.fourofour {
+/*  body.fourofour {
     padding-bottom: 0;
-  }
-  .fourofour h2 {
+  }*/
+  .fourofour-body h2 {
 		font-size: 3em;
 	}
-	.fourofour h3 {
+	.fourofour-body h3 {
 		font-size: 1.5em;
 	}
 }

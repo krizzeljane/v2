@@ -531,14 +531,14 @@ include('delete-dmv.php');
                   <label for="inputEmail3" class="col-sm-6 control-label">Saved Searches</label>
                   <div class="col-sm-2">
                     <div class="checkbox">
-                      <input type="checkbox" name="group2" id="email3" checked="checked">
-                      <label for="email3"><span class="check">Email</span></label>
+                      <input type="checkbox" name="group2" id="email4" checked="checked">
+                      <label for="email4"><span class="check">Email</span></label>
                     </div>
                   </div>
                   <div class="col-sm-2">
                     <div class="checkbox">
-                      <input type="checkbox" name="group2" id="text3" checked="checked">
-                      <label for="text3"><span class="check">Text</span></label>
+                      <input type="checkbox" name="group2" id="text4" checked="checked">
+                      <label for="text4"><span class="check">Text</span></label>
                     </div>
                   </div>
                 </div>
@@ -569,7 +569,7 @@ include('delete-dmv.php');
   </div><!--row-->
 
 </div>
-
+<br><br><br>
 
 
 <?php include("../footer.php") ?>
