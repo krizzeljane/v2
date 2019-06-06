@@ -20,12 +20,13 @@
 			<img class="" src="images/gears-01.svg">
 			<h2 class="">Sorry, we are currently <br>under maintenance.</h2>
 			<p>We will be back shortly!</p>
+			<p><small>Contact us at <strong>(844)428-9638</strong> or email at <strong><a class="text-primary-two" href = "mailto: support@carwave.com"> support@carwave.com</a></strong></small></p>
 			<br>
 			<div class="main-socials">
-				<a class="fb" href="javascript:;"><i class="fab fa-facebook"></i></a>
-				<a class="twitter" href="javascript:;"><i class="fab fa-twitter"></i></a>
-				<a class="linkedin" href="javascript:;"><i class="fab fa-linkedin"></i></a>
-				<a class="yt" href="javascript:;"><i class="fab fa-youtube"></i></a>
+				<a class="fb" target="_blank" href="https://www.facebook.com/carwaveauctions/"><i class="fab fa-facebook"></i></a>
+				<a class="twitter" target="_blank" href="https://twitter.com/carwaveauctions"><i class="fab fa-twitter"></i></a>
+				<a class="linkedin" target="_blank" href="https://www.linkedin.com/company/carwave/"><i class="fab fa-linkedin"></i></a>
+				<a class="yt" target="_blank" href="https://www.youtube.com/channel/UCuSn1nS6Ys8VYk_1mFIoeBA"><i class="fab fa-youtube"></i></a>
 			</div>
 			<!-- <img class="img-logo" src="images/main-car.png"> -->
 		</div>
