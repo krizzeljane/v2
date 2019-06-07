@@ -60,7 +60,7 @@ section.banner > .banner-inner {
 .banner-inner >.container {
 
     height: 100%;
-    display: table-cell;
+    display: block;
     vertical-align: middle;
     justify-content: center;
     align-self: center;
