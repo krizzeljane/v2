@@ -95,7 +95,21 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-<!-- -->
+
+
+<!--[if IE]>
+<style>
+    .banner-inner >.container {
+
+    height: 100%;
+    display: block;
+    vertical-align: middle;
+    justify-content: center;
+    align-self: center;
+  width: 100%;
+  }
+</style>
+<![endif]-->
 </head>
 <body class="">
   <?php include('taa-modal.php')?>
