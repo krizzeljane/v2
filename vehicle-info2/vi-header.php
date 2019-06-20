@@ -1,6 +1,6 @@
 <br>
 
-<div class="container">
+<div class="container visible-lg visible-md">
 	<div class="vi-header" id="vi-header">
 
 		<div class="row non-scroll">
@@ -20,7 +20,7 @@
 			</div>
 			<div class="col-md-6 text-right">
 
-				<div class="row">
+				<!-- <div class="row">
 					<div class="col-xs-6 no-padding-right text-right">
 						<button class="btn btn-lg btn-block btn-success">Buy Now $18,000</button>
 					</div>
@@ -31,14 +31,38 @@
 						<button data-toggle="tooltip" data-title="Add to Watchlist" data-placement="left" class="btn-link"><i class="fa fa-plus fa-2x"></i></button>
 					</div>
 
-				</div>
+				</div> -->
+
+
+
+
+
+            <div class="row">
+              <div class="col-xs-6 col-print-6">
+                <div class="vi-auc-stat stat-success">            
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <p class="text-center text-success">PURCHASED</p>
+                      <p class="text-center stat-bubble">$15,000</p>
+                    </div>   
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-6 col-print-6">
+                <button class="btn btn-default btn-block btn-lg" type="button">Go to Cars I Bought <i class="fa fa-chevron-right"></i></button>
+              </div><!-- /input-group -->
+            </div>
+
+
+
+
 			</div>
 		</div>
 	</div>
 </div>
 
 
-<!-- <div class="container visible-sm visible-xs">
+<div class="container visible-sm visible-xs">
 	<div class="vi-header mob">
 		<div class="row">
 			<div class="col-xs-12 no-padding-right">
@@ -62,7 +86,7 @@
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
 
 	<script type="text/javascript">
 		$(function(){

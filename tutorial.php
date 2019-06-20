@@ -154,7 +154,7 @@ include('nav-user.php');
         <div class="panel-heading" role="tab" id="six">
           <h4 class="panel-title">
             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#togglesix" aria-expanded="false" aria-controls="togglesix">
-              My vehicle has an offer, how can I counter offer?
+              I need to edit 
             </a>
           </h4>
         </div>

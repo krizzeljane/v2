@@ -45,6 +45,7 @@
   <link href="css/whtru.css" rel="stylesheet">
   <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
   <link rel="stylesheet" href="css/404.css" type="text/css" rel="" />
+  <link rel="stylesheet" href="css/getting-started.css" type="text/css" rel="" />
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
@@ -98,20 +99,15 @@
 
 
 <!--[if IE]>
-<style>
-    .banner-inner >.container {
-
-    height: 100%;
-    display: block;
-    vertical-align: middle;
-    justify-content: center;
-    align-self: center;
-  width: 100%;
-  }
-</style>
+  <link rel="stylesheet" type="text/css" href="css/all-ie-only.css" />
 <![endif]-->
 </head>
 <body class="">
+
+  <a href="getting-started.php" class="btn btn-lg btn-success gs-btn">
+    Getting Started <i class="fas fa-info-circle"></i>
+  </a>
+
   <?php include('taa-modal.php')?>
   <?php include("impers-modal.php") ?>
   <?php include("ourtem-modal.php") ?>

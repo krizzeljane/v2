@@ -133,11 +133,12 @@ jQuery(document).ready(function($){
 <hr>
 <li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.ten').show();">10. Frontline Auction (Viewing Time - Starting Bid - With Buy Now) - Buyer View</a></li>
 <li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.eleven').show();">11. Frontline Auction (Viewing Time - Starting Bid - No Buy Now) - Buyer View</a></li>
-<li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.twelve').show();">12. Frontline Auction (Viewing Time - Starting Bid - Offer Made) - Buyer View</a></li>
+<li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.twelve').show();">12. Frontline Auction (Viewing Time - Starting Bid - Offer Made) - Buyer View  - BUY NOW ENABLED</a></li>
+<li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.twelvefirst').show();">12.1 Frontline Auction (Viewing Time - Starting Bid - Offer Made) - Buyer View  - BUY NOW DISABLED</a></li>
 
-<li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.twelvehalf').show();">12.5 Frontline Auction (Auction Start - Starting Bid - No bids yet) - Buyer View - BUY NOW DISABLED</a></li>
+<li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.twelvehalf').show();">12.5 Frontline Auction (Auction Start - Starting Bid - No bids yet) - Buyer View</a></li>
 
-<li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.twelvesix').show();">12.6 Frontline Auction (Auction Start - Starting Bid - No bids yet) - Buyer View - BUY NOW ENABLED</a></li>
+<!-- <li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.twelvesix').show();">12.6 Frontline Auction (Auction Start - Starting Bid - No bids yet) - Buyer View - BUY NOW ENABLED</a></li> -->
 
 <li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.onethree').show();">13. Frontline Auction (Auction Start - Current Bid) - Buyer View</a></li>
 <li><a href="javascript:;" onclick="$('.vi-section-ua').hide();$('.onefour').show();">14. Frontline Auction (Auction Start - Outbid) - Buyer View</a></li>

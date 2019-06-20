@@ -88,6 +88,8 @@
 		<div class="container">
 			<section class="customer-logos slider">
 				<div class="slide slick-slide"><img src="images/logo-valencia.jpg"></div>
+				<div class="slide"><img src="images/dship1.jpeg"></div>
+				<div class="slide"><img src="images/dship2.jpeg"></div>
 				<div class="slide"><img src="images/logo-volks.png"></div>
 				<div class="slide"><img src="images/logo-lb.png"></div>
 				<div class="slide"><img src="images/logo-sa.png"></div>

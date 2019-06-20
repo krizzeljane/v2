@@ -101,7 +101,7 @@
     </div><!-- vi-car-info -->
   </div><!-- panel -->
 
-  <?php include("uap-mob.php") ?>
+  <?php include("uap-sm.php") ?>
   <?php include("kbb-mobile.php") ?>
 
   <div class="vi-section panel panel-default">

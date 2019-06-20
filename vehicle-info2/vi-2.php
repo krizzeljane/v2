@@ -14,7 +14,6 @@
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div><!-- vi-section panel panel-default -->

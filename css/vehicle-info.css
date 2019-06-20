@@ -262,7 +262,8 @@ p.no-buyer {
 }
 
 .stat.stat-primary {
-	background-color: #3d9ad3;
+	/*background-color: #3d9ad3;*/
+	background-color: #3B356E;
 }
 
 .stat.stat-danger {
@@ -749,6 +750,7 @@ p.vi-disc-label {
     padding: 20px;
 }
 
+
 .vi-ap h4 {
     color: #333;
     font-weight: 400;
@@ -756,7 +758,7 @@ p.vi-disc-label {
     font-size: 25px;
 }
 .vi-ua .btn {
-	margin-bottom: 10px;
+	/*margin-bottom: 10px;*/
 }
 
 .vi-ua-notes {
@@ -781,6 +783,7 @@ p.vi-disc-label {
     border-radius: 40pc;
     padding: 5px 10px;
     margin-top: -5px;
+    margin-bottom: 0;
 }
 
 .vi-auc-stat.stat-grey p.stat-bubble {
@@ -790,7 +793,7 @@ p.vi-disc-label {
 
 
 .vi-auc-stat.stat-primary p.stat-bubble {
-  background-color: #3e9bd3;
+  background-color: #3B356E;
   color: #fff;
 }
 
