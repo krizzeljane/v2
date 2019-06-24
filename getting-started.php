@@ -170,6 +170,7 @@ $title = "Getting Started | CARWAVE - Your Trusted Car Dealership Network";
 <br><br>
 <?php include('footer.php')?>
 <script type="text/javascript">
+	
 	$(document).ready(function(){
 		$('.video-modal').on('hide.bs.modal', function(e) { 
 			var $if = $(e.delegateTarget).find('iframe');
@@ -179,7 +180,6 @@ $title = "Getting Started | CARWAVE - Your Trusted Car Dealership Network";
 		});
 
 	});
-
 
 	$(function () {
 		var startItemIndex = 0;

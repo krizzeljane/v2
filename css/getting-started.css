@@ -59,13 +59,20 @@ a.thumb-vid span small {
 	height: 90vh;
 }
 
+.nav-blue .container {
+	position: relative;
+}
+.nav-blue > div {
+	z-index: 100;
+}
+
+#gs-btn {
+	margin-right: 20px;
+}
 
 .gs-btn {
-    /*position: absolute;
-    right: 20px;
-    top: 123px;
-    z-index: 100000;*/
     margin-top: 8px;
+
   }
   .gs-heading {
   	font-size: 30px;

@@ -134,6 +134,17 @@
 
   </script>
 
+  <script type="text/javascript">  
+  $(window).load(function(){
+     $("#gs-btn").sticky({ 
+      topSpacing: 15,
+      getWidthFrom: 'inherit',
+      widthFromWrapper: true, // works only when .getWidthFrom is empty
+      responsiveWidth: true, 
+    });
+  });
+  </script>
+
   <script type="text/javascript" data-cfasync="false">
     (function(W,i,s,e,P,o,p){W['WisePopsObject']=P;W[P]=W[P]||function(){
     (W[P].q=W[P].q||[]).push(arguments)},W[P].l=1*new Date();o=i.createElement(s),

@@ -23,11 +23,19 @@ include('send-invoice.php');
 <div class="nav-blue">
   <div class="container">
     <div class="row">
-      <div class="col-sm-12 col-xs-12">
+      <div class="col-sm-8 col-xs-6">
         <h4 class="page-title">Cars I Bought
-          <a href="getting-started.php" class="pull-right btn btn-success gs-btn">
+          <!-- <a href="getting-started.php" id="gs-btn" class="pull-right btn btn-success gs-btn">
           Getting Started <i class="fas fa-info-circle"></i>
-        </a></h4>
+        </a> --></h4>
+        
+      </div>
+      <div class="col-sm-4 col-xs-6 text-right">
+          <div id="gs-btn">
+            <a href="getting-started.php" class="btn btn-success gs-btn">
+              Getting Started <i class="fas fa-info-circle"></i>
+            </a>
+          </div>
         
       </div>
     </div>
