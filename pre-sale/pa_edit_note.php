@@ -26,6 +26,10 @@
       </div>
       <div class="modal-body">
         <textarea class="form-control" rows="4"></textarea>
+        <div class="checkbox">
+          <input type="checkbox" name="group2" id="pa-note-review">
+          <label for="pa-note-review"><span class="check">For Review</span></label>
+        </div>
       </div>
       <div class="modal-footer text-center">
         <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>

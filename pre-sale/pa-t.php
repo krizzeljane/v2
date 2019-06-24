@@ -117,7 +117,7 @@
           <td>0</td>
           <td class="pa-action">
             <a href="#" target="_blank" class="btn-link-default"><i class="fa fa-pencil-alt"></i></a>
-            <a href="#" class="btn-link-default" data-toggle="modal" data-target="#edit-pa-note"><i class="fa fa-file"></i></a>
+            <a href="#" class="btn-link-default text-yellow" data-toggle="modal" data-target="#edit-pa-note"><i class="fa fa-file" data-toggle="tooltip" data-placement="left" title="Message Sample"></i></a>
             <a href="#" class="btn-link-default"><i class="fa fa-trash"></i></a> </td>
         </tr>
         <tr>
@@ -136,7 +136,9 @@
           <td class="text-center"><input disabled="disabled" type="checkbox" data-toggle="toggle" data-size="mini" data-on="Yes" data-off="No"></td>
           <td class="pa-auction"><a class="pa-editable" href="javascript:;">Not in Auction <span><i class="fa fa-pencil-alt"></i></span></a></td>
            <td>0</td>
-          <td class="pa-action"><a href="vehicle-info/vehicleinfo-ft-qc.php" target="_blank" class="btn-link-default"><i class="fa fa-pencil-alt"></i></a> <a href="#" class="btn-link-default"><i class="fa fa-file"></i></a> <a href="#" class="btn-link-default"><i class="fa fa-trash"></i></a> </td>
+          <td class="pa-action"><a href="vehicle-info/vehicleinfo-ft-qc.php" target="_blank" class="btn-link-default"><i class="fa fa-pencil-alt"></i></a> 
+          <a href="#" class="btn-link-default text-danger"><i class="fa fa-file" data-toggle="tooltip" data-placement="left" title="For Bill's Review"></i></a>
+          <a href="#" class="btn-link-default"><i class="fa fa-trash"></i></a> </td>
         </tr>
         <tr>
           <td class=" tip no-padding-right"></td>
@@ -153,7 +155,7 @@
           <td class="text-center"><input disabled="disabled" type="checkbox" data-toggle="toggle" data-size="mini" data-on="Yes" data-off="No"></td>
           <td class="pa-auction"><a class="pa-editable" href="javascript:;">Not in Auction <span><i class="fa fa-pencil-alt"></i></span></a></td>
           <td>1</td>
-          <td class="pa-action"><a href="vehicle-info/vehicleinfo-ft-qc.php" target="_blank" class="btn-link-default"><i class="fa fa-pencil-alt"></i></a> <a href="#" class="btn-link-default"><i class="fa fa-file"></i></a> <a href="#" class="btn-link-default"><i class="fa fa-trash"></i></a> </td>
+          <td class="pa-action"><a href="vehicle-info/vehicleinfo-ft-qc.php" target="_blank" class="btn-link-default"><i class="fa fa-pencil-alt"></i></a> <a href="#" class="btn-link-default"><i class="fa fa-file"></i></a> <a href="#" class="btn-link-default"><i class="fa fa-trash" ></i></a> </td>
         </tr>
         <tr>
           <td class=" tip no-padding-right"></td>

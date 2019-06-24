@@ -6,7 +6,8 @@
             <div class="col-md-4">
               <div class="form-group has-error has-feedback">
                 <label for="firstname">Profile Photo</label>
-                <input type="file" id="formly_1_file_file_0" class="ng-pristine ng-valid ng-touched" placeholder="">
+                <button type="file" class="btn btn-default"></button>
+                <input type="file" id="formly_1_file_file_0" class="ng-pristine ng-valid ng-touched" placeholder="" >
                 <!-- <p class="text-alert text-danger text-xs">Please add profile photo.</p> -->
               </div>
             </div>

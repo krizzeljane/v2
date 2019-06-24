@@ -104,10 +104,9 @@
 </head>
 <body class="">
 
-  <a href="getting-started.php" class="btn btn-lg btn-success gs-btn">
-    Getting Started <i class="fas fa-info-circle"></i>
-  </a>
+  
 
   <?php include('taa-modal.php')?>
   <?php include("impers-modal.php") ?>
   <?php include("ourtem-modal.php") ?>
+  <?php include("users/staff_edit_modal.php") ?>

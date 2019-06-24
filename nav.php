@@ -47,7 +47,8 @@
             Robin Arellano <span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="#" data-toggle="modal" data-target="#impers-modal">Log in as...</a></li>
-              <li><a href="#" data-toggle="modal" data-target="#editStaff">Edit my Account</a></li>
+              <!-- <li><a href="#" data-toggle="modal" data-target="#editStaff">Edit my Account</a></li> -->
+              <li><a href="users/staffaccount.php">My Account</a></li>
               <li role="separator" class="divider"></li>
               <li><a href="#">Log Out</a></li>
             </ul>

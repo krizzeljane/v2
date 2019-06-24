@@ -39,8 +39,8 @@
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">My Transactions <span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <li><a href="carsisold/carsisold.php">Cars I Bought</a></li>
-              <li><a href="carsibought/carsibought.php">Cars I Sold</a></li>
+              <li><a href="carsibought/carsibought.php">Cars I Bought</a></li>
+              <li><a href="carsisold/carsisold.php">Cars I Sold</a></li>
             </ul>
           </li>
           <li><a href="users/dealers.php">Dealers</a></li>
@@ -52,7 +52,7 @@
             <img class="user-log-photo" src="images/ryan.png"> 
             Ryan Farina <span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <li><a href="#" data-toggle="modal" data-target="#editStaff">My Account</a></li>
+              <li><a href="users/useraccount.php">My Account</a></li>
               <li role="separator" class="divider"></li>
               <li><a href="#">Log Out</a></li>
             </ul>
