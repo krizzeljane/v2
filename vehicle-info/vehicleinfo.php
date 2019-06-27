@@ -9,15 +9,6 @@ include('bid-modal-bid.php');
 
 <!--MODALS END-->
 
-<!-- <div class="nav-blue">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12 col-xs-12">
-        <h4 class="page-title"><a href="javascript:;" style="color: white;">Frontline Auction</a> <i class="fa fa-angle-right"></i> 2018 Kia Forte LX Sedan 4D</h4>
-      </div>
-    </div>
-  </div>
-</div> -->
 
 
 <nav class="navbar navbar-default">
@@ -38,6 +29,22 @@ include('bid-modal-bid.php');
   </div><!-- /.container-fluid -->
 </nav>
 
+<div class="nav-blue">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8 col-xs-6">
+        <h4 class="page-title"><a href="javascript:;" style="color: white;">Frontline Auction</a> <i class="fa fa-angle-right"></i> 2018 Kia Forte LX Sedan 4D</h4>
+      </div>
+      <div class="col-sm-4 col-xs-6 text-right">
+          <div id="gs-btn">
+            <a href="getting-started.php" class="btn btn-success gs-btn">
+              Getting Started <i class="fas fa-info-circle"></i>
+            </a>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="page-container animated fadeIn vi-page" id="printVI">
   <div class="vi-page-wm" style="display: none;">

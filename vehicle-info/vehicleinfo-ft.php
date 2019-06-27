@@ -1,7 +1,7 @@
 <?php
 $title = "2014 Audi Q5 TDI Premium Plus Sport Utility 4D - Vehicle Info | CARWAVE";
 include('../head.php');
-include('../nav-user.php');
+// include('../nav-user.php');
 include('modal-test.php');
 include('bid-modal-bid.php');
 include('bid-modal-autobid.php');
@@ -10,11 +10,36 @@ include('bid-modal-autobid.php');
 
 <!--MODALS END-->
 
+<nav class="navbar navbar-default">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">
+        <img src="images/CARWAVE-logo-02.svg">
+      </a>
+    </div>
+
+  </div><!-- /.container-fluid -->
+</nav>
+
 <div class="nav-blue">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6 col-xs-12">
+      <div class="col-sm-8 col-xs-6">
         <h4 class="page-title"><a href="javascript:;" style="color: white;">Trade-in Auction</a> <i class="fa fa-angle-right"></i> 2018 Kia Forte LX Sedan 4D</h4>
+      </div>
+      <div class="col-sm-4 col-xs-6 text-right">
+          <div id="gs-btn">
+            <a href="getting-started.php" class="btn btn-success gs-btn">
+              Getting Started <i class="fas fa-info-circle"></i>
+            </a>
+          </div>
       </div>
     </div>
   </div>

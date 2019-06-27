@@ -134,7 +134,7 @@
 
   </script>
 
-  <script type="text/javascript">  
+  <!-- <script type="text/javascript">  
   $(window).load(function(){
      $("#gs-btn").sticky({ 
       topSpacing: 15,
@@ -143,7 +143,7 @@
       responsiveWidth: true, 
     });
   });
-  </script>
+  </script> -->
 
   <script type="text/javascript" data-cfasync="false">
     (function(W,i,s,e,P,o,p){W['WisePopsObject']=P;W[P]=W[P]||function(){
