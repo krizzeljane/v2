@@ -409,10 +409,13 @@
           </div>
         </div>
 
-        <div class="row">
-          <div class="col-sm-12">
-            <p class="good vi-sec-title"><i class="fa fa-check text-success"></i> <strong>All Tires Match (Brand & Size):</strong> Yes</p>
+        <div class="row vi-disc-row">
+          <div class="col-sm-4 col-print-4">
+            <p class="good vi-sec-title"><i class="fa fa-check text-success"></i> All Tires Match (Brand & Size):
           </div>
+          <div class="col-sm-6 col-print-6">
+            <p>Yes</p>
+          </div>  
         </div>
 
 

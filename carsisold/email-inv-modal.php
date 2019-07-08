@@ -1,34 +1,12 @@
-<div class="modal fade" tabindex="-1" role="dialog" id="sellnet-modal">
+<div class="modal fade" tabindex="-1" role="dialog" id="email-inv-modal">
   <div class="modal-dialog modal-sm" role="document">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title text-center">Invoice Report</h4>
+        <h4 class="modal-title text-center">Email Invoice</h4>
       </div>
       <div class="modal-body">
-        <form class="form">
-          <!-- <div class="form-group">
-            <select class="form-control input-block" id="date">
-              <option selected="selected" disabled="disabled">Select Time Period</option>
-              <option>This Week</option>
-              <option value="custom">Custom</option>
-            </select>
-          </div> -->
-
-          <div class="form-group">
-            <label for="firstname">Select Time Period</label>
-            <select class="form-control" id="date">
-              <!-- <option selected="selected" disabled="disabled">Select Time Period</option> -->
-              <option>This Week</option>
-              <option>Last Week</option>
-              <option>This Month</option>
-              <option>Last Month</option>
-              <option value="custom">Custom</option>
-            </select>
-            <p class="text-alert text-danger text-xs sell-net-error"  style="display: none;"> No invoices available for this time period.</p>
-            
-          </div>
-        </form>
+        
         <form class="form">
           <div class="form-group has-feedback customdate custom" style="display: none; width: 100%;">
             <!-- <label for="firstname">&nbsp;</label> -->

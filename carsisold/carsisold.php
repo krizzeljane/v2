@@ -13,6 +13,8 @@ include('../rating-b.php');
 include('sellnet-modal.php');
 include('../rating-submitted-modal.php');
 include('send-invoice.php');
+include('email-inv-modal.php');
+
 ?>
 <!--MODALS-->
 
@@ -146,7 +148,7 @@ include('send-invoice.php');
                   </li>
                 </ul>
               </nav>
-              <div class="element right"><button class="btn btn-default">Sell Net Report</button></div>
+              <div class="element right"><button class="btn btn-default" data-toggle="modal" data-target="#sellnet-modal">Invoice Report</button></div>
               <div class="search element right">
                 <div class="form-group has-feedback">
                   <label class="control-label sr-only" for="inputSuccess5">Hidden label</label>

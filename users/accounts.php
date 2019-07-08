@@ -123,7 +123,7 @@ include('../nav.php');
                   <th>Contact Number</th>
                   <th>Users</th>
                   <th>Account Executive</th>
-                  <th>DMV Clerk</th>
+                  <!-- <th>DMV Clerk</th> -->
                   <th width="110"></th>
                 </tr>
               </thead>
@@ -137,7 +137,7 @@ include('../nav.php');
                   <td>890-656-8765</td>
                   <td>Adam Harris</td>
                   <td>Robin Arellano<br> Judy Guzman</td>
-                  <td>Yosemite Sam</td>
+                  <!-- <td>Yosemite Sam</td> -->
                   <td>
                     <div class="table-action-container">
                       <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#editDealership"><i class="fa fa-pencil-alt"></i></a>
@@ -154,7 +154,7 @@ include('../nav.php');
                   <td>890-656-8765</td>
                   <td>Adam Harris</td>
                   <td>Robin Arellano<br> Judy Guzman</td>
-                  <td>Yosemite Sam</td>
+                  <!-- <td>Yosemite Sam</td> -->
                   <td>
                     <div class="table-action-container">
                       <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#editDealership"><i class="fa fa-pencil-alt"></i></a>
@@ -171,7 +171,7 @@ include('../nav.php');
                   <td>890-656-8765</td>
                   <td>Adam Harris</td>
                   <td>Robin Arellano<br> Judy Guzman</td>
-                  <td>Yosemite Sam</td>
+                  <!-- <td>Yosemite Sam</td> -->
                   <td>
                     <div class="table-action-container">
                       <a href="javascript:;" class="btn-link-default" data-toggle="modal" data-target="#editDealership"><i class="fa fa-pencil-alt"></i></a>

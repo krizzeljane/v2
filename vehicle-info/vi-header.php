@@ -10,7 +10,8 @@
 			<div class="col-sm-4 col-xs-2  text-right">
 				<!-- <h4>12,896 miles &nbsp; | &nbsp; $18,000</h4> -->
 				<div class="vi-header-btns">
-					<a href="javascript:;" class="btn btn-sm btn-default watch-btn"> <span><span class="hidden-xs hidden-sm">Print </span> <i class="fa fa-print"></i> </span>  </a>
+					<a id="print-btn-vi" href="javascript" onclick="">Print <i class="fa fa-print"></i></a>
+					<!-- <a href="javascript:;" class="btn btn-sm btn-default watch-btn"> <span><span class="hidden-xs hidden-sm">Print </span>  </span>  </a> -->
 					<a href="javascript:;" class="btn btn-sm btn-default hide-btn"> <span class="hidden-sm hidden-xs"> Email </span> <i class="fa fa-envelope"></i> </a>
 				</div>
 			</div>
@@ -30,7 +31,7 @@
 					      <i class="fas fa-ellipsis-h"></i>
 					    </button>
 					    <ul class="dropdown-menu">
-					      <li><a href="#">Print</a></li>
+					      <li><a id="print-btn-vi" href="javascript" onclick="">Print</a></li>
 					      <li><a href="#">Email</a></li>
 					    </ul>
 					  </div>
@@ -46,22 +47,24 @@
 </div>
 
 <script type="text/javascript">
-$(function(){
-$(".hide-btn > span").click(function () {
-$(this).text(function(i, text){
-return text === "Hide" ? "Unhide" : "Hide";
-})
+// $(function(){
+// $(".hide-btn > span").click(function () {
+// $(this).text(function(i, text){
+// return text === "Hide" ? "Unhide" : "Hide";
+// })
+// });
+
+// $(".watch-btn > span").click(function () {
+// "window.print();
+// });
+
+$('#print-btn-vi').click(function(){
+     window.print();
 });
 
-$(".watch-btn > span").click(function () {
-$(this).text(function(i, text){
-return text === "Add to Watchlist" ? "Remove from Watchlist" : "Add to Watchlist";
-})
-});
+// $(".hide-btn, .watch-btn").click(function () {
+// $(this).toggleClass('text-primary-two');
+// });
 
-$(".hide-btn, .watch-btn").click(function () {
-$(this).toggleClass('text-primary-two');
-});
-
-});
+// });
 	</script>

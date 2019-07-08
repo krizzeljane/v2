@@ -415,12 +415,14 @@
           </div>
         </div>
 
-        <div class="row">
-          <div class="col-sm-12">
-            <p class="good vi-sec-title"><i class="fa fa-check text-success"></i> <strong>All Tires Match (Brand & Size):</strong> Yes</p>
+        <div class="row vi-disc-row">
+          <div class="col-sm-4 col-print-4">
+            <p><i class="fa fa-check text-success"></i> All Tires Match (Brand & Size):</p>
+          </div>
+          <div class="col-sm-4 col-print-4">
+            <p>Yes</p>
           </div>
         </div>
-
 
       </div>
     </div><!-- tires -->

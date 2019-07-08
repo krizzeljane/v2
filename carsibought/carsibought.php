@@ -62,7 +62,7 @@ include('send-invoice.php');
         
         <div class="page-actions">
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-4">
               
               <div class="dropdown element">
                 <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
@@ -76,7 +76,7 @@ include('send-invoice.php');
                 </ul>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-8">
               <nav aria-label="Page navigation" class="element right">
                 <ul class="pagination">
                   <li>
@@ -96,6 +96,7 @@ include('send-invoice.php');
                   </li>
                 </ul>
               </nav>
+              <div class="element right"><button class="btn btn-default" data-toggle="modal" data-target="#sellnet-modal">Invoice Report</button></div>
               <div class="search element right">
                 <div class="form-group has-feedback">
                   <label class="control-label sr-only" for="inputSuccess5">Hidden label</label>

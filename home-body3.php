@@ -1,6 +1,23 @@
 
 <?php include('home-nav.php') ?>
 
+<div class="modal fade" tabindex="-1" role="dialog" id="reqdem-modal">
+  <div class="modal-dialog modal-sm" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+      	<br><br>
+      	<h4>Thank you!</h4>
+        <p>Our sales representative will be in touch with you within 1 business day.</p>
+       
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal" aria-label="Close" >OK</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
 
 <div id="background-carousel">
 	<div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -309,7 +326,7 @@
 				<div class="col-md-6">
 					<div class="text-center">
 						<img src="images/carwaveicon.png" width="70px;">
-						<h2 class="text-center p-header text-yellow">REQUEST A DEMO</h2>
+						<h2 class="text-center p-header text-yellow" data-toggle="modal" data-target="#reqdem-modal">REQUEST A DEMO</h2>
 						<p class="text-white text-center text-sm">Complete this form and we will contact you to personally give you a DEMO of how we work.</p> <br>
 						<form>
 							<div class="form-group">
@@ -327,7 +344,7 @@
 							<div class="form-group">
 								<input type="number" class="form-control input-lg" id="fname" placeholder="Contact Number">
 							</div>
-							<button class="btn btn-lg btn-yellow btn-block">REQUEST A DEMO</button>
+							<button type="button" class="btn btn-lg btn-yellow btn-block" data-toggle="modal" data-target="#reqdem-modal">REQUEST A DEMO</button>
 							<br>
 							<p class="text-white">Already have an account? <a class="btn-link text-white" href="#">Log in here.</a></p>
 						</form>
@@ -339,42 +356,7 @@
 	</div>
 </section>
 
-<!-- 
-<section class="home-section five home">
-	<div class="container">
-		<div class="section-content">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="text-center" style="width:50%; margin: 30px auto;">
-						<img src="images/carwaveicon.png" width="70px;">
-						<h2 class="text-center text-yellow">REQUEST A DEMO</h2>
-						<p class="text-white text-center text-sm">Complete this form and we will contact you to personally give you a DEMO of how we work.</p> <br>
-						<form>
-							<div class="form-group">
-								<input type="text" class="form-control input-lg" id="fname" placeholder="First Name">
-							</div>
-							<div class="form-group">
-								<input type="text" class="form-control input-lg" id="fname" placeholder="Last Name">
-							</div>
-							<div class="form-group">
-								<input type="text" class="form-control input-lg" id="fname" placeholder="Dealership/Company Name">
-							</div>
-							<div class="form-group">
-								<input type="email" class="form-control input-lg" id="fname" placeholder="Email Address">
-							</div>
-							<div class="form-group">
-								<input type="number" class="form-control input-lg" id="fname" placeholder="Contact Number">
-							</div>
-							<button class="btn btn-lg btn-yellow btn-block">REQUEST A DEMO</button>
-							<br>
-							<p class="text-white">Already have an account? <a class="btn-link" href="#">Log in here.</a></p>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section> -->
+
 
 
 <script type="text/javascript">
