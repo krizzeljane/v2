@@ -415,7 +415,7 @@
 
                     </div><!-- form-horizontal -->
                   </div>
-                  <div class="col-sm-5">
+                  <div class="col-sm-6">
                     <div class="form-horizontal">
                       <div class="form-group">
                         <label class="col-sm-4 control-label">Purchase Price:</label>
@@ -432,12 +432,11 @@
                       </div><!-- form-group -->
 
                       <div class="form-group">
-                        <label class="col-sm-4 control-label">Facilitation Fee:</label>
+                        <label class="col-sm-6 control-label">Carwave Guarantee Fee:</label>
                         <div class="col-sm-6">
                           <p class="form-control-static text-right">$125</p>
                         </div>
                       </div><!-- form-group -->
-
                       <div class="form-group total">
                         <label class="col-sm-4 control-label text-success">Total:</label>
                         <div class="col-sm-6">

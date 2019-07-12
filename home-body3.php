@@ -172,9 +172,11 @@
 		<div class="row">
 			<div class="col-sm-8"><br><br>
 				<h2 class="p-header">YOUR TRUSTED CAR DEALERSHIP NETWORK</h2> <br>
-				<p>At CARWAVE, you become part of the most trusted, convenient, and affordable auto auction on the market. <br>
-					CARWAVE is an online platform that enables dealers to buy and sell vehicles right from the comfort of their home or office. CARWAVE is a trusted inventory source for over 1,900 independent dealerships in California. Our auction has a great selection of cars direct from franchise dealerships, with over 1500+ cars to choose from weekly.  <br>
-					With more than 35,000 vehicles sold in 2018, CARWAVE, is California’s largest dealer direct network and is currently expanding into additional states, including Arizona and Nevada. 
+				<p>At CARWAVE, you become part of the most trusted, convenient, and affordable wholesale auto auction on the market. <br>
+
+					CARWAVE is an online platform that enables dealers to buy and sell vehicles right from the comfort of their home or office. CARWAVE is a trusted inventory source for over 1,900 independent dealerships in California. Our auto auction has a great selection of cars direct from franchise dealerships, with over 1500+ cars to choose from weekly. <br>
+
+					With more than 35,000 vehicles sold in 2018, CARWAVE, is California’s largest dealer direct network and is currently expanding into additional states, including Arizona and Nevada.  
 				</p>
 			</div>
 			<div class="col-sm-4">
@@ -200,8 +202,8 @@
 						</div>
 						<div class="col-sm-6">
 							<h2 class="p-header">MOVING WHOLESALE INVENTORY QUICKER, EASIER AND MORE EFFICIENT THAN EVER BEFORE</h2>
-							<p class="text-white">CARWAVE was founded in 2009 with the goal of using technology and an internet-based business model to eliminate the costly overhead of tradition auctions. We are effectively saving dealers money, increasing reach and streamlining the auction process, allowing dealers more time to run their businesses. <br>
-							For every dealer, we assign a dedicated territory account representative to support and maximize dealer success. Both seller and buyers can have confidence that our account representatives work on their behalf and help facilitate the selling and buyer process from start to finish.
+							<p class="text-white">CARWAVE was founded in 2009 with the goal of using technology and an internet-based business model to eliminate the costly overhead of tradition wholesale auto auctions. We are effectively saving dealers money, increasing reach and streamlining the auto auction process, allowing dealers more time to run their businesses. <br>
+							For every dealer, we assign a dedicated territory account representative to support and maximize dealer success. Both sellers and buyers can have confidence that our account representatives work on their behalf and help facilitate the selling and buying process from start to finish. 
 
 							</p><br><br>
 							<button class="btn btn-lg btn-yellow">
@@ -223,8 +225,9 @@
 			<div class="col-sm-6">
 				<h2 class="p-header">TAKING THE RISK OUT OF THE AUCTION</h2> <br>
 				<p>All vehicles listed on CARWAVE include detailed condition reports performed by ASE Certified Mechanics. <br>
-				Unlike traditional auctions that sell both "as-is" and "guaranteed" cars, all cars on CARWAVE are guaranteed as described in the inspection report. We stand behind our inspections, regardless of year or mileage, so there are no surprises when the purchased vehicles arrive at the buying dealership. This gives our trusted network of dealers the confidence to sell and buy online. <br>
-				Our ASE Certified Mechanic inspectors are dispatched directly to franchise dealerships for a 40-minute inspection per vehicle, then listed directly into our auction. CARWAVE offers the most comprehensive condition reports and the most extensive inspections in the industry. 
+				Unlike traditional auto auctions that sell both "as-is" and "guaranteed" cars, all cars on CARWAVE are guaranteed as described in the inspection report. We stand behind our inspections, regardless of year or mileage, so there are no surprises when the purchased vehicles arrive at the buying dealership. This gives our trusted network of dealers the confidence to sell and buy online. <br>
+				
+				Our ASE Certified Mechanic inspectors are dispatched directly to franchise dealerships for a 40-minute inspection per vehicle, then listed directly into our auction. CARWAVE offers the most comprehensive condition reports and the most extensive inspections in the industry.  
 				</p>
 			</div>
 			<div class="col-sm-6">
@@ -296,7 +299,7 @@
 				<div class="col-md-5">
 					<div class="video-section-text">
 						<h2 class="p-header">SIGN UP TODAY - BECOME A PART OF THE LARGEST DEALERSHIP NETWORK</h2>
-						<p>See why thousands of franchise and independent dealerships have joined CARWAVE, your Trusted Dealership Network.</p>
+						<p>See why thousands of franchise and independent dealerships have joined CARWAVE, your Trusted Car Dealership Network. </p>
 
 						<br>
 						<button class="btn btn-lg btn-primary" id="play">
