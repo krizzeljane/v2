@@ -13,7 +13,7 @@ $title = "CARWAVE - Your Trusted Car Dealership Network";
 				<h2 class="p-header">YOUR TRUSTED CAR DEALERSHIP NETWORK</h2> <br>
 				<p>At CARWAVE, you become part of the most trusted, convenient, and affordable wholesale auto auction on the market.  <br>
 					CARWAVE is an online platform that enables dealers to wholesale both trade-ins and aged frontline units right from the comfort of their home or office. CARWAVE has the right audience to wholesale your aged frontline and trade-ins. <br>
-					CARWAVE has a fresh-trade wholesale auction every Monday, a trusted inventory source for over 1,900 independent dealerships in California. CARWAVE also has an aged-frontline wholesale auction every Tuesday, offering a great selection of cars direct from more than 1,000 franchise dealerships <br>
+					CARWAVE has a fresh-trade wholesale auction every Monday, a trusted inventory source for over 1,900 independent dealerships in California. CARWAVE also has an aged-frontline wholesale auction every Tuesday, offering a great selection of cars direct from more than 1,000 franchise dealerships. <br>
 					With more than 35,000 vehicles sold in 2018, CARWAVE, is California’s largest dealer direct network and is currently expanding into additional states, including Arizona and Nevada. 
 
 				</p>
@@ -56,7 +56,7 @@ $title = "CARWAVE - Your Trusted Car Dealership Network";
 </section>
 
 
-
+<!-- 
 <section class="home-section three home">
 	<div class="container">
 		<div class="row">
@@ -74,7 +74,7 @@ $title = "CARWAVE - Your Trusted Car Dealership Network";
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 
 
