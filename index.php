@@ -34,7 +34,15 @@
 
   <div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-franchise-buyer-cwg.php">Invoice - Buyer - FRONTLINE - <strong>CARWAVE GUARANTEE</strong></a> 
 	</div>
-	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-franchise-buyer-gmac.phpp">Invoice - Buyer - FRONTLINE - <strong>GMAC</strong></a> 
+	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-franchise-buyer-gmac.php">Invoice - Buyer - FRONTLINE - <strong>GMAC</strong></a> 
+	</div>
+	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-franchise-buyer-nmac.php">Invoice - Buyer - FRONTLINE - <strong>NMAC</strong></a> 
+	</div>
+	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-franchise-buyer-mafs.php">Invoice - Buyer - FRONTLINE - <strong>MAFS</strong></a> 
+	</div>
+	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-franchise-buyer-man-guar.php">Invoice - Buyer - FRONTLINE - <strong>Manheim Guarantee</strong></a> 
+	</div>
+	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-franchise-buyer-man-ach.php">Invoice - Buyer - FRONTLINE - <strong>Manheim ACH</strong></a> 
 	</div>
 
 

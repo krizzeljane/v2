@@ -279,7 +279,7 @@
 
       <div class="panel panel-danger">
         <div class="panel-heading">
-          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong> This vehicle has been floored through GMAC/Ally Bank.<br>
+          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong>Payment for this transaction will be withdrawn via ACH from your bank account within two business days of the sale date.
           </p>
         </div>
       </div>

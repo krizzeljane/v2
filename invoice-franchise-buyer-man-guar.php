@@ -279,7 +279,13 @@
 
       <div class="panel panel-danger">
         <div class="panel-heading">
-          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong> This vehicle has been floored through GMAC/Ally Bank.<br>
+          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong>You agree to pay Manheim within 24 hours of vehicle clearing post-sale inspection.<br>
+          You have two business days for post-sale inspection after the vehicle has been transported.<br><br>
+            <strong>
+              Manheim Digital Marketplace<br>
+              7000 Central Park, Suite 600 <br>
+              Atlanta, GA 30328
+            </strong>
           </p>
         </div>
       </div>

@@ -279,7 +279,7 @@
 
       <div class="panel panel-danger">
         <div class="panel-heading">
-          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong> This vehicle has been floored through GMAC/Ally Bank.<br>
+          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong> This vehicle has been floored through MAFS.
           </p>
         </div>
       </div>
