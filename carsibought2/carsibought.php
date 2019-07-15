@@ -52,7 +52,7 @@ include('cib-edit.php');
         
         <div class="page-actions visible-lg visible-md">
           <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-4 col-xs-6">
               
               <div class="dropdown element">
                 <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
@@ -65,8 +65,9 @@ include('cib-edit.php');
                   <li><a href="javascript:;">Nissan of Vacaville</a></li>
                 </ul>
               </div>
+              <div class="element"><button class="btn btn-default" data-toggle="modal" data-target="#sellnet-modal">Invoice Report</button></div>
             </div>
-            <div class="col-sm-8">
+            <div class="col-sm-8 col-xs-6">
               <nav aria-label="Page navigation" class="element right">
                 <ul class="pagination">
                   <li>
@@ -86,6 +87,7 @@ include('cib-edit.php');
                   </li>
                 </ul>
               </nav>
+              
               <div class="search element right">
                 <div class="form-group has-feedback">
                   <label class="control-label sr-only" for="inputSuccess5">Hidden label</label>

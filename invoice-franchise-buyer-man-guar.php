@@ -284,7 +284,8 @@
             <strong>
               Manheim Digital Marketplace<br>
               7000 Central Park, Suite 600 <br>
-              Atlanta, GA 30328
+              Atlanta, GA 30328<br>
+              678-645-7031
             </strong>
           </p>
         </div>
@@ -417,7 +418,8 @@
                         <div class="col-sm-6">
                           <p class="form-control-static">Manheim Digital Marketplace<br>
                           7000 Central Park, Suite 600 <br>
-                          Atlanta, GA 30328</p>
+                          Atlanta, GA 30328<br>
+                        678-645-7031</p>
                         </div>
                       </div><!-- form-group -->
 

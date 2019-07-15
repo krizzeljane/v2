@@ -279,7 +279,7 @@
 
       <div class="panel panel-danger">
         <div class="panel-heading">
-          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong> This vehicle has been floored through GMAC/Ally Bank.<br>
+          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong> This vehicle has been floored through GMAC/Ally Bank.<br><br>
           </p>
         </div>
       </div>
@@ -403,7 +403,7 @@
                       <div class="form-group">
                         <label class="col-sm-4 control-label">Payment Method:</label>
                         <div class="col-sm-6">
-                          <p class="form-control-static">Manheim Guarantee</p>
+                          <p class="form-control-static">GMAC</p>
                         </div>
                       </div><!-- form-group -->
                       <div class="form-group">
@@ -411,7 +411,8 @@
                         <div class="col-sm-6">
                           <p class="form-control-static">Manheim Digital Marketplace<br>
                           7000 Central Park, Suite 600 <br>
-                          Atlanta, GA 30328</p>
+                          Atlanta, GA 30328<br>
+                        678-645-7031</p>
                         </div>
                       </div><!-- form-group -->
 

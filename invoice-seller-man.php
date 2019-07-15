@@ -279,7 +279,13 @@
 
       <div class="panel panel-danger">
         <div class="panel-heading">
-          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong> This vehicle has been floored through NMAC.
+          <p class=""><i class="fa fa-exclamation-circle"></i> <strong>Important Instructions:</strong>  Please send properly executed title documents to:<br><br>
+            <strong>
+              Manheim Digital Marketplace<br>
+              7000 Central Park, Suite 600 <br>
+              Atlanta, GA 30328<br>
+              678-645-7031
+            </strong>
           </p>
         </div>
       </div>
@@ -317,7 +323,7 @@
 
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h5>Buyer:</h5>
+              <h5>Seller:</h5>
             </div>
             <div class="panel-body">
               <div class="inv-v-users">
@@ -350,7 +356,7 @@
 
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h5>Seller:</h5>
+              <h5>Buyer:</h5>
             </div>
             <div class="panel-body">
               <div class="inv-v-users">
@@ -403,16 +409,15 @@
                       <div class="form-group">
                         <label class="col-sm-4 control-label">Payment Method:</label>
                         <div class="col-sm-6">
-                          <p class="form-control-static">NMAC</p>
+                          <p class="form-control-static">Manheim Guarantee</p>
                         </div>
                       </div><!-- form-group -->
                       <div class="form-group">
                         <label class="col-sm-4 control-label">Facilitating Location:</label>
                         <div class="col-sm-6">
-                          <p class="form-control-static">Manheim Digital Marketplace<br>
-                          7000 Central Park, Suite 600 <br>
-                          Atlanta, GA 30328<br>
-                        678-645-7031</p>
+                          <p class="form-control-static">Manheim Digital Marketplace<br> 7000 Central Park, Suite 600 <br>
+                            Atlanta, GA 30328<br>
+                          678-645-7031</p>
                         </div>
                       </div><!-- form-group -->
 

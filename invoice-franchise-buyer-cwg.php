@@ -415,7 +415,7 @@
 
                     </div><!-- form-horizontal -->
                   </div>
-                  <div class="col-sm-6">
+                  <div class="col-sm-5">
                     <div class="form-horizontal">
                       <div class="form-group">
                         <label class="col-sm-4 control-label">Purchase Price:</label>

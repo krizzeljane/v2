@@ -27,6 +27,8 @@
 	</div> 
   <div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-seller-cwg.php">Invoice - Seller - FRONTLINE - <strong>CARWAVE GUARANTEE</strong></a> 
 	</div> 
+	<div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-seller-man.php">Invoice - Seller - FRONTLINE - <strong>>Manheim Guarantee/NMAC/GMAC/MAFS/MANHEIM ACH</strong></a> 
+	</div> 
   <div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-seller-trade-in.php">Invoice - Seller - TRADE-IN - <strong>CARWAVE GUARANTEE</strong></a> </div> 
 
   <div class="wthru-row"><div class="label label-primary">User</div>  <a target="_blank" href="invoice-franchise-buyer-cc.php">Invoice - Buyer - FRONTLINE - <strong>COMPANY CHECK</strong> </a> 
