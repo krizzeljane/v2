@@ -4,7 +4,8 @@
     <div class="vi-car-info">
 
       <div class="img-container" id="slider-cont">
-        <section class="slider">
+        <figure class="card-image loading vi-photo-ph"></figure>
+        <!-- <section class="slider">
           <div id="slider" class="flexslider">
             <ul class="slides" id="animated-thumbnails">
               <li>
@@ -95,7 +96,7 @@
               </li>
             </ul>
           </div>
-        </section>
+        </section> -->
 
       </div>
     </div><!-- vi-car-info -->
@@ -108,12 +109,27 @@
     <div class="vi-loc">
       <div class="row">
         <div class="col-sm-6 col-xs-12 col-print-6">
+          <p class="card-title loading"><!-- HY237HS7953987765 --></p>
+          <p class="card-title loading"><!-- HY237HS7953987765 --></p>
+        </div>
+        <div class="col-sm-6 col-xs-12 col-print-6">
+          <p class="card-title loading"><!-- HY237HS7953987765 --></p>
+          <p class="card-title loading"><!-- HY237HS7953987765 --></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="vi-section panel panel-default">
+    <div class="vi-loc">
+      <div class="row">
+        <div class="col-sm-6 col-xs-12 col-print-6">
           <div class="vi-loc-det">
             <div><i class="fa fa-map-marker-alt text-primary"></i></div>
-            <div>
+            <div class="card-detail">
               <p><small class="text-normal">Location</small></p>
               <h5>
-                <p>Los Angeles, CA <!-- (27 mi) <i class="fa fa-question-circle"></i> --></p>
+                <p>Los Angeles, CA (27 mi) <i class="fa fa-question-circle"></i></p>
               </h5>
             </div>
           </div>

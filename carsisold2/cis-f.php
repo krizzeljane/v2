@@ -45,9 +45,10 @@
 									<div class="col-lg-4 padding-left-lg padding-right-lg visible-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn btn-default btn-block" type="button" data-toggle="modal" data-target="#invoice-pdf">
+												<p class="card-title loading"></p>
+												<!-- <button class="btn btn-default btn-block" type="button" data-toggle="modal" data-target="#invoice-pdf">
 													Invoice
-												</button>
+												</button> -->
 											</li>
 										</ul>
 									</div>
@@ -79,15 +80,17 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn btn-default btn btn-block" type="button" data-toggle="modal" data-target="#invoice-pdf">
+												<p class="card-title loading"></p>
+												<!-- <button class="btn btn-default btn btn-block" type="button" data-toggle="modal" data-target="#invoice-pdf">
 													Invoice
-												</button>
+												</button> -->
 											</li>
 										</ul>
 									</div>
 									<div class="col-lg-12 col-xs-6">
 										<div class="dropdown element">
-											<button class="btn btn-default btn-block dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+											<p class="card-title loading"></p>
+											<!-- <button class="btn btn-default btn-block dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 												Select Action &nbsp;
 												<span class="caret"></span>
 											</button>
@@ -96,11 +99,12 @@
 												<li><a href="javascript:;">Request Arbitration</a></li>
 												<li class="divider"></li>
 												<li><a href="javascript:;">Send Message</a></li>
-											</ul>
+											</ul> -->
 										</div>
 									</div>
 									<div class="col-lg-12 col-xs-6 visible-lg">
-										<a class="direct-modal-btn btn btn-block btn-default" data-toggle="modal" data-target="#direct-modal" data-section="latest"> <i class="far fa-envelope"></i> Offers</a>
+										<p class="card-title loading"></p>
+										<!-- <a class="direct-modal-btn btn btn-block btn-default" data-toggle="modal" data-target="#direct-modal" data-section="latest"> <i class="far fa-envelope"></i> Offers</a> -->
 									</div>
 								</div>
 

@@ -1,6 +1,6 @@
 <?php include("head.php") ?>
 
-    <div class="nav-blue">
+    <!-- <div class="nav-blue">
       <div class="container">
         <div class="col-sm-4 col-xs-6">
           <h4 class="page-title">FrontlineSSS Auction</h4>
@@ -14,6 +14,146 @@
         <div class="col-xs-4">
           <span class="label label-default">0</span>
 
+        </div>
+      </div>
+    </div> -->
+
+    <div class="modal fade modal-alert modal-fs" id="modal-gallery" tabindex="-1" role="dialog" aria-labelledby="modal-gallery">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <!-- <div class="modal-header">
+            
+            <h4 class="modal-title" id="myModalLabel"><i class="fa text-danger fa-exclamation-triangle"></i> Alert</h4>
+          </div> -->
+          <div class="modal-body">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            
+            <div>
+
+              <!-- Nav tabs -->
+              <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Main Photos</a></li>
+                <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Damages</a></li>
+              </ul>
+
+              <!-- Tab panes -->
+              <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="home"> 
+                  <div class="row">
+                    <div class="col-md-9">
+                      <section class="slider">
+          <div id="slider2" class="flexslider">
+            <ul class="slides" id="animated-thumbnails">
+              <li>
+                <a href="slider/demo/images/car1.jpg">
+                  <img class="img-responsive" src="slider/demo/images/car1.jpg" alt="Thumb-1">
+                </a>
+              </li>
+              <li>
+                <a href="slider/demo/images/car2.jpg">
+                  <img class="img-responsive" src="slider/demo/images/car2.jpg" alt="Thumb-1">
+                </a>
+              </li>
+              <li>
+                <img src="slider/demo/images/car1.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car2.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car3.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car4.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car6.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car7.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car8.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car9.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car10.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car11.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car12.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car13.jpg" />
+              </li>
+            </ul>
+          </div>
+          <div id="carousel2" class="flexslider">
+            <ul class="slides">
+              <li>
+                <img src="slider/demo/images/car1.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car2.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car3.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car4.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car6.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car7.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car8.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car9.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car10.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car11.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car12.jpg" />
+              </li>
+              <li>
+                <img src="slider/demo/images/car13.jpg" />
+              </li>
+            </ul>
+          </div>
+        </section>
+                    </div>
+                    <div class="col-md-3">
+                      <h4>Description</h4>
+                      <p>Description</p>
+                    </div>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="profile"> profile
+                 </div>
+              </div>
+
+            </div>
+
+
+
+
+          </div>
+          <!-- <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal"> Close</button>
+            <button type="button" class="btn btn-primary">Okay</button>
+          </div> -->
         </div>
       </div>
     </div>
@@ -205,6 +345,10 @@
       <h1>V2 UI Guidelines</h1>
       <p>Prepared by: Krizzel Jane Bigol</p>
     </div>
+
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal-gallery">
+            Modal gallery
+          </button>
 
     <div class="container">
       <div class="panel colors">
@@ -1071,43 +1215,40 @@
  <script>
   
 
-  // $( function() {
-  //   // run the currently selected effect
-  //   function runEffect() {
-  //     // get effect type from
-  //     var selectedEffect = $( "#effectTypes" ).val();
- 
-  //     // Most effect types need no options passed by default
-  //     var options = {};
-  //     // some effects have required parameters
-  //     if ( selectedEffect === "scale" ) {
-  //       options = { percent: 50 };
-  //     } else if ( selectedEffect === "transfer" ) {
-  //       options = { to: "#button", className: "ui-effects-transfer" };
-  //     } else if ( selectedEffect === "size" ) {
-  //       options = { to: { width: 200, height: 60 } };
-  //     }
- 
-  //     // Run the effect
-  //     $( "#effect" ).effect( selectedEffect, options, 500, callback );
-  //   };
- 
-  //   // Callback function to bring a hidden box back
-  //   function callback() {
-  //     setTimeout(function() {
-  //       $( "#effect" ).removeAttr( "style" ).hide().fadeIn();
-  //     }, 1000 );
-  //   };
- 
-  //   // Set effect from select menu value
-  //   $( "#button" ).on( "click", function() {
-  //     runEffect();
-  //     return false;
-  //   });
-  // } );
+  $(document).ready(function(){
+    $('#modal-gallery a').click(function (e) {
+    e.preventDefault()
+    $(this).tab('show')
+  })
 
+    
+  });
+  $(window).load(function(){
+    $('#carousel2').flexslider({
+      animation: "slide",
+      controlNav: false,
+      animationLoop: false,
+      slideshow: false,
+      itemWidth: 100,
+      itemMargin: 5,
+      asNavFor: '#slider2',
+      prevText: "",
+      nextText: ""
+    });
+
+    $('#slider2').flexslider({
+      animation: "slide",
+      controlNav: false,
+      animationLoop: false,
+      slideshow: false,
+      sync: "#carousel2",
+      start: function(slider){
+        $('body').removeClass('loading');
+      }
+    });
+  });
 
   </script>
-  
+  <?php include("footer.php") ?>
 </body>
 </html>

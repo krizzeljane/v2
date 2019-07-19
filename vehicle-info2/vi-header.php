@@ -5,18 +5,25 @@
 
 		<div class="row non-scroll">
 			<div class="col-sm-8 col-xs-9">
-				<h4>Alfa Romeo 6C 2300 B Lungo Cabriolet 4 Posti Castagna</h4>
-				<h5><span>FWD 4-Cyl, 2.0 Liter</span> <span>16,865 miles</span> <span>Silver/Gray</span> <span>3KPFL4A70JE165060</span> <span>12,896 miles</span></h5>
+				<br>
+				<p class="card-title loading"><!-- LOADING TEXT --></p>
+				<!-- <h4>Alfa Romeo 6C 2300 B Lungo Cabriolet 4 Posti Castagna</h4> -->
+				<p class="card-title loading"><!-- LOADING TEXT --></p>
+				<!-- <h5><span>FWD 4-Cyl, 2.0 Liter</span> <span>16,865 miles</span> <span>Silver/Gray</span> <span>3KPFL4A70JE165060</span> <span>12,896 miles</span></h5> -->
 			</div>
 			<div class="col-sm-4 col-xs-3  text-right">
-				<h4 class="ask-price"><span class="hidden-xs">Asking Price:</span> $18,000 &nbsp;&nbsp; <button data-toggle="tooltip" data-title="Add to Watchlist" data-placement="left" class="btn-link"><i class="fa fa-plus"></i></button></h4>
+				<br>
+				<p class="card-title loading"><!-- LOADING TEXT --></p>
+				<!-- <h4 class="ask-price"><span class="hidden-xs">Asking Price:</span> $18,000 &nbsp;&nbsp; <button data-toggle="tooltip" data-title="Add to Watchlist" data-placement="left" class="btn-link"><i class="fa fa-plus"></i></button></h4> -->
 			</div>
 		</div>
 
 		<div class="row on-scroll animated slideDown hidden-sm hidden-xs ">
 			<div class="col-md-6">
-				<h4>Alfa Romeo 6C 2300 B Lungo Cabriolet 4 Posti Castagna <span class="hidden-xs pull-right">$18,000 </h4>
-				<h5><span>FWD 4-Cyl, 2.0 Liter</span> <span>16,865 miles</span> <span>Silver/Gray</span> <span>3KPFL4A70JE165060</span> <span>12,896 miles</span></h5>
+				<p class="card-title loading"><!-- LOADING TEXT --></p>
+				<!-- <h4>Alfa Romeo 6C 2300 B Lungo Cabriolet 4 Posti Castagna <span class="hidden-xs pull-right">$18,000 </h4> -->
+					<p class="card-title loading"><!-- LOADING TEXT --></p>
+				<!-- <h5><span>FWD 4-Cyl, 2.0 Liter</span> <span>16,865 miles</span> <span>Silver/Gray</span> <span>3KPFL4A70JE165060</span> <span>12,896 miles</span></h5> -->
 			</div>
 			<div class="col-md-6 text-right">
 

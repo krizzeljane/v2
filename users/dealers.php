@@ -107,7 +107,7 @@ include('../header-user.php');
         <table class="table hidden-xs">
           <thead>
             <tr>
-              <th width="30"></th>
+              <th width="70"></th>
               <th>Name</th>
               <th>Cell/Text Number</th>
               <th>Email Address</th>
@@ -116,6 +116,15 @@ include('../header-user.php');
             </tr>
           </thead>
           <tbody>
+            <tr class="account-active" onclick="window.location.href='users/userprofile.php'">
+              <td class="account-icon"><figure class="card-image loading dealers-photo"></figure></i>
+              </td>
+              <td><p class="card-title loading"><!-- LOADING TEXT --></p></td>
+              <td><p class="card-title loading"><!-- LOADING TEXT --></p></td>
+              <td><p class="card-title loading"><!-- LOADING TEXT --></p></td>
+              <td><p class="card-title loading"><!-- LOADING TEXT --></p></td>
+              <td><p class="card-title loading"><!-- LOADING TEXT --></p></td>
+            </tr>
             <tr class="account-active" onclick="window.location.href='users/userprofile.php'">
               <td class="account-icon"><img src="images/markc.jpg" class="table-icon">
                 <i class="fa fa-lock"></i>

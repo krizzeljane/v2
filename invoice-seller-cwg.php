@@ -306,6 +306,7 @@
                     <p>Odometer: <strong>12,000 mi</strong></p>
                   </div>
                   <div class="col-sm-6">
+                    <p>Color: <strong>Black/Black</strong></p>
                     <p>VIN: <strong>HY237HS7953987765</strong></p>
                     <p>Stock Number: <strong>5398</strong></p>
                     <p>License Plate Number: <strong>WG2567</strong></p>
