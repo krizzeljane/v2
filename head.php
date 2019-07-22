@@ -74,6 +74,7 @@
   <!-- FlexSlider -->
   <script defer src="slider/demo/js/jquery.flexslider.js"></script>
   <script type="text/javascript" src="js/jquery.sticky.js"></script>
+
 <!-- 
   <script type="text/javascript">
    $(document).ready(function(){

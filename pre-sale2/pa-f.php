@@ -40,20 +40,21 @@
           <span class="caret"></span>
         </button>
         <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-          <li><a href="javascript:;">All my Dealerships</a></li>
-          <li><a href="javascript:;">Mazda of Vacaville</a></li>
-          <li><a href="javascript:;">Nissan of Vacaville</a></li>
+          <li><a href="javascript:;">Becca Woodham</a></li>
+          <li><a href="javascript:;">Jamie Jamison</a></li>
+          <li><a href="javascript:;">Robin Sion</a></li>
+          <li><a href="javascript:;">Sergio Velasco/a></li>
         </ul>
       </div>
       <div class="dropdown element right">
-        <button class="btn btn-default btn-sm dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+        <button class="btn btn-default btn-sm dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
           All Inspectors &nbsp;
           <span class="caret"></span>
         </button>
-        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-          <li><a href="javascript:;">All my Dealerships</a></li>
-          <li><a href="javascript:;">Mazda of Vacaville</a></li>
-          <li><a href="javascript:;">Nissan of Vacaville</a></li>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+          <li><a href="javascript:;">Inspector 1</a></li>
+          <li><a href="javascript:;">Inspector 2</a></li>
+          <li><a href="javascript:;">Inspector 3</a></li>
         </ul>
       </div>
       <div class="search element right">

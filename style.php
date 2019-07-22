@@ -40,99 +40,119 @@
               <div class="tab-content">
                 <div role="tabpanel" class="tab-pane active" id="home"> 
                   <div class="row">
-                    <div class="col-md-9">
+                    <div class="col-md-12">
+                      <!-- <img class="img-responsive" src="slider/demo/images/car1.jpg"> -->
                       <section class="slider">
-          <div id="slider2" class="flexslider">
-            <ul class="slides" id="animated-thumbnails">
-              <li>
-                <a href="slider/demo/images/car1.jpg">
-                  <img class="img-responsive" src="slider/demo/images/car1.jpg" alt="Thumb-1">
-                </a>
-              </li>
-              <li>
-                <a href="slider/demo/images/car2.jpg">
-                  <img class="img-responsive" src="slider/demo/images/car2.jpg" alt="Thumb-1">
-                </a>
-              </li>
-              <li>
-                <img src="slider/demo/images/car1.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car2.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car3.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car4.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car6.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car7.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car8.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car9.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car10.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car11.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car12.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car13.jpg" />
-              </li>
-            </ul>
-          </div>
-          <div id="carousel2" class="flexslider">
-            <ul class="slides">
-              <li>
-                <img src="slider/demo/images/car1.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car2.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car3.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car4.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car6.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car7.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car8.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car9.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car10.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car11.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car12.jpg" />
-              </li>
-              <li>
-                <img src="slider/demo/images/car13.jpg" />
-              </li>
-            </ul>
-          </div>
-        </section>
+                        <div id="slider2" class="flexslider">
+                          <ul class="slides" id="animated-thumbnails">
+                            <li>
+                              <a href="slider/demo/images/car1.jpg">
+                                <img class="img-responsive" src="slider/demo/images/car1.jpg" alt="Thumb-1">
+                              </a>
+                            </li>
+                            <li>
+                              <a href="slider/demo/images/car2.jpg">
+                                <img class="img-responsive" src="slider/demo/images/car2.jpg" alt="Thumb-1">
+                              </a>
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car1.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car2.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car3.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car4.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car6.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car7.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car8.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car9.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car10.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car11.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car12.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car13.jpg" />
+                            </li>
+                          </ul>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="profile"> 
+                  <div class="row">
+                    <div class="col-md-9">
+                      <!-- <img class="img-responsive" src="slider/demo/images/car1.jpg"> -->
+                      <section class="slider">
+                        <div id="slider2" class="flexslider">
+                          <ul class="slides" id="animated-thumbnails">
+                            <li>
+                              <a href="slider/demo/images/car1.jpg">
+                                <img class="img-responsive" src="slider/demo/images/car1.jpg" alt="Thumb-1">
+                              </a>
+                            </li>
+                            <li>
+                              <a href="slider/demo/images/car2.jpg">
+                                <img class="img-responsive" src="slider/demo/images/car2.jpg" alt="Thumb-1">
+                              </a>
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car1.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car2.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car3.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car4.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car6.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car7.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car8.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car9.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car10.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car11.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car12.jpg" />
+                            </li>
+                            <li>
+                              <img src="slider/demo/images/car13.jpg" />
+                            </li>
+                          </ul>
+                        </div>
+                      </section>
                     </div>
                     <div class="col-md-3">
                       <h4>Description</h4>
@@ -140,15 +160,9 @@
                     </div>
                   </div>
                 </div>
-                <div role="tabpanel" class="tab-pane" id="profile"> profile
-                 </div>
               </div>
 
             </div>
-
-
-
-
           </div>
           <!-- <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal"> Close</button>
@@ -166,123 +180,123 @@
             <h4 class="modal-title" id="myModalLabel"><i class="fa text-danger fa-exclamation-triangle"></i> Alert</h4>
           </div>
           <div class="modal-body">
-             Lorem ipsum.
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal"> Close</button>
-            <button type="button" class="btn btn-primary">Okay</button>
-          </div>
+           Lorem ipsum.
+         </div>
+         <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal"> Close</button>
+          <button type="button" class="btn btn-primary">Okay</button>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-      <div class="modal-dialog" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-          </div>
-          <div class="modal-body">
-            ...
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            <button type="button" class="btn btn-primary">Save changes</button>
-          </div>
+  <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+        </div>
+        <div class="modal-body">
+          ...
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Save changes</button>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-      <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-          <div class="modal-header" style="border-bottom: none;padding-bottom: 0;">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title text-center" id="myModalLabel">2011 Volkswagen CC Sport Sedan 4D</h4>
-          </div>
-          <div class="modal-body">
-            <ul class="nav nav-tabs" role="tablist" >
-              <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab" aria-expanded="false" style="font-family: 'Archivo';font-weight: 600;">Main  Photos</a></li>
-              <li role="presentation" class=""><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab" aria-expanded="true" style="font-family: 'Archivo';font-weight: 600;">Additional Photos</a></li>
-            </ul>
-            <br>
+  <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header" style="border-bottom: none;padding-bottom: 0;">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title text-center" id="myModalLabel">2011 Volkswagen CC Sport Sedan 4D</h4>
+        </div>
+        <div class="modal-body">
+          <ul class="nav nav-tabs" role="tablist" >
+            <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab" aria-expanded="false" style="font-family: 'Archivo';font-weight: 600;">Main  Photos</a></li>
+            <li role="presentation" class=""><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab" aria-expanded="true" style="font-family: 'Archivo';font-weight: 600;">Additional Photos</a></li>
+          </ul>
+          <br>
 
-            <div class="tab-content">
-              <div role="tabpanel" class="tab-pane active" id="home">
-                <img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive" style="width:100%; margin: 0 auto;">
-                <ul class="photo-con list-unstyled">
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/normal/WVWMP7AN2BE718204_4a90d9b2-3efc-4b48-b009-f1f252e4442d.jpg" class="img-responsive" ></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/normal/WVWMP7AN2BE718204_e549fd2c-c5c8-4db8-bf99-de112c827b34.jpg" class="img-responsive"></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
-                </ul>
-                <div style="width: 100%;display: block;position: relative;top: -83px;">
-                  <span class="fa fa-angle-left pull-left fa-3x"></span>
-                  <span class="fa fa-angle-right pull-right fa-3x"></span>
-                </div>
-              </div>
-              <div role="tabpanel" class="tab-pane" id="profile">
-                <div class="row">
-                  <div class="col-md-7">
-                    <img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive">
-                  </div>
-                  <div class="col-md-5">
-                    <div class="row">
-                      <div class="col-md-1"><h4><i class="fa fa-exclamation-triangle text-yellow"></i></h4></div>
-                      <div class="col-md-11"><h4>Power Locks</h4><br>
-                        <p>Lock Left Front - Non-Op</p><br>
-                        <button class="btn btn-danger"> Delete this disclosure</button>
-                      </div>
-                    </div>
-                    
-                    
-                    
-                  </div>
-                </div>
-                 
-                <ul class="photo-con list-unstyled">
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/normal/WVWMP7AN2BE718204_4a90d9b2-3efc-4b48-b009-f1f252e4442d.jpg" class="img-responsive" ></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/normal/WVWMP7AN2BE718204_e549fd2c-c5c8-4db8-bf99-de112c827b34.jpg" class="img-responsive"></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
-                  <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
-                </ul>
-                <div style="width: 100%;display: block;position: relative;top: -83px;">
-                  <span class="fa fa-angle-left pull-left fa-3x"></span>
-                  <span class="fa fa-angle-right pull-right fa-3x"></span>
-                </div>
-
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="home">
+              <img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive" style="width:100%; margin: 0 auto;">
+              <ul class="photo-con list-unstyled">
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/normal/WVWMP7AN2BE718204_4a90d9b2-3efc-4b48-b009-f1f252e4442d.jpg" class="img-responsive" ></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/normal/WVWMP7AN2BE718204_e549fd2c-c5c8-4db8-bf99-de112c827b34.jpg" class="img-responsive"></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
+              </ul>
+              <div style="width: 100%;display: block;position: relative;top: -83px;">
+                <span class="fa fa-angle-left pull-left fa-3x"></span>
+                <span class="fa fa-angle-right pull-right fa-3x"></span>
               </div>
             </div>
+            <div role="tabpanel" class="tab-pane" id="profile">
+              <div class="row">
+                <div class="col-md-7">
+                  <img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive">
+                </div>
+                <div class="col-md-5">
+                  <div class="row">
+                    <div class="col-md-1"><h4><i class="fa fa-exclamation-triangle text-yellow"></i></h4></div>
+                    <div class="col-md-11"><h4>Power Locks</h4><br>
+                      <p>Lock Left Front - Non-Op</p><br>
+                      <button class="btn btn-danger"> Delete this disclosure</button>
+                    </div>
+                  </div>
 
-            
+
+
+                </div>
+              </div>
+
+              <ul class="photo-con list-unstyled">
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/normal/WVWMP7AN2BE718204_4a90d9b2-3efc-4b48-b009-f1f252e4442d.jpg" class="img-responsive" ></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/normal/WVWMP7AN2BE718204_e549fd2c-c5c8-4db8-bf99-de112c827b34.jpg" class="img-responsive"></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
+                <li><img src="https://portalvhdsmvc40zw13wg13.blob.core.windows.net/vimages/large/WVWMP7AN2BE718204_cf84c77f-80f5-4bea-809f-da9c26fb230f.jpg" class="img-responsive"></li>
+              </ul>
+              <div style="width: 100%;display: block;position: relative;top: -83px;">
+                <span class="fa fa-angle-left pull-left fa-3x"></span>
+                <span class="fa fa-angle-right pull-right fa-3x"></span>
+              </div>
+
+            </div>
           </div>
-          
+
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-sm" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+        </div>
+        <div class="modal-body">
+          ...
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Save changes</button>
         </div>
       </div>
     </div>
-
-    <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-      <div class="modal-dialog modal-sm" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-          </div>
-          <div class="modal-body">
-            ...
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            <button type="button" class="btn btn-primary">Save changes</button>
-          </div>
-        </div>
-      </div>
-    </div>
+  </div>
 
     <!-- <nav class="navbar navbar-default">
       <div class="container">
@@ -347,8 +361,8 @@
     </div>
 
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal-gallery">
-            Modal gallery
-          </button>
+      Modal gallery
+    </button>
 
     <div class="container">
       <div class="panel colors">
@@ -357,7 +371,7 @@
         </div>
         <div class="panel-body">
           <div class="row">
-            
+
             <div class="col-md-6">
               <h4>Primary and Highlight Color</h4>
               <br>
@@ -453,7 +467,7 @@
         </div>
         <div class="panel-body">
           <div class="row">
-            
+
             <div class="col-md-12">
               <div class="row">
                 <div class="col-sm-5">
@@ -487,7 +501,7 @@
               <hr>
               <div class="row">
                 <div class="col-sm-4">
-                <h4>Headings</h4>
+                  <h4>Headings</h4>
                   <h1>H1 Heading (36px)</h1>
                   <h2>H2 Heading (30px)</h2>
                   <h3>H3 Heading (30px)</h3>
@@ -496,7 +510,7 @@
                   <h6>H6 Heading (30px)</h6>
                 </div>
                 <div class="col-sm-8">
-                <h4>Paragraph</h4>
+                  <h4>Paragraph</h4>
                   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit <a href="#" class="btn-link">This is a button link in a paragraph.</a> lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. </p>
                   <hr>
                   <p class="text-lg">Paragraph text-lg</p>
@@ -508,7 +522,7 @@
               <hr>
               <div class="row">
                 <div class="col-sm-4">
-                <h4>Contextual Colors</h4>
+                  <h4>Contextual Colors</h4>
                   <p class="text-primary-one">text-primary-one</p>
                   <p class="text-primary-two">text-primary-two</p>
                   <p class="text-primary-three">text-primary-three</p>
@@ -517,7 +531,7 @@
                   <p class="text-white bg-primary-one">text-white</p>
                 </div>
                 <div class="col-sm-8">
-                <h4>&nbsp;</h4>
+                  <h4>&nbsp;</h4>
                   <p class="text-dark">text-primary-one</p>
                   <p class="text-normal">text-primary-two</p>
                   <p class="text-light">text-primary-three</p>
@@ -526,7 +540,7 @@
 
               <div class="row">
                 <div class="col-sm-4">
-                <h4>Contextual Colors</h4>
+                  <h4>Contextual Colors</h4>
                   <p class="text-white bg-primary-one">text-primary-one</p>
                   <p class="text-white bg-primary-two">text-primary-two</p>
                   <p class="text-white bg-primary-three">text-primary-three</p>
@@ -535,7 +549,7 @@
                   <p class="text-white bg-white">text-white</p>
                 </div>
                 <div class="col-sm-8">
-                <h4>&nbsp;</h4>
+                  <h4>&nbsp;</h4>
                   <p class="text-white bg-dark">text-primary-one</p>
                   <p class="text-white bg-normal">text-primary-two</p>
                   <p class="text-white bg-light">text-primary-three</p>
@@ -719,126 +733,126 @@
                   </div>
 
                   <div class="form-group">
-                     <select class="form-control input" id="exampleInputPassword1" placeholder="Select Normal">
-                      <option>Select Normal</option>
-                      <option>2</option>
-                      <option>3</option>
-                      <option>4</option>
-                      <option>5</option>
-                    </select>
-                  </div>
-
-                  <div class="form-group">
-                     <select class="form-control input-sm" id="exampleInputPassword1" placeholder="Select Small">
-                      <option>Select Small</option>
-                      <option>2</option>
-                      <option>3</option>
-                      <option>4</option>
-                      <option>5</option>
-                    </select>
-                  </div>
-
+                   <select class="form-control input" id="exampleInputPassword1" placeholder="Select Normal">
+                    <option>Select Normal</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                  </select>
                 </div>
-                
-              </div>
 
-            </div>
-
-            <div class="col-md-6">
-              <h4>Checkboxes</h4>
-              <p>Please follow the same HTML code for this.</p>
-              <div class="row">
-                <div class="col-sm-12">
-                  <div class="checkbox">
-                    <input type="checkbox" name="group2" id="checkbox-1">
-                    <label for="checkbox-1"><span class="check">Checkbox 1</span></label>
-                  </div>
-                  <div class="checkbox">
-                    <input type="checkbox" name="group2" id="checkbox-2">
-                    <label for="checkbox-2"><span class="check">Checkbox 2</span></label>
-                  </div>
-                  <div class="checkbox">
-                    <input type="checkbox" name="group2" id="checkbox-3">
-                    <label for="checkbox-3"><span class="check">Checkbox 3</span></label>
-                  </div>
-                </div>
-              </div>
-
-              <h4>Radio Buttons</h4>
-              <p>Please follow the same HTML code for this.</p>
-              <div class="row">
-                <div class="col-sm-12">
-                    <label class="radio "> 
-                        <input type="radio" name="sex" value="male" checked>
-                        <span> Male </span> 
-                     </label>
-                    <label class="radio "> 
-                        <input type="radio" name="sex" value="female">
-                        <span>Female </span> 
-                    </label>
-                  
-                </div>
+                <div class="form-group">
+                 <select class="form-control input-sm" id="exampleInputPassword1" placeholder="Select Small">
+                  <option>Select Small</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                </select>
               </div>
 
             </div>
 
           </div>
-        </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="panel">
-        <div class="panel-heading">
-          <h3>Alerts</h3>
         </div>
-        <div class="panel-body">
+
+        <div class="col-md-6">
+          <h4>Checkboxes</h4>
+          <p>Please follow the same HTML code for this.</p>
           <div class="row">
-            
-            <div class="col-md-6">
-              <p class="alert alert-danger">alert alert-danger &nbsp;<button class="btn btn-xs btn-danger">btn btn-xs btn-danger</button></p>
-              <p class="alert alert-info">alert alert-info</p>
-              <p class="alert alert-success">alert alert-success</p>
-              <div class="alert alert-warning alert-dismissible" role="alert">
-                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                alert alert-warning alert-dismissible 
-              </div>      
-              
-            </div>
-            <div class="col-sm-6">              
-              <div class="alert alert-danger" role="alert">
-                <strong>Paragraph Alert</strong><br><br> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit <br><br><a href="#" class="btn-link">This is a button link in a paragraph.</a> lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+            <div class="col-sm-12">
+              <div class="checkbox">
+                <input type="checkbox" name="group2" id="checkbox-1">
+                <label for="checkbox-1"><span class="check">Checkbox 1</span></label>
               </div>
+              <div class="checkbox">
+                <input type="checkbox" name="group2" id="checkbox-2">
+                <label for="checkbox-2"><span class="check">Checkbox 2</span></label>
+              </div>
+              <div class="checkbox">
+                <input type="checkbox" name="group2" id="checkbox-3">
+                <label for="checkbox-3"><span class="check">Checkbox 3</span></label>
+              </div>
+            </div>
+          </div>
 
-              <div class="alert alert-info alert-dismissible" role="alert">
-                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <strong>Dismissible Paragraph Alert</strong><br><br> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit <br><br><a href="#" class="btn-link">This is a button link in a paragraph.</a> lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
-              </div>
+          <h4>Radio Buttons</h4>
+          <p>Please follow the same HTML code for this.</p>
+          <div class="row">
+            <div class="col-sm-12">
+              <label class="radio "> 
+                <input type="radio" name="sex" value="male" checked>
+                <span> Male </span> 
+              </label>
+              <label class="radio "> 
+                <input type="radio" name="sex" value="female">
+                <span>Female </span> 
+              </label>
+
             </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="panel">
+    <div class="panel-heading">
+      <h3>Alerts</h3>
+    </div>
+    <div class="panel-body">
+      <div class="row">
+
+        <div class="col-md-6">
+          <p class="alert alert-danger">alert alert-danger &nbsp;<button class="btn btn-xs btn-danger">btn btn-xs btn-danger</button></p>
+          <p class="alert alert-info">alert alert-info</p>
+          <p class="alert alert-success">alert alert-success</p>
+          <div class="alert alert-warning alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            alert alert-warning alert-dismissible 
+          </div>      
+
+        </div>
+        <div class="col-sm-6">              
+          <div class="alert alert-danger" role="alert">
+            <strong>Paragraph Alert</strong><br><br> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit <br><br><a href="#" class="btn-link">This is a button link in a paragraph.</a> lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+          </div>
+
+          <div class="alert alert-info alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <strong>Dismissible Paragraph Alert</strong><br><br> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit <br><br><a href="#" class="btn-link">This is a button link in a paragraph.</a> lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
           </div>
         </div>
       </div>
     </div>
+  </div>
+</div>
 
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">
-            Modal Large
-          </button>
-          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">
-            Modal Medium
-          </button>
-          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">
-            Modal Small
-          </button>
-          <h4>MODAL ALERTS</h4>
-          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal-alert">
-            modal-alert
-          </button>
-        </div>
-      </div>
-      <br>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal2">
+        Modal Large
+      </button>
+      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal1">
+        Modal Medium
+      </button>
+      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal3">
+        Modal Small
+      </button>
+      <h4>MODAL ALERTS</h4>
+      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal-alert">
+        modal-alert
+      </button>
+    </div>
+  </div>
+  <br>
 
       <!-- <div class="row">
         <div class="col-md-12">
@@ -1006,7 +1020,7 @@
     <br>
     <div class="row">
       <div class="col-sm-6">
-        
+
       </div>
       <div class="col-sm-2">
         <!-- <div class="btn-group input-group">
@@ -1036,14 +1050,14 @@
             <button class="btn btn-yellow btn-sm" type="button">Autobid</button>
           </span>
         </div><!-- /input-group -->
-          <br>
+        <br>
       </div>
       <div class="col-sm-4"></div>
-      </div>
     </div>
-    <br>
-    
   </div>
+  <br>
+
+</div>
 </div>
 
 
@@ -1066,7 +1080,7 @@
         <li><a href="#">Separated link</a></li>
       </ul>
     </div>
-   
+
     <div class="btn-group pull-right" role="group" aria-label="...">
       <button type="button" class="btn btn-default"><i class="fa fa-angle-left"></i></button>
       <button type="button" class="btn btn-default"><i class="fa fa-angle-right"></i></button>
@@ -1085,20 +1099,20 @@
           </div>
         </div>
 
-          <div class="row">
-            <div class="col-xs-12">
-              <div class="vehicle-name">
-                <div class="row">
-                  <div class="col-xs-11">
-                    <p>2001 Ford F150 Super Cab Short Bed 4D 2WD V8, 5.4 Liter</p>
-                  </div>
-                  <div class="col-xs-1">
-                    <i class="fa fa-angle-down"></i>
-                  </div>
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="vehicle-name">
+              <div class="row">
+                <div class="col-xs-11">
+                  <p>2001 Ford F150 Super Cab Short Bed 4D 2WD V8, 5.4 Liter</p>
+                </div>
+                <div class="col-xs-1">
+                  <i class="fa fa-angle-down"></i>
                 </div>
               </div>
             </div>
           </div>
+        </div>
 
 
         <div class="vehicle-inner">
@@ -1141,19 +1155,19 @@
         </div>
 
         <div class="row">
-            <div class="col-xs-12">
-              <div class="vehicle-name">
-                <div class="row">
-                  <div class="col-xs-11">
-                    <p>2001 Ford F150 Super Cab Short Bed 4D 2WD V8, 5.4 Liter</p>
-                  </div>
-                  <div class="col-xs-1">
-                    <i class="fa fa-angle-down"></i>
-                  </div>
+          <div class="col-xs-12">
+            <div class="vehicle-name">
+              <div class="row">
+                <div class="col-xs-11">
+                  <p>2001 Ford F150 Super Cab Short Bed 4D 2WD V8, 5.4 Liter</p>
+                </div>
+                <div class="col-xs-1">
+                  <i class="fa fa-angle-down"></i>
                 </div>
               </div>
             </div>
           </div>
+        </div>
 
         <div class="vehicle-inner">
           <div class="row">
@@ -1197,44 +1211,44 @@
   </table>
 </div>
 
- 
 
- 
- <script type="text/javascript">
-   $(function () {
-    $('[data-toggle="popover"]').popover()
-  })
-   $(function () {
+
+
+<script type="text/javascript">
+ $(function () {
+  $('[data-toggle="popover"]').popover()
+})
+ $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 })
 
-   $('.table > tbody > td').hover(function() {
-    $('.table > tbody > tr > td > i').show();
-   })
-  </script>
- <script>
-  
+ $('.table > tbody > td').hover(function() {
+  $('.table > tbody > tr > td > i').show();
+})
+</script>
+<script>
+
 
   $(document).ready(function(){
     $('#modal-gallery a').click(function (e) {
-    e.preventDefault()
-    $(this).tab('show')
-  })
+      e.preventDefault()
+      $(this).tab('show')
+    })
 
     
   });
   $(window).load(function(){
-    $('#carousel2').flexslider({
-      animation: "slide",
-      controlNav: false,
-      animationLoop: false,
-      slideshow: false,
-      itemWidth: 100,
-      itemMargin: 5,
-      asNavFor: '#slider2',
-      prevText: "",
-      nextText: ""
-    });
+    // $('#carousel2').flexslider({
+    //   animation: "slide",
+    //   controlNav: false,
+    //   animationLoop: false,
+    //   slideshow: false,
+    //   itemWidth: 100,
+    //   itemMargin: 5,
+    //   asNavFor: '#slider2',
+    //   prevText: "",
+    //   nextText: ""
+    // });
 
     $('#slider2').flexslider({
       animation: "slide",
@@ -1248,7 +1262,7 @@
     });
   });
 
-  </script>
-  <?php include("footer.php") ?>
+</script>
+<?php include("footer.php") ?>
 </body>
 </html>
