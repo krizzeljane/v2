@@ -20,8 +20,8 @@
           <div id="slider" class="flexslider">
             <ul class="slides" id="animated-thumbnails">
               <li>
-                <a href="slider/demo/images/car1.jpg">
-                  <img class="img-responsive" src="slider/demo/images/car1.jpg" alt="Thumb-1">
+                <a href="http://cwaves.herokuapp.com/images/pna.jpg">
+                  <img class="img-responsive" src="http://cwaves.herokuapp.com/images/pna.jpg" alt="Thumb-1">
                 </a>
               </li>
               <li>
