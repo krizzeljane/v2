@@ -60,7 +60,7 @@
 
 	.vr-name {
 		padding: 5px 10px;
-		font-size: 14px;
+		font-size: 16px;
 	}
 	.vr-name span {
 		float: none !important;
@@ -68,7 +68,7 @@
 		display: block;
 		font-weight: normal;
 		margin-top: 10px;
-		font-size: 12px;
+		font-size: 14px;
 	}
 
 	.row.v-row-col {
@@ -105,7 +105,7 @@
 	}
 
 	ul.v-row-list li p {
-    font-size: 12px;
+    font-size: 14px;
 	}
 
 	.v-row-actions-right {

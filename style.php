@@ -40,60 +40,109 @@
               <div class="tab-content">
                 <div role="tabpanel" class="tab-pane active" id="home"> 
                   <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-9">
                       <!-- <img class="img-responsive" src="slider/demo/images/car1.jpg"> -->
-                      <section class="slider">
-                        <div id="slider2" class="flexslider">
+                      <section class="slider ">
+                        <div id="slider2" class="flexslider main">
                           <ul class="slides" id="animated-thumbnails">
                             <li>
-                              <a href="slider/demo/images/car1.jpg">
-                                <img class="img-responsive" src="slider/demo/images/car1.jpg" alt="Thumb-1">
-                              </a>
+                              <img src="images/ncv.jpg" />
                             </li>
                             <li>
-                              <a href="slider/demo/images/car2.jpg">
-                                <img class="img-responsive" src="slider/demo/images/car2.jpg" alt="Thumb-1">
-                              </a>
+                              <img src="images/nc0.jpg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car1.jpg" />
+                              <img src="images/nc01.jpg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car2.jpg" />
+                              <img src="images/nc02.jpg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car3.jpg" />
+                              <img src="images/nc1.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car4.jpg" />
+                              <img src="images/nc2.jpeg" />
+
                             </li>
                             <li>
-                              <img src="slider/demo/images/car6.jpg" />
+                              <img src="images/nc3.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car7.jpg" />
+                              <img src="images/nc4.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car8.jpg" />
+                              <img src="images/nc5.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car9.jpg" />
+                              <img src="images/nc6.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car10.jpg" />
+                              <img src="images/nc7.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car11.jpg" />
+                             <img src="images/nc8.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car12.jpg" />
+                              <img src="images/nc9.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car13.jpg" />
+                              <img src="images/nc10.jpeg" />
+                            </li>
+                          </ul>
+                        </div>
+                        <div id="carousel2" class="flexslider car">
+                          <ul class="slides">
+                            <li>
+                              <img src="images/ncv.jpg" />
+                            </li>
+                            <li>
+                              <img src="images/nc0.jpg" />
+                            </li>
+                            <li>
+                              <img src="images/nc01.jpg" />
+                            </li>
+                            <li>
+                              <img src="images/nc02.jpg" />
+                            </li>
+                            <li>
+                              <img src="images/nc1.jpeg" />
+                            </li>
+                            <li>
+                              <img src="images/nc2.jpeg" />
+                            </li>
+                            <li>
+                              <img src="images/nc3.jpeg" />
+                            </li>
+                            <li>
+                              <img src="images/nc4.jpeg" />
+                            </li>
+                            <li>
+                              <img src="images/nc5.jpeg" />
+                            </li>
+                            <li>
+                              <img src="images/nc6.jpeg" />
+                            </li>
+                            <li>
+                              <img src="images/nc7.jpeg" />
+                            </li>
+                            <li>
+                             <img src="images/nc8.jpeg" />
+                            </li>
+                            <li>
+                              <img src="images/nc9.jpeg" />
+                            </li>
+                            <li>
+                              <img src="images/nc10.jpeg" />
                             </li>
                           </ul>
                         </div>
                       </section>
+                    </div>
+                    <div class="col-md-3">
+                      <div class="damage-description">
+                      <h4>2018 Kia Forte LX Sedan 4D</h4>
+                      <p>FWD 4-Cyl, 2.0 Liter <br> 16,865 miles <br> Silver/Gray <br> 3KPFL4A70JE165060</p>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -102,61 +151,39 @@
                     <div class="col-md-9">
                       <!-- <img class="img-responsive" src="slider/demo/images/car1.jpg"> -->
                       <section class="slider">
-                        <div id="slider2" class="flexslider">
+                        <div id="slider3" class="flexslider main">
                           <ul class="slides" id="animated-thumbnails">
                             <li>
-                              <a href="slider/demo/images/car1.jpg">
-                                <img class="img-responsive" src="slider/demo/images/car1.jpg" alt="Thumb-1">
-                              </a>
+                               <img src="images/ncd1.jpeg" />
                             </li>
                             <li>
-                              <a href="slider/demo/images/car2.jpg">
-                                <img class="img-responsive" src="slider/demo/images/car2.jpg" alt="Thumb-1">
-                              </a>
+                              <img src="images/ncd2.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car1.jpg" />
+                              <img src="images/ncd3.jpeg" />
+                            </li>
+                          </ul>
+                        </div>
+                        <div id="carousel3" class="flexslider car">
+                          <ul class="slides">
+                            <li>
+                               <img src="images/ncd1.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car2.jpg" />
+                              <img src="images/ncd2.jpeg" />
                             </li>
                             <li>
-                              <img src="slider/demo/images/car3.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car4.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car6.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car7.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car8.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car9.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car10.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car11.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car12.jpg" />
-                            </li>
-                            <li>
-                              <img src="slider/demo/images/car13.jpg" />
+                              <img src="images/ncd3.jpeg" />
                             </li>
                           </ul>
                         </div>
                       </section>
                     </div>
                     <div class="col-md-3">
-                      <h4>Description</h4>
-                      <p>Description</p>
+                      <div class="damage-description">
+                      <h4><i class="fa fa-exclamation-triangle text-yellow"></i> &nbsp;Paintwork</h4>
+                      <p class="">Quarter Panel – Right <br>Dent/No Paint Dmg <br> less than 1"</p>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -298,71 +325,24 @@
     </div>
   </div>
 
-    <!-- <nav class="navbar navbar-default">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">Dealers America</a>
-        </div>
 
-       
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buy <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Auction</a></li>
-                <li><a href="#">Direct</a></li>
-                <li><a href="#">Cars I Want</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sell <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Cars I Sell</a></li>
-                <li><a href="#">Car Offers</a></li>
-                <li><a href="#">Archive</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="#">Add Car</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">My Transactions <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Cars I Sold</a></li>
-                <li><a href="#">Car I Bought</a></li>
-              </ul>
-            </li>
-            <li class=""><a href="#">Dealers</a></li>
-            <li class=""><a href="#">My Dealerships</a></li>
-          </ul>
-          <ul class="nav navbar-nav navbar-right">
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-user"></i> krizzel@saperium.com <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Account</a></li>
-                <li><a href="#">Log Out</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav> -->
-
-    <div class="text-center title">
+    <div class="text-center text-primary-one">
       <h1>V2 UI Guidelines</h1>
       <p>Prepared by: Krizzel Jane Bigol</p>
     </div>
 
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal-gallery">
-      Modal gallery
-    </button>
+
+    <div class="container">
+      <div class="panel">
+        <div class="panel-body">
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal-gallery">
+            Lightbox Gallery
+          </button><br><br>
+          <img id="zoom_02" width="600" src="images/nc0.jpg" alt="Thumb-1" data-zoom-image="images/nc0.jpg">
+        </div>
+      </div>
+    </div>
+    
 
     <div class="container">
       <div class="panel colors">
@@ -1211,7 +1191,14 @@
   </table>
 </div>
 
-
+<script type="text/javascript">
+  $('#zoom_02').elevateZoom({
+        zoomType: "inner",
+        cursor: "crosshair",
+        zoomWindowFadeIn: 1000,
+        zoomWindowFadeOut: 1000
+      }); 
+</script>
 
 
 <script type="text/javascript">
@@ -1233,36 +1220,64 @@
     $('#modal-gallery a').click(function (e) {
       e.preventDefault()
       $(this).tab('show')
-    })
-
-    
+    });
   });
   $(window).load(function(){
-    // $('#carousel2').flexslider({
-    //   animation: "slide",
-    //   controlNav: false,
-    //   animationLoop: false,
-    //   slideshow: false,
-    //   itemWidth: 100,
-    //   itemMargin: 5,
-    //   asNavFor: '#slider2',
-    //   prevText: "",
-    //   nextText: ""
-    // });
+    
 
     $('#slider2').flexslider({
-      animation: "slide",
+      animation: "fade",
       controlNav: false,
       animationLoop: false,
       slideshow: false,
+      animationSpeed: 0, 
       sync: "#carousel2",
       start: function(slider){
         $('body').removeClass('loading');
       }
     });
+
+    $('#carousel2').flexslider({
+      animation: "",
+      controlNav: false,
+      animationLoop: false,
+      slideshow: false,
+      itemWidth: 100,
+      itemMargin: 5,
+      asNavFor: '#slider2',
+      prevText: "",
+      nextText: ""
+    });
+
+    
+    $('#slider3').flexslider({
+      animation: "fade",
+      controlNav: false,
+      animationLoop: false,
+      slideshow: false,
+      animationSpeed: 0, 
+      sync: "#carousel2",
+      start: function(slider){
+        $('body').removeClass('loading');
+      }
+    });
+    $('#carousel3').flexslider({
+      animation: "",
+      controlNav: false,
+      animationLoop: false,
+      slideshow: false,
+      itemWidth: 100,
+      itemMargin: 5,
+      asNavFor: '#slider3',
+      prevText: "",
+      nextText: ""
+    });
   });
 
 </script>
+
+
+
 <?php include("footer.php") ?>
 </body>
 </html>

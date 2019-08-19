@@ -138,7 +138,7 @@ html[xmlns] .flexslider .slides {
   top: 50%;
   z-index: 10;
   overflow: hidden;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
   color: rgba(0, 0, 0, 0.8);
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
@@ -152,18 +152,18 @@ html[xmlns] .flexslider .slides {
   font-family: "fontawesome";
   font-size: 40px;
   display: inline-block;
-  content: '\f104';
+  content: '\f137';
   color: rgb(255, 255, 255);
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.65);
 }
 .flex-direction-nav a.flex-next:before {
-  content: '\f105';
+  content: '\f138';
 }
 .flex-direction-nav .flex-prev {
-  left: -50px;
+  left: 00px;
 }
 .flex-direction-nav .flex-next {
-  right: -50px;
+  right: 00px;
   text-align: right;
 }
 .flexslider:hover .flex-direction-nav .flex-prev {

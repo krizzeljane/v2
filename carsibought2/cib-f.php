@@ -233,7 +233,7 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn btn-default btn btn-block" type="button" data-toggle="modal" data-target="#invoice-pdf">
+												<button class="btn btn-default btn-block" type="button" data-toggle="modal" data-target="#invoice-pdf">
 													Invoice
 												</button>
 											</li>
@@ -628,7 +628,7 @@
 												</div>
 											</li>
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -662,7 +662,7 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -770,7 +770,7 @@
 												</div>
 											</li>
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -804,7 +804,7 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -914,7 +914,7 @@
 												</div>
 											</li>
 											<li>
-												<button class="btn btn-default btn-sm btn-block" data-toggle="modal" data-target="#invoice-franchise-buyer-norwalk">
+												<button class="btn btn-default btn-block" data-toggle="modal" data-target="#invoice-franchise-buyer-norwalk">
 													Invoice
 												</button>
 											</li>
@@ -944,7 +944,7 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn btn-default btn-sm btn-block" data-toggle="modal" data-target="#invoice-franchise-buyer-norwalk">
+												<button class="btn btn-default btn-block" data-toggle="modal" data-target="#invoice-franchise-buyer-norwalk">
 													Invoice
 												</button>
 											</li>
@@ -1051,7 +1051,7 @@
 												</div>
 											</li>
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -1083,7 +1083,7 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -1189,7 +1189,7 @@
 												</div>
 											</li>
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -1220,7 +1220,7 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -1328,7 +1328,7 @@
 												</div>
 											</li>
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -1359,7 +1359,7 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -1467,7 +1467,7 @@
 												</div>
 											</li>
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>
@@ -1498,7 +1498,7 @@
 									<div class="col-xs-6 hidden-lg">
 										<ul class="list-unstyled v-row-list">
 											<li>
-												<button class="btn disabled btn-default btn-sm btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
+												<button class="btn disabled btn-default btn-block" data-toggle="tooltip" data-placement="top" title="" data-original-title="Invoice not available. Vehicle is still under negotiation.">
 													Invoice
 												</button>
 											</li>

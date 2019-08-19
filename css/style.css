@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Archivo:400,500,600,700|Roboto:300,400,500,700|Archivo:400,700|Poppins:100,200,300,400,500,600,700,800,900|Anton|Karla|IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Archivo:400,500,600,700|Roboto:300,400,500,700|Anton|Rubik:400,500,700,900&display=swap');
 
 /**** FOR UI GUIDELINES PAGE ONLY ****/
 /**** DO NOT INCLUDE ****/
@@ -147,7 +147,7 @@
 }
 
 #typography .Archivo {
-  font-family: 'Archivo' !important;
+  font-family: 'Rubik' !important;
 }
 
 #typography .Roboto {
@@ -419,7 +419,7 @@ a.text-warning:focus {
 
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Archivo" !important;
+	font-family: "Rubik" !important;
 	font-weight: 500;
 	letter-spacing: 0 !important;
   cursor: default;
@@ -464,7 +464,7 @@ a.btn-link-default:hover button.btn-link-default:hover {
 }
 
 .btn {
-	font-family: 'Archivo';
+	font-family: 'Rubik';
 	font-weight: 500 !important;
 }
 
@@ -959,7 +959,7 @@ ul.dropdown-menu .checkbox label{
     }
 
     .vehicle-name p {
-      font-family: "Archivo";
+      font-family: "Rubik";
       margin-top: 10px;
 
       font-size: 16px;
@@ -1257,8 +1257,24 @@ img {
   overflow: hidden !important;
 }
 
+
+figure.card-image.loading.dealers-photo {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+
+.modal-fs section.slider {
+  display: table;
+  /*height: 90vh;*/
+  width: 100%;
+}
+
 .modal-fs .nav-tabs {
-  margin-bottom: 10px;
+    margin-bottom: 10px;
+    /*display: inline-block;
+    border-bottom: none;*/
 }
 
 
@@ -1267,10 +1283,15 @@ img {
 }
 
 .modal-fs .modal-dialog {
-    width: 100%;
-    height: 100vh;
+    width: 90%;
+    height: auto;
     margin: 0;
     padding: 0;
+    background-color: #fff;
+}
+
+.modal-fs .modal-content {
+    background-color: #fff;
 }
 
 .modal-alert.in.modal-fs .modal-content {
@@ -1281,9 +1302,94 @@ img {
     padding: 0 !important;
   }
 
+  .modal-fs .flexslider {
+    background-color: #fff;
+    border-color: #fff;
+    /*display: table-cell;
+    width: 100%;
+    vertical-align: middle;*/
+  }
+/*
+  .modal-fs .flex-viewport {
+  }
 
-figure.card-image.loading.dealers-photo {
-    height: 50px;
-    width: 50px;
-    border-radius: 50px;
+  .modal-fs ul#animated-thumbnails li {
+    text-align: center;
+  }
+*/
+  .modal-fs .flexslider.main .slides>li>img {
+    max-height: 70vh;
+    width: auto;
+    margin: 0 auto;
+}
+
+ .modal-fs .flexslider.car .slides>li {
+    max-height: 75px;
+    overflow: hidden;
+  }
+
+    
+
+.modal-fs .nav-tabs > li > a {
+   color: #333;
+    border-radius: 4px;
+    font-size: 17px;
+    padding: 10px 20px 15px;
+    font-weight: 500;
+}
+
+.modal-fs .nav-tabs > li > a:hover {
+   color: #333;
+}
+
+.modal-fs .nav-tabs > li > a {
+   color: #333;
+   border-radius: 4px;
+}
+
+.modal-fs .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    color: #333 !important;
+}
+
+.modal-fs .damage-description {
+  text-align: left;
+  color: #333;
+}
+
+.modal-fs button.close {
+    font-size: 30px !important;
+    color: #333;
+    opacity: 0.9;
+    padding-right: 10px;
+}
+
+.zoomWindowContainer > div {
+  z-index: 9999999 !important;
+}
+
+div#carousel2, div#carousel3 {
+    bottom: 0;
+    width: 100%;
+}
+
+.flex-direction-nav a {
+    width: 50px !important;
+    height: 50px !important;
+    text-align: center !important;
+}
+.modal-fs .flex-direction-nav a:before {
+  color: #a7a7a7;
+  text-shadow: 1px 1px 0 #808080;
+}
+
+.flex-caption {
+  width: 96%;
+  padding: 2%;
+  left: 0;
+  bottom: 0;
+  background: rgba(0,0,0,.5);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+  font-size: 14px;
+  line-height: 18px;
 }
