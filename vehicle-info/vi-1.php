@@ -20,8 +20,13 @@
           <div id="slider" class="flexslider">
             <ul class="slides" id="animated-thumbnails">
               <li>
-                <a href="http://cwaves.herokuapp.com/images/pna.jpg">
-                  <img class="img-responsive" src="http://cwaves.herokuapp.com/images/pna.jpg" alt="Thumb-1">
+                <a href="http://cwaves.herokuapp.com/images/pna-02.jpg">
+                  <img class="img-responsive" src="http://cwaves.herokuapp.com/images/pna-02.jpg" alt="Thumb-1">
+                </a>
+              </li>
+              <li>
+                <a href="http://cwaves.herokuapp.com/images/pna-01.jpg">
+                  <img class="img-responsive" src="http://cwaves.herokuapp.com/images/pna-01.jpg" alt="Thumb-1">
                 </a>
               </li>
               <li>
@@ -70,10 +75,10 @@
           <div id="carousel" class="flexslider">
             <ul class="slides">
               <li>
-                <img src="slider/demo/images/car1.jpg" />
+                <img src="http://cwaves.herokuapp.com/images/pna-02.jpg" />
               </li>
               <li>
-                <img src="slider/demo/images/car2.jpg" />
+                <img src="http://cwaves.herokuapp.com/images/pna-01.jpg" />
               </li>
               <li>
                 <img src="slider/demo/images/car3.jpg" />
