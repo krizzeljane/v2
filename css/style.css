@@ -22,6 +22,10 @@
   a {
     color: #3B356E;
   }
+
+  a:hover {
+    color: #625d8b;
+  }
   .panel-group.accordion .panel{
     padding: 0;
   }
@@ -147,7 +151,7 @@
 }
 
 #typography .Archivo {
-  font-family: 'Rubik' !important;
+  font-family: 'Archivo' !important;
 }
 
 #typography .Roboto {
@@ -244,11 +248,11 @@
 
 
 
-/*@media (min-width: 1300px) {
+@media (min-width: 1300px) {
   .container {
     width: 1300px;
   }
-  }*/
+  }
 
   @font-face {
     font-family: 'Material Icons';
@@ -419,7 +423,7 @@ a.text-warning:focus {
 
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Rubik" !important;
+	font-family: "Archivo" !important;
 	font-weight: 500;
 	letter-spacing: 0 !important;
   cursor: default;
@@ -464,7 +468,7 @@ a.btn-link-default:hover button.btn-link-default:hover {
 }
 
 .btn {
-	font-family: 'Rubik';
+	font-family: 'Archivo';
 	font-weight: 500 !important;
 }
 
@@ -959,7 +963,7 @@ ul.dropdown-menu .checkbox label{
     }
 
     .vehicle-name p {
-      font-family: "Rubik";
+      font-family: "Archivo";
       margin-top: 10px;
 
       font-size: 16px;

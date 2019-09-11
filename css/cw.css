@@ -139,7 +139,7 @@ position: absolute;
     display: block;
     text-align: center;
     width: 100%;
-    bottom: 80px;
+    bottom: 120px;
 }
 
 .why-btn .btn {
@@ -222,6 +222,23 @@ position: relative;
 		max-width: 400px;
 }
 
+.gr-form {
+  background-color: #eaeaea;
+  padding: 0 20px;
+  border-radius: 5px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.gr-revs {
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.jsx-1570720278.eagr-reviews-skeleton-container > div:last-child {
+    display: none;
+}
 
 @media (max-width: 990px) {
 	body {
@@ -291,6 +308,7 @@ position: relative;
     bottom: 0px;
     padding: 20px;
 }
+
 
 }
 
