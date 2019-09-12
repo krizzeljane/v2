@@ -132,7 +132,7 @@
 
 				<p class="tw"> <a href="https://twitter.com/CARWAVEAuctions" target="_blank"><i class="fab fa-twitter-square"></i></a></p>
 
-				<p class="yt"><a href="https://www.youtube.com/channel/UCqMrhTjaeWu5xmk85Yed6cg" target="_blank"><i class="fab fa-youtube-square"></i> </a></p>
+				<p class="yt"><a href="https://www.youtube.com/channel/UCuSn1nS6Ys8VYk_1mFIoeBA" target="_blank"><i class="fab fa-youtube-square"></i> </a></p>
 			</div>			
 		</section>
 
