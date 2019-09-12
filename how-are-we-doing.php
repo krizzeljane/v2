@@ -61,19 +61,17 @@
 							<div class="col-md-12">
 								<script src="https://apps.elfsight.com/p/platform.js" defer></script>
 								<div class="elfsight-app-33189410-8b4d-4921-9b42-dc36d4d7ea7a"></div>
-								<br><br>
+								<br>
 							</div>
 						</div>
-
 					</div>
 				</div>
 			</div>
-			<br><br>
 		</section>
 
 
 		<section class="cw bg-primary-two" id="gr-revs">
-			<br><br>
+			<br><br><br><br><br><br><br><br>
 			<div class="container whycw">
 				<div class="row">
 					<div class="col-md-12">
@@ -85,7 +83,7 @@
 				</div>
 
 			</div>
-			<br><br><br><br><br><br><br>
+			<br><br><br>
 		</section>
 
 
