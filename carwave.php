@@ -54,7 +54,7 @@
 	</div>
 
 	<div class="why-btn">
-		<a href="how-are-we-doing.php" target="_blank" class="btn btn-default btn-lg"> HOW ARE WE DOING?</a>
+		<a href="how-are-we-doing.php" target="_blank" class="btn btn-default btn-lg"> How Are We Doing?</a>
 	</div>
 
 </div>

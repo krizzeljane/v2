@@ -16,7 +16,7 @@
 <body class="bg-white">
 
 
-	<section class="cw section-1 text-center bg-primary-one">
+	<section class="cw section-1 text-center bg-primary-one" style="background-image:'images/curly-bg.svg';">
 		<img src="images/CARWAVE-logo-w.png" style="max-width: 400px; margin: 0 auto;" class="img-responsive">
 
 		<p class="form bg-primary-four">Formerly <img src="images/df-icon.png" style="width: 30px; margin-left: 10px;"> The Dealers' Forum & MyFreshTrades.com</p>
