@@ -17,7 +17,8 @@ body.cw {
 }
 
 .hwd-banner {
-  margin-bottom: -90px;
+  padding-bottom: 40px;
+ /* margin-bottom: -90px;*/
   /*background-image: url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIwIDM0MyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM2MjVkOGI7fS5jbHMtMntmaWxsOm5vbmU7c3Ryb2tlOiNiZmJmYmY7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5jdXJseS1iZzI8L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEsMjQyUzIyMSw4Miw1MzIsODJjMzgwLDAsNTc1LDE0OSw4MjksMTQ5LDI5NSwwLDU2MC0xMDAsNTYwLTEwMFYzNDNIMFoiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0wLDI4MVMzNzguNSw5Ny41LDY4OS41LDk3LjVjMzgwLDAsNTY2LDE2NSw4MjAsMTY1LDI5NSwwLDQxMC41LTkxLjExLDQxMC41LTkxLjExIi8+PC9zdmc+);
   background-position: 100% 101%;
   background-repeat: no-repeat;

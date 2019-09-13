@@ -71,7 +71,7 @@
 
 
 		<section class="cw bg-primary-two" id="gr-revs">
-			<br><br><br><br><br><br><br><br>
+			<br><br><br>
 			<div class="container whycw">
 				<div class="row">
 					<div class="col-md-12">
