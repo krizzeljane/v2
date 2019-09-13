@@ -103,7 +103,7 @@
 								<br><br>
 								<h4 class="text-white">ARE YOU A</h4>
 								<h3 class="text-white">FRANCHISE DEALER?</h3>
-								<a href="http://thedealersforum.carwave.com/" target="_blank" class="btn btn-lg btn-default">Log in here</a>
+								<a href="http://thedealersforum.carwave.com/" target="_blank" class="btn btn-yellow">Log in here</a>
 								<br><br><br><br>
 							</div>
 						</div>
@@ -114,7 +114,7 @@
 								<br><br>
 								<h4>ARE YOU AN</h4>
 								<h3 class="text-primary-one">INDEPENDENT DEALER?</h3>
-								<a href="http://myfreshtrades.carwave.com" target="_blank" class="btn btn-lg btn-default">Log in here</a>
+								<a href="http://myfreshtrades.carwave.com" target="_blank" class="btn btn-yellow">Log in here</a>
 								<br><br><br><br>
 							</div>
 						</div>
