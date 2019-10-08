@@ -29,11 +29,11 @@
 	text-align: right;
 }*/
 
-.table-con-header .table tr:hover td{
+/*.table-con-header .table tr:hover td{
 	background-color: #cbe3f121;
 	transition: 0.3s;
 	cursor: default;
-}
+}*/
 
 .table-icon {
 	height: 50px;
@@ -119,6 +119,7 @@ tfoot {
 
 	.table-con-header .table tr td {
 		vertical-align: top;
+		min-width: 70px !important;
 	}
 
 }

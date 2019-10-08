@@ -19,13 +19,13 @@
 <body class="bg-white no-margin">
 
 
-	<section class="cw section-1 text-left bg-primary-one">
+	<section class="cw cw-header section-1 text-left bg-primary-one">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-6 text-left">
-					<img src="images/CARWAVE-logo-w.png" style="max-width: 250px;" class="img-responsive">
+					<img src="images/cw-logo-w.png" class="img-responsive">
 				</div>
-				<div class="col-xs-6 text-right"><br>
+				<div class="col-xs-6 text-right">
 					<a href="carwave.php" class="btn btn-lg btn-default margin-top-lg">Log In</a>
 				</div>
 			</div>

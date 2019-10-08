@@ -127,13 +127,13 @@
 									<i class="far fa-envelope"></i> Offers &nbsp;&nbsp;
 								</a> 
 								<div class="v-row-actions-right">
-									<a class="btn-link-default " href="javascript:;" data-toggle="modal" data-target="#rating-s"><i data-toggle="tooltip" data-placement="left" title="Ratethistransaction" class="far fa-star"></i></a>
+									<!-- <a class="btn-link-default " href="javascript:;" data-toggle="modal" data-target="#rating-s"><i data-toggle="tooltip" data-placement="left" title="Ratethistransaction" class="far fa-star"></i></a>
 									<a class="btn-link-default" href="javascript:;" data-toggle="tooltip" data-placement="left" title="Addaprivatenote">
 										<i class="far fa-sticky-note"></i>
 									</a>
 									<a class="btn-link-default" href="javascript:;" data-toggle="tooltip" data-placement="left" title="Editpaymentanddealership">
 										<i class="fa fa-pencil-alt"></i>
-									</a>
+									</a> -->
 								</div>
 							</div>
 						</div>

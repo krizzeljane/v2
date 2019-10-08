@@ -35,6 +35,7 @@
   <link href="css/fixedTable.css" rel="stylesheet">
   <link href="css/home.css" rel="stylesheet">
   <link href="css/animate.css" rel="stylesheet">
+  <link href="css/vidback.css" rel="stylesheet">
   <link href="css/hover.css" rel="stylesheet">
   <link href="css/buybid.css" rel="stylesheet">
   <link href="css/ourteam.css" rel="stylesheet">
