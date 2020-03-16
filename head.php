@@ -48,6 +48,9 @@
   <link rel="stylesheet" href="css/404.css" type="text/css" rel="" />
   <link rel="stylesheet" href="css/getting-started.css" type="text/css" rel="" />
 
+
+  <link href="home/css/style3.css" rel="stylesheet" type="text/css" media="all" />
+
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -103,6 +106,10 @@
 <!--[if IE]>
   <link rel="stylesheet" type="text/css" href="css/all-ie-only.css" />
 <![endif]-->
+
+<!-- Start of saperium Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5135ebac-7055-4b09-b7a7-d7781a18eef8"> </script>
+<!-- End of saperium Zendesk Widget script -->
 </head>
 <body class="">
 

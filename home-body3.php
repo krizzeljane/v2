@@ -47,14 +47,6 @@
 					</h1>
 				</div>
 			</div>
-			<!-- <div class="item slide-4" style="background-image:url(images/slider-11.jpg)">
-				<div class="container">
-					<h1 class="slider-texts slider-text-1">
-						<span class="text-yellow">NO</span> BUY FEES<br>
-						<span class="text-yellow">NO</span> SELL FEES
-					</h1>
-				</div>
-			</div>  --> 
 		</div>
 	</div>
 </div>
@@ -308,7 +300,7 @@
 					</div>
 				</div>
 				<div class="col-md-7">
-					<iframe id="video-placeholder" width="100%" height="470" src="https://www.youtube.com/embed/8wDCtkkZ8xU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe id="video-placeholder" width="100%" height="470" src="https://www.youtube.com/embed/8wDCtkkZ8xU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 
 			</div>

@@ -25,7 +25,7 @@
 					<p class="card-title loading"><!-- LOADING TEXT --></p>
 				<!-- <h5><span>FWD 4-Cyl, 2.0 Liter</span> <span>16,865 miles</span> <span>Silver/Gray</span> <span>3KPFL4A70JE165060</span> <span>12,896 miles</span></h5> -->
 			</div>
-			<div class="col-md-6 text-right">
+			<div class="col-md-6 text-right"> 
 
 				<!-- <div class="row">
 					<div class="col-xs-6 no-padding-right text-right">
