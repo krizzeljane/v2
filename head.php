@@ -2,7 +2,7 @@
 
 <html lang="en">
 <head>
-  <base href="/" />
+  <base href="/v2/" />
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -108,7 +108,7 @@
 <![endif]-->
 
 <!-- Start of saperium Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5135ebac-7055-4b09-b7a7-d7781a18eef8"> </script>
+<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=5135ebac-7055-4b09-b7a7-d7781a18eef8"> </script> -->
 <!-- End of saperium Zendesk Widget script -->
 </head>
 <body class="">
