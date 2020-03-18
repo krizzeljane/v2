@@ -142,7 +142,30 @@
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5729803.js"></script>
   <!-- End of HubSpot Embed Code -->
   <!-- <script defer src="//www.iorad.com/widgets/live/37161"></script> -->
-<script type="text/javascript">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"eb5c110e325297597ce4111e916031ac65f3dd4aef1a7252ff7ca376980858bd", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");</script>
+
+<script type='text/javascript'>
+    //All settings are optional. Remove them to use the defaults
+    var hdWidget = {
+        text: "Contact us", //text on the widget tab
+        position: "right", //You can use "right" or "left" to position the widget
+        bgColor: "#4c5b6b", //background color
+        fgColor: "#ffffff", //text color
+        borderColor: "#fff", //color of the border around the widget
+        categoryId: 0, //pre-selected category in the widget. Get the ID from the admin panel
+        autoShow: 0 //auto show the widget after X seconds. "0" to disable auto showing
+    };
+    
+    //you can also open or close the widget programmatically
+    //by calling _hdWidget.toggleWidget() anywhere in your code
+</script>
+<!-- <script type='text/javascript' src='https://ppg.jitbit.com/helpdesk/js/support-widget-light.js'></script> -->
+
+  <script type="text/javascript">
+(function(d, src, c) { var t=d.scripts[d.scripts.length - 1],s=d.createElement('script');s.id='la_x2s6df8d';s.async=true;s.src=src;s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs&&(rs!='complete')&&(rs!='loaded')){return;}c(this);};t.parentElement.insertBefore(s,t.nextSibling);})(document,
+'https://ppg.ladesk.com/scripts/track.js',
+function(e){ LiveAgent.createButton('ih26beod', e); });
+</script>
+<!-- <script type="text/javascript">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"eb5c110e325297597ce4111e916031ac65f3dd4aef1a7252ff7ca376980858bd", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");</script> -->
 </body>
 </html>
 
