@@ -11,7 +11,7 @@
 #sidebar-wrapper {
   min-height: 100vh;
   /*margin-left: -15rem;*/
-  margin-left: -280px;
+  margin-left: -270px;
   -webkit-transition: margin .25s ease-out;
   -moz-transition: margin .25s ease-out;
   -o-transition: margin .25s ease-out;
@@ -25,7 +25,7 @@
 
 #sidebar-wrapper .list-group {
   /*width: 15rem;*/
-  width: 280px;
+  width: 270px;
 }
 
 #page-content-wrapper {
@@ -52,6 +52,6 @@
   }
 
   #wrapper.toggled #sidebar-wrapper {
-    margin-left: -280px;
+    margin-left: -270px;
   }
 }
